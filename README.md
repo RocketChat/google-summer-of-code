@@ -1,7 +1,11 @@
 # Google Summer of Code
 
-Welcome to Rocket.Chat and thank you for your interest in contributing through the[ Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) program. We're excited to have you join our community of contributors.
+[![Google Summer of Code 2017](https://github.com/Sing-Li/bbug/raw/master/images/gsoclogo.jpg)](https://developers.google.com/open-source/gsoc/)
 
-Rocket.Chat is built on modern technologies like Node.js, MongoDB, and React and is designed to be customizable, scalable, and integrable with other solutions. We're proud to have a growing community of users and contributors helping us improve the product and create new features.
+Rocket.Chat is proud to be a mentoring organization in the [ Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/) (GSoC) program for the past seven years. We are excited to have you join our community of contributors.
 
-As a GSoC contributor to Rocket.Chat, you'll have the opportunity to work on a specified project or feature with guidance and support from mentor(s). You'll also collaborate with other developers and contributors and learn new skills and technologies.
+As a Rocke.Chat community contributor, you will have an opportunity to work on exciting projects, fixes, or features of your own choosing with expert guidance and support from our team of ethusiastic community mentor(s). You'll also be networking with global open source developers and contributors and possibly learn new skills and technologies.
+
+Any accepted Rocket.Chat contribution can benefit millions of open source Rocket.Chat users immediately;  while your work and interactions remains on permenant proud display for thousands of global organizations.
+
+Welcome to the Rocket.Chat community, one of the friendliest open source communities in the world. 
