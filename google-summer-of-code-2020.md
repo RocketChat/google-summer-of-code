@@ -338,7 +338,3 @@ Interested students are also encouraged to interact with our contributor communi
 * **Mentors**: @djorkaeff.alexandre @diego.mello
 * **Description**: Create build of our 4 apps on GitHubCI, 2 Android Apps and 2 iOS Apps (Official and Experimental).
 * **Desirable Skills**: Familiarity with React Native, FastLane, Android & iOS build apps.
-
-## Timeline
-
-{% embed url="https://developers.google.com/open-source/gsoc/timeline" %}
