@@ -299,7 +299,3 @@ The leaderboard project **itself** is open source, created and maintained by our
 * **Mentors**: TBD
 * **Description**: Add deep integration with open source word processing, spreadsheet, presentation, email and content management suite(s). Create a full chat-centric office team collaboration environment.
 * **Desirable Skills**: Familiarity with development and extension/integration points for existing open source office suites. Ability to code and script in multiple programming languages. Preference to work with a team.
-
-## Timeline
-
-{% embed url="https://developers.google.com/open-source/gsoc/timeline" %}
