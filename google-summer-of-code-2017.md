@@ -176,6 +176,4 @@ We continue to be extremely optimistic going into the critical mid-term evaluati
 * **Desirable Skills:** Familiarity with Linux, and bash scripting.
 * **Goal/Deliverable:** A snap that can be used in a multi-instance HA setup.
 
-## Timeline
 
-{% embed url="https://developers.google.com/open-source/gsoc/timeline" %}
