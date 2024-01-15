@@ -14,14 +14,14 @@ If you are looking for specific information for a particular Google Summer of Co
 
 | GSoC Season  |  Information |
 |-------|--------------|
-| 2024 | [Google Summer of Code 2024](https://github.com/Sing-Li/google-summer-of-code/blob/main/google-summer-of-code-2017.md) |
-| 2023|  [Google Summer of Code 2023](https://github.com/Sing-Li/google-summer-of-code/blob/main/google-summer-of-code-2023.md) |
-| 2022|  [Google Summer of Code 2022](https://github.com/Sing-Li/google-summer-of-code/blob/main/google-summer-of-code-2022.md) |
-| 2021|  [Google Summer of Code 2021](https://github.com/Sing-Li/google-summer-of-code/blob/main/google-summer-of-code-2021.md) |
-| 2020|  [Google Summer of Code 2020](https://github.com/Sing-Li/google-summer-of-code/blob/main/google-summer-of-code-2020.md) |
-| 2019|  [Google Summer of Code 2019](https://github.com/Sing-Li/google-summer-of-code/blob/main/google-summer-of-code-2019.md) |
-| 2018|  [Google Summer of Code 2018](https://github.com/Sing-Li/google-summer-of-code/blob/main/google-summer-of-code-2018.md) |
-| 2017|  [Google Summer of Code 2027](https://github.com/Sing-Li/google-summer-of-code/blob/main/google-summer-of-code-2017.md) |
+| 2024 | [Google Summer of Code 2024](google-summer-of-code-2017.md) |
+| 2023|  [Google Summer of Code 2023](google-summer-of-code-2023.md) |
+| 2022|  [Google Summer of Code 2022](google-summer-of-code-2022.md) |
+| 2021|  [Google Summer of Code 2021](google-summer-of-code-2021.md) |
+| 2020|  [Google Summer of Code 2020](google-summer-of-code-2020.md) |
+| 2019|  [Google Summer of Code 2019](google-summer-of-code-2019.md) |
+| 2018|  [Google Summer of Code 2018](google-summer-of-code-2018.md) |
+| 2017|  [Google Summer of Code 2027](google-summer-of-code-2017.md) |
 
 
 
