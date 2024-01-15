@@ -4,17 +4,13 @@
 
 ## How to apply
 
-Application for Google Summer of Code 2024 is now closed. See [official Google Summer of Code site](https://summerofcode.withgoogle.com/).
+Rocket.Chat intends to apply to become a participating mentoring open source organization for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/) in late January, 2024, helping to usher in a new generation of open source contributors and enthusiasts.
 
-See official [accepted projects and contributors](https://summerofcode.withgoogle.com/programs/2023/organizations/rocketchat) for the list of projects this year.
+For timeline, see [Official Google Summer of Code 2024](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.
 
-For timeline, see [Official Google Summer of Code 2023](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.\
-\
-Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2023](https://summerofcode.withgoogle.com/). This marks the exciting 7th year of participation in this 18 years-old program to usher in a new generation of open source contributors and enthusiasts.
+Almost anyone in the world [over 18 years of age](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html)who loves coding and wants to explore the incredible world of open source can join us as a GSoC 2024 contributor.
 
-Almost anyone in the world [over 18 years of age](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html)who loves coding and wants to explore the incredible world of open source can join us as a GSoC 2023 contributor.
-
-For details and rules of Google Summer of Code 2023, please see the [GSoC 2023 Official Website](https://summerofcode.withgoogle.com/). For timeline, see [Official Google Summer of Code 2023 Timeline](https://developers.google.com/open-source/gsoc/timeline) for more details.
+For details and rules of Google Summer of Code 2024, please see the [GSoC 2024 Official Website](https://summerofcode.withgoogle.com/). For timeline, see [Official Google Summer of Code 2024 Timeline](https://developers.google.com/open-source/gsoc/timeline) for more details.
 
 #### **Contacting Rocket.Chat**
 
