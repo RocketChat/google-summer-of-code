@@ -14,20 +14,22 @@ For details and rules of Google Summer of Code 2024, please see the [GSoC 2024 O
 
 #### **Contacting Rocket.Chat**
 
-For general information, please visit our 24 x 7 community channel for Google Summer of Code 2023 : [https://open.rocket.chat/channel/gsoc2023](https://open.rocket.chat/channel/gsoc2023)
+For general information, please visit our 24 x 7 community channel for Google Summer of Code 2024 : [https://open.rocket.chat/channel/gsoc2024](https://open.rocket.chat/channel/gsoc2023)
 
-Join our [Google Summer of Code 2023 Team ](https://open.rocket.chat/channel/gsoc2023)today and interact with over **830 like-minded** contributors/mentors and meet the team in the[ 48 team channels](https://open.rocket.chat/channel/gsoc2023/team-channels).
+Join our [Google Summer of Code 2024 Team ](https://open.rocket.chat/channel/gsoc2023) today, introduce yourself to the friendly community, and interact with over **88 like-minded** contributors/mentors and meet the team in the [ 17 team channels](https://open.rocket.chat/channel/gsoc2024/team-channels).
 
 If you have ideas and proposals that are not on our idea list, or if a mentor is not available, you can also email to:
 
-gsoc+2023@rocket.chat
+gsoc+2024@rocket.chat
 
-Interested contributors are also encouraged to interact directly with our team and community on the team channels:\
-\
-[https://open.rocket.chat/channel/gsoc2023/team-channels](https://open.rocket.chat/channel/gsoc2023/team-channels)\
-\
-As well as on GitHub:\
-\
+But better yet, you can post your idea in the [New GSoC 2024 Ideas looking for mentors](https://open.rocket.chat/channel/New-GSoC-2024-Ideas-looking-for-mentors) channel and possibly getting some immdeiate community feedback or support for your idea.
+
+Interested contributors are also encouraged to interact directly with our team and community on the team channels:
+
+[https://open.rocket.chat/channel/gsoc2024/team-channels](https://open.rocket.chat/channel/gsoc2024/team-channels)
+
+As well as on GitHub:
+
 [https://github.com/RocketChat/Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
 
 Those who prefers forums can post messages on our GSoC forum channel (although as the leading open source team chat project we prefer you use Rocket.Chat channels above to reach us instantly).
