@@ -259,6 +259,3 @@ Some projects that you can submit proposals for include:
   * Ability to search for an event
 * **Desirable Skills:** Familiarity with JavaScript development required. Previous experience with NLP (Natural Language Processing) or AI (Artificial Intelligence) would be helpful.
 
-## Timeline
-
-{% embed url="https://developers.google.com/open-source/gsoc/timeline" %}
