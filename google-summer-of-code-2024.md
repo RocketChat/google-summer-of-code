@@ -42,30 +42,32 @@ Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), t
 
 ## Project Ideas
 
-This is the GSoC 2024 project ideas list for Rocket.Chat.  As we continue to engage community mentors for 2024, the project ideas are subject to rapid changes.   (currently placeholders ideas from GSoC 2023 season)
+This is the GSoC 2024 project ideas list for Rocket.Chat.  As we continue to engage community mentors for 2024, the project ideas are subject to rapid changes.  
 
-### Whiteboard Integration
+### Extended LLM Prompt Editor/Explorer
 
-**Mentor(s):** Shiqi Mei, Douglas Gubert
+**Mentor(s):** TBD
 
 **Description:**
 
-White boards and visual drawing/concepts sharing has become a stable of team collaboration. Rocket.Chat currently does not offer any whiteboarding feature. [Markboard ](https://github.com/markboard-io/markboard)is an open source incumbent whiteboard created upon the same technology stack as Rocket.Chat and built by a team led by a Rocket.Chat GSoC alumni. This project will create a Rocket.Chat App that integrates Markboard into Rocket.Chat and extends its team collaboration features through Rocket.Chat.
+A prompt editor is the quitessential development tool for any  AI/ML prompt engineers.   With ever-increasing number of Rocket.Chat users experimenting and developing with open source LLMs, it is important to have a great prompt editor at their disposal.  This project includes the creation of a fully featured prompt editor as a Rocket.Chat app.   This editor should enable free conversation, by any designated/configured Rocket.Chat user, to chat with any open source LLMs (Mistral,  Llama 2,  Phi, and so on), and the ability to save (and manage - delete etc)  all conversation histroy.   It should also enable a Rocket.Chat users to "share" the prompt(s) to external applications.   Initial implementation should be for the RC Web App (and Electron).  
 
-**Desired Skills:** Advanced Typescript. MeteorJS. Rocket.Chat Apps development.
+**Desired Skills:**  Rocket.Chat Apps development.  LLM prompt editor dev experience.
 
-**Goals/Deliverables:** Rocket.Chat App integrating Markboard into Rocket.Chat. The App should extend team collaboration capabilities of Markboard in conjunction with our Team Channels feature.
+**Goals/Deliverables:** Rocket.Chat App empowering users to converse freely with open source LLMs and save the conversations.  The app must allow management of these prompts by the user, including deletion, renaming, and sharing of the prompt content via the clipboard or into the chat stream as a message. 
 
-**Project Duration:** 350 hours. (Large)
+**Project Duration:** 175 hours (Medium)
 
-**Difficulty:** Advanced
+**Difficulty:** Easy/Medium
 
-### Guided RC Code Walkthrough and Tutorial
+### Graphical Guided RC Code Tours
 
 **Mentor(s):** Kevin Aleman
 
-**Description:**\
-Most Rocket.Chat developers uses VSCode when studying our massive production code base, and when writing new code. VSCode is the best environment for conducting interactive tutorial and code walkthroughs. The CodeTour extension available in VSCode can be used to create such walkthrough and tutorials. This project involves the development of a set of guided tutorials using CodeTour that will help new developers to understand how to perform multiple actions. Paths to be documented will go from this areas:
+**Description:**
+Most Rocket.Chat developers uses VSCode when studying our massive production code base, and when writing new code. VSCode is the best environment for conducting interactive tutorial and code walkthroughs. The CodeTour extension available in VSCode can be used to create such walkthrough and tutorials. This project involves the development of a set of guided tutorials using CodeTour that will help new developers to understand how to perform multiple actions. In 2024, we want to extend these tours to include graphical diagrams and flow charts.  
+
+Paths to be documented and graphically enhanced for 2024 include these areas:
 
 * How a message is sent
 * How to create an endpoint
@@ -82,41 +84,37 @@ We welcome any additional ideas you may have.
 
 **Goals/Deliverables:** A set of guided tours from the topics described above
 
-**Project Duration:** 175 hours. (Medium)
+**Project Duration:** 95 hours. (Short)
 
-**Difficulty:** Easy/Medium
+**Difficulty:** Easy
 
-### Flutter SDK for Rocket.Chat
+### AI Newsletter Generator and Publisher
 
-**Mentors:** Sing Li, Debdut Chakraborty
+**Mentors:** TBD
 
-**Description:**\
-In recent years, [Flutter ](https://flutter.dev/)has became the de-facto standard for high performance open source multi-platforms apps development. Thanks to its[ huge global developers community](https://flutter.dev/community) and the ever-growing ecosystem of [open source flutter components](https://pub.dev/packages).
-
-This project aims to create an easy to integrate flutter component to embed Rocket.Chat into any existing and new flutter applications (similar to our existing [EmbeddedChat](https://github.com/RocketChat/EmbeddedChat) project). In addition, a layer of Dart friendly API/stub needs to be created for application that needs in-depth modification of chat behavior or needing to use the chat engine as a messaging fabric.\
-\
-We invite and welcome original proposals at varying level.
+**Description:**
+This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to help generate newsletters for special interest groups and/or teams operating on a Rocket.Chat server.   The newsletter author should be able to supply raw content to the AI generator and have perfectly phrased and formatted newsletter generated.   The app should allow for the immediate or scheduled publication of the resulting newsletter to either a team, subset of the server's user, or all of the server's users.  The app should also allow for emailing those who prefers to receive the newsletter via email.   Ideally the app should maintain a list of dynamically chaning newsletter subscribers.
 
 **Desired Skills:**
-
-Flutter, Flutter components construction, Dart, JavaScript. A thorough understanding of how Rocket.Chat core works. Knowledge of Flutter multi-platform development (Android, iOS, Linux, Windows and MacOS).
+Rocket.Chat App development. LLM prompt design/engineering.
 
 **Goals/Deliverables:**\
-An SDK that enable easy embedding of RC instances into any flutter app plus Dart APIs to access RC collaboration engine internals.
+A working Rocket.Chat App that can generate newsletter for a user group or team.  
 
-**Project Duration:** 350 hours (Large)\
-\
-**Difficulty:** Advanced
+**Project Duration:** 95 hours (Short)
 
-### Mobile App Share Extension Update
+**Difficulty:** Easy
 
-**Mentors:** Daniel Silva\
-\
-**Description:**\
-Rewrite our [current mobile apps share extension](https://github.com/RocketChat/rn-extensions-share) in Swift for iOS and Kotlin for Android, making sure that it supports the latest [ReactNative Fabric](https://github.com/react-native-community/discussions-and-proposals/issues/4) architecture.\
-\
-**Desirable Skill:** Advanced ReactNative. Good knowledge of native iOS and Android development. Passion for creating great mobile experiences.
+### AI Assistant to help with understanding Rocket.Chat core codebase
+**Mentors:** TBD
+
+**Description:**
+The code base of Rocket.Chat is known to be unwieldy and large, and typically takes a skilled developer months to become familiar with.    The purpose of this project is to create a Rocket.Chat app that offers an AI assisstant chatbot that can help with the understanding and learning of the Rocket.Chat code base.   This bot should be slash command or GUI accessible and be able to answer structural or logical question about Rocket.Chat's code and how certain workflows are performed within the codebase.  Ideally it should also extract and reference the associated soruce code lines during its operation.   It is suggested that a Retrieval Augmented Generation pipeline be used to populate a vector database with indexed chunks of the Rocket.Chat code base;  generation should leverage open source LLMs  (Mistral, Llama2, CodeLlama, WizardCode, Phi and so on).  Research and experimentation with chunking strategy, vector search algorithms, and other RAG variables is expected.  
+
+**Desired Skills:**  Rocket.Chat App development. LLM prompt design/engineering.  RAG pipeline design and development.
+
+**Goals/Deliverables:** A AI assistant chatbot that any Rocket.Chat users can turn to when studying and trying to understand Rocket.Chat's huge codebase.
 
 **Project Duration:** 175 hours (Medium)
 
-**Difficulty:** Advanced
+**Difficulty:** Easy/Medium
