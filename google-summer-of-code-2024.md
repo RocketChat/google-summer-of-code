@@ -218,7 +218,7 @@ A Rocket.Chat App that can turn any boring old-school text messages into sensiti
 **Difficulty:** Easy
 
 
-### AI Bi-directional Translator for Language, Culture and Sentiments
+### AI Bi-directional Translator for Languages, Cultures and Sentiments
 Create a Rocket.Chat app that will translate messages within a DM channel between two parties communicating in two different languages.  The app should demostrate not only translation of language, but also account for cultural differences and differences in sentiments.   The app must leverage modern open source LLMs (Mistral, Llama2, Phi, and so on) in generating the translations. 
 
 **Desired Skills:**
@@ -226,6 +226,20 @@ Rocket.Chat App development. LLM prompt design/engineering.
 
 **Goals/Deliverables:**
 A Rocket.Chat App that acts as a personal translator for cross-language and cross-cultural communications. 
+
+**Project Duration:** 95 hours (Short)
+
+**Difficulty:** Easy
+
+
+### AI in-channel GIF Image Generator 
+A slash command triggered Rocket.Chat app that will generate a small GIF image.   The image generation should be controlled via a descriptive prompt issued by the user.  The image can be inserted in-place within the chat or sent to the system clipboard.  The app must leverage modern open source diffusion model such as Stable Diffusion in generating the image. 
+
+**Desired Skills:**
+Rocket.Chat App development. Diffusion models prompting.   Artistic inclinations. 
+
+**Goals/Deliverables:**
+A Rocket.Chat App that can generate abitrary GIF images within a message, based on a descriptive prompt. 
 
 **Project Duration:** 95 hours (Short)
 
