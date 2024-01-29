@@ -107,7 +107,7 @@ A working Rocket.Chat App that can generate newsletter for a user group or team.
 **Difficulty:** Easy
 
 ### AI Assistant to help with understanding Rocket.Chat core codebase
-**Mentors:** TBD
+**Mentors:** Vinayak Sharma 
 
 **Description:**
 The code base of Rocket.Chat is known to be unwieldy and large, and typically takes a skilled developer months to become familiar with.    The purpose of this project is to create a Rocket.Chat app that offers an AI assisstant chatbot that can help with the understanding and learning of the Rocket.Chat code base.   This bot should be slash command or GUI accessible and be able to answer structural or logical question about Rocket.Chat's code and how certain workflows are performed within the codebase.  Ideally it should also extract and reference the associated soruce code lines during its operation.   It is suggested that a Retrieval Augmented Generation pipeline be used to populate a vector database with indexed chunks of the Rocket.Chat code base;  generation should leverage open source LLMs  (Mistral, Llama2, CodeLlama, WizardCode, Phi and so on).  Research and experimentation with chunking strategy, vector search algorithms, and other RAG variables is expected.  
