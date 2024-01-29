@@ -119,7 +119,7 @@ The code base of Rocket.Chat is known to be unwieldy and large, and typically ta
 
 **Difficulty:** Easy/Medium
 
-### AI Chat Thread Summarizer
+### AI Chat Conversation Thread Summarizer
 
 **Mentors:** TBD
 
