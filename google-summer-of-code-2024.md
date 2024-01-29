@@ -202,4 +202,17 @@ A working  Rocket.Chat App that can act as a programming assistant to any develo
 
 **Difficulty:** Easy
 
+### AI In-message Emoji generator / embellisher
 
+**Description:**
+Create a Rocket.Chat app that will add emoji to an old-school plain text message.  The app should leverage modern open source LLMs (Mistral, Llama2, Phi, and so on) to inject the emojis.   User should be able to adjust the level of embellishment, and should be able to ask for a re-do if needed.  User should be able to make some small edits after emjois are added.  The finally accepted message should be available to be injected into the current channel, shared to external application, or copied to system clipboard.
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**
+A Rocket.Chat App that can turn any boring old-school text messages into sensitive modern emojified masterpieces. 
+
+**Project Duration:** 95 hours (Short)
+
+**Difficulty:** Easy
