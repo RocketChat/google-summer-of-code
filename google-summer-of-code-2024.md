@@ -152,3 +152,20 @@ A working Rocket.Chat App that will generate code documentation via AI assistanc
 **Project Duration:** 95 hours (Short)
 
 **Difficulty:** Easy
+
+
+### AI Query Bot: a configurable Retrieval Augmented Genertaion pipleline executor 
+**Mentors:** TBD
+
+**Description:**
+Create a Rocket.Chat app that answers queries by executing a configurable RAG pipeline.   The RAG pipeline should be configurable via the App's setting - controlling aspects such a embedding/tokenizer engine,  vector database search algorithms, re-ranking strategy,  open source LLM used for generation (Mistral, Llama,  Phi and so on); as well as any prompt used in the pipeline.  The code should have at least two concrete config/examples within two non-trivial problem domains  (feel free to use available public open source data collections).
+
+**Desired Skills:**  Rocket.Chat App development. LLM prompt design/engineering.  RAG pipeline design and development.
+
+**Goals/Deliverables:** A flexible AI query bot for any problem domain that operates based on a pre-configured RAG pipeline.
+
+**Project Duration:** 175 hours (Medium)
+
+**Difficulty:** Easy/Medium
+
+
