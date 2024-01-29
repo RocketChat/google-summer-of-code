@@ -216,3 +216,17 @@ A Rocket.Chat App that can turn any boring old-school text messages into sensiti
 **Project Duration:** 95 hours (Short)
 
 **Difficulty:** Easy
+
+
+### AI Bi-directional Translator for Language, Culture and Sentiments
+Create a Rocket.Chat app that will translate messages within a DM channel between two parties communicating in two different languages.  The app should demostrate not only translation of language, but also account for cultural differences and differences in sentiments.   The app must leverage modern open source LLMs (Mistral, Llama2, Phi, and so on) in generating the translations. 
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**
+A Rocket.Chat App that acts as a personal translator for cross-language and cross-cultural communications. 
+
+**Project Duration:** 95 hours (Short)
+
+**Difficulty:** Easy
