@@ -47,7 +47,7 @@ This is the GSoC 2024 project ideas list for Rocket.Chat.  As we continue to eng
 
 ### Extended LLM Prompt Editor/Explorer
 
-**Mentor(s):** TBD
+**Mentor(s):** Shubham Bhardwaj
 
 **Description:**
 
