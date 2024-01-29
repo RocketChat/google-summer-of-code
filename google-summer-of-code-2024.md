@@ -169,4 +169,37 @@ Create a Rocket.Chat app that answers queries by executing a configurable RAG pi
 
 **Difficulty:** Easy/Medium
 
+### AI Code Reviewer and Bug Finder 
+
+**Mentors:** TBD
+
+**Description:**
+Create a Rocket.Chat app that will review C/C++, Java, Javascript, or Python code.   The app should also help to find possible bugs in the supplied code.   Code can be specified via highlighted chat message,   pasted into the app's input area, or referenced via a Github/Gitlab URL. The app should leverage modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to perform its tasks.     
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**
+A working AI Rocket.Chat App that will review code and find bug in code.
+
+**Project Duration:** 95 hours (Short)
+
+**Difficulty:** Easy
+
+
+### AI C/C++, Java, Javascript, Typescript, Python Programmer
+
+**Description:**
+Create a Rocket.Chat app that will write short code modules in C/C++, Java, Javascript, Typescript or Python based on specification supplied by the user.   The app should leverage modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to write the code.   The user must be able to quickly reject and ask for a new variation of the code if desired;  the user should also be able to augment/fine-tune the system prompt for more precise code generation (designing an intuitive Ux here can be tricky). Minor editing of generated code should be allowed and easy to make. Finally accepted generated code should be available to be injected into the current channel as a syntax highlighted message, shared to external application, or added to Github (with the associated credentials configured) as a pull request.
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**
+A working  Rocket.Chat App that can act as a programming assistant to any developer user of Rocket.Chat.   
+
+**Project Duration:** 95 hours (Short)
+
+**Difficulty:** Easy
+
 
