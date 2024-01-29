@@ -63,7 +63,7 @@ A prompt editor is the quitessential development tool for any  AI/ML prompt engi
 
 ### Graphical Guided RC Code Tours
 
-**Mentor(s):** Kevin Aleman
+**Mentor(s):** Aditya Singh, Kevin Aleman
 
 **Description:**
 Most Rocket.Chat developers uses VSCode when studying our massive production code base, and when writing new code. VSCode is the best environment for conducting interactive tutorial and code walkthroughs. The CodeTour extension available in VSCode can be used to create such walkthrough and tutorials. This project involves the development of a set of guided tutorials using CodeTour that will help new developers to understand how to perform multiple actions. In 2024, we want to extend these tours to include graphical diagrams and flow charts.  
