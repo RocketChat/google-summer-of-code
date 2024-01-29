@@ -36,9 +36,10 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
-Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community: **63 new contributors creating 42 Merged PRs, 65 Open PRs, and 118 Issues** as of January 28, 2024;  **45 new contributors with 24 Merged PRs, 50 Open PRs, and 75 Issues** as of January 15, 2024!
+Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community: **63 new contributors creating 42 Merged PRs, 65 Open PRs, and 118 Issues** as of January 28, 2024!  
 
-***
+Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community: **45 new contributors with 24 Merged PRs, 50 Open PRs, and 75 Issues** as of January 15, 2024!
+
 
 ## Project Ideas
 
