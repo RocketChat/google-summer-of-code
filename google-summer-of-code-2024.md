@@ -22,7 +22,7 @@ If you have ideas and proposals that are not on our idea list, or if a mentor is
 
 gsoc+2024@rocket.chat
 
-But better yet, you can post your idea in the [New GSoC 2024 Ideas looking for mentors](https://open.rocket.chat/channel/New-GSoC-2024-Ideas-looking-for-mentors) channel and possibly getting some immdeiate community feedback or support for your idea.
+But better yet, you can post your idea in the [New GSoC 2024 Ideas looking for mentors](https://open.rocket.chat/channel/New-GSoC-2024-Ideas-looking-for-mentors) channel and possibly getting some immediate community feedback or support for your idea.
 
 Interested contributors are also encouraged to interact directly with our team and community on the team channels:
 
@@ -51,7 +51,7 @@ This is the GSoC 2024 project ideas list for Rocket.Chat.  As we continue to eng
 
 **Description:**
 
-A prompt editor is the quitessential development tool for any  AI/ML prompt engineers.   With ever-increasing number of Rocket.Chat users experimenting and developing with open source LLMs, it is important to have a great prompt editor at their disposal.  This project includes the creation of a fully featured prompt editor as a Rocket.Chat app.   This editor should enable free conversation, by any designated/configured Rocket.Chat user, to chat with any open source LLMs (Mistral,  Llama 2,  Phi, and so on), and the ability to save (and manage - delete etc)  all conversation histroy.   It should also enable a Rocket.Chat users to "share" the prompt(s) to external applications.   Initial implementation should be for the RC Web App (and Electron).  
+A prompt editor is the quite essential development tool for any  AI/ML prompt engineers.   With ever-increasing number of Rocket.Chat users experimenting and developing with open source LLMs, it is important to have a great prompt editor at their disposal.  This project includes the creation of a fully featured prompt editor as a Rocket.Chat app.   This editor should enable free conversation, by any designated/configured Rocket.Chat user, to chat with any open source LLMs (Mistral,  Llama 2,  Phi, and so on), and the ability to save (and manage - delete etc)  all conversation history.   It should also enable a Rocket.Chat users to "share" the prompt(s) to external applications.   Initial implementation should be for the RC Web App (and Electron).  
 
 **Desired Skills:**  Rocket.Chat Apps development.  LLM prompt editor dev experience.
 
@@ -110,7 +110,7 @@ A working Rocket.Chat App that can generate newsletter for a user group or team.
 **Mentors:** Vinayak Sharma 
 
 **Description:**
-The code base of Rocket.Chat is known to be unwieldy and large, and typically takes a skilled developer months to become familiar with.    The purpose of this project is to create a Rocket.Chat app that offers an AI assisstant chatbot that can help with the understanding and learning of the Rocket.Chat code base.   This bot should be slash command or GUI accessible and be able to answer structural or logical question about Rocket.Chat's code and how certain workflows are performed within the codebase.  Ideally it should also extract and reference the associated soruce code lines during its operation.   It is suggested that a Retrieval Augmented Generation pipeline be used to populate a vector database with indexed chunks of the Rocket.Chat code base;  generation should leverage open source LLMs  (Mistral, Llama2, CodeLlama, WizardCode, Phi and so on).  Research and experimentation with chunking strategy, vector search algorithms, and other RAG variables is expected.  
+The code base of Rocket.Chat is known to be unwieldy and large, and typically takes a skilled developer months to become familiar with.    The purpose of this project is to create a Rocket.Chat app that offers an AI assisstant chatbot that can help with the understanding and learning of the Rocket.Chat code base.   This bot should be slash command or GUI accessible and be able to answer structural or logical question about Rocket.Chat's code and how certain workflows are performed within the codebase.  Ideally it should also extract and reference the associated source code lines during its operation.   It is suggested that a Retrieval Augmented Generation pipeline be used to populate a vector database with indexed chunks of the Rocket.Chat code base;  generation should leverage open source LLMs  (Mistral, Llama2, CodeLlama, WizardCode, Phi and so on).  Research and experimentation with chunking strategy, vector search algorithms, and other RAG variables is expected.  
 
 **Desired Skills:**  Rocket.Chat App development. LLM prompt design/engineering.  RAG pipeline design and development.
 
@@ -125,7 +125,7 @@ The code base of Rocket.Chat is known to be unwieldy and large, and typically ta
 **Mentors:** TBD
 
 **Description:**
-This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to summarize a conversation within a Rocket.Chat conversation thread.  This summary should appear as either a private message to the invoking user, or become an in-line comment togther with the discussion thread itself. 
+This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to summarize a conversation within a Rocket.Chat conversation thread.  This summary should appear as either a private message to the invoking user, or become an in-line comment together with the discussion thread itself. 
 
 **Desired Skills:**
 Rocket.Chat App development. LLM prompt design/engineering.
@@ -142,7 +142,7 @@ A working Rocket.Chat App that can summarize any conversation threads.
 **Mentors:** TBD
 
 **Description:**
-Create an app that will generate documentation for a body of Javascript, Typescript, Python, Java or C/C++ code  (given a github/gitlab URL to the code).   The  app should use modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to generate this documentation.     This documenation should appear as either a private message to the invoking user, as an in-line message for the current channel,  or become available to be shared with external applications. 
+Create an app that will generate documentation for a body of Javascript, Typescript, Python, Java or C/C++ code  (given a github/gitlab URL to the code).   The  app should use modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to generate this documentation.     This documentation should appear either as a private message to the invoking user, as an in-line message for the current channel,  or become available to be shared with external applications. 
 
 **Desired Skills:**
 Rocket.Chat App development. LLM prompt design/engineering.
@@ -155,7 +155,7 @@ A working Rocket.Chat App that will generate code documentation via AI assistanc
 **Difficulty:** Easy
 
 
-### AI Query Bot: a configurable Retrieval Augmented Genertaion pipleline executor 
+### AI Query Bot: a configurable Retrieval Augmented Generation pipleline executor 
 **Mentors:** TBD
 
 **Description:**
@@ -239,7 +239,7 @@ A slash command triggered Rocket.Chat app that will generate a small GIF image. 
 Rocket.Chat App development. Diffusion models prompting.   Artistic inclinations. 
 
 **Goals/Deliverables:**
-A Rocket.Chat App that can generate abitrary GIF images within a message, based on a descriptive prompt. 
+A Rocket.Chat App that can generate arbitrary GIF images within a message, based on a descriptive prompt. 
 
 **Project Duration:** 95 hours (Short)
 
