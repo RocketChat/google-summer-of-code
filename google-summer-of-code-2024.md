@@ -219,6 +219,9 @@ A Rocket.Chat App that can turn any boring old-school text messages into sensiti
 
 
 ### AI Bi-directional Translator for Languages, Cultures and Sentiments
+
+**Mentors:** Devanshu Sharma (@Dnouv)
+
 Create a Rocket.Chat app that will translate messages within a DM channel between two parties communicating in two different languages.  The app should demostrate not only translation of language, but also account for cultural differences and differences in sentiments.   The app must leverage modern open source LLMs (Mistral, Llama2, Phi, and so on) in generating the translations. 
 
 **Desired Skills:**
