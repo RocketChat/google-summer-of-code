@@ -118,3 +118,37 @@ The code base of Rocket.Chat is known to be unwieldy and large, and typically ta
 **Project Duration:** 175 hours (Medium)
 
 **Difficulty:** Easy/Medium
+
+### AI Chat Thread Summarizer
+
+**Mentors:** TBD
+
+**Description:**
+This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to summarize a conversation within a Rocket.Chat conversation thread.  This summary should appear as either a private message to the invoking user, or become an in-line comment togther with the discussion thread itself. 
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**\
+A working Rocket.Chat App that can summarize any conversation threads. 
+
+**Project Duration:** 95 hours (Short)
+
+**Difficulty:** Easy
+
+### AI Documentation Generator for Code 
+
+**Mentors:** TBD
+
+**Description:**
+Create an app that will generate documentation for a body of Javascript, Typescript, Python, Java or C/C++ code  (given a github/gitlab URL to the code).   The  app should use modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to generate this documentation.     This documenation should appear as either a private message to the invoking user, as an in-line message for the current channel,  or become available to be shared with external applications. 
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**\
+A working Rocket.Chat App that will generate code documentation via AI assistance.
+
+**Project Duration:** 95 hours (Short)
+
+**Difficulty:** Easy
