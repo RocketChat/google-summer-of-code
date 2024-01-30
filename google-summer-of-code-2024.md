@@ -16,7 +16,7 @@ For details and rules of Google Summer of Code 2024, please see the [GSoC 2024 O
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2024 : [https://open.rocket.chat/channel/gsoc2024](https://open.rocket.chat/channel/gsoc2023)
 
-Join our [Google Summer of Code 2024 Team ](https://open.rocket.chat/channel/gsoc2023) today, introduce yourself to the friendly community, and interact with over **160 like-minded** contributors/mentors and meet the team in the [ 17 team channels](https://open.rocket.chat/channel/gsoc2024/team-channels).
+Join our [Google Summer of Code 2024 Team ](https://open.rocket.chat/channel/gsoc2023) today, introduce yourself to the friendly community, and interact with over **160 like-minded** contributors/mentors and meet the team in the [ 24 team channels](https://open.rocket.chat/channel/gsoc2024/team-channels).
 
 If you have ideas and proposals that are not on our idea list, or if a mentor is not available, you can also email to:
 
@@ -85,7 +85,7 @@ We welcome any additional ideas you may have.
 
 **Goals/Deliverables:** A set of guided tours from the topics described above
 
-**Project Duration:** 95 hours. (Short)
+**Project Duration:** 90 hours. (Small)
 
 **Difficulty:** Easy
 
@@ -102,7 +102,7 @@ Rocket.Chat App development. LLM prompt design/engineering.
 **Goals/Deliverables:**\
 A working Rocket.Chat App that can generate newsletter for a user group or team.  
 
-**Project Duration:** 95 hours (Short)
+**Project Duration:** 90 hours (Small)
 
 **Difficulty:** Easy
 
@@ -133,7 +133,7 @@ Rocket.Chat App development. LLM prompt design/engineering.
 **Goals/Deliverables:**\
 A working Rocket.Chat App that can summarize any conversation threads. 
 
-**Project Duration:** 95 hours (Short)
+**Project Duration:** 90 hours (Small)
 
 **Difficulty:** Easy
 
@@ -150,7 +150,7 @@ Rocket.Chat App development. LLM prompt design/engineering.
 **Goals/Deliverables:**\
 A working Rocket.Chat App that will generate code documentation via AI assistance.
 
-**Project Duration:** 95 hours (Short)
+**Project Duration:** 90 hours (Small)
 
 **Difficulty:** Easy
 
@@ -182,7 +182,7 @@ Rocket.Chat App development. LLM prompt design/engineering.
 **Goals/Deliverables:**
 Github App now leveraging LLMs to perform code review, bug finding, and PR summarization. 
 
-**Project Duration:** 95 hours (Short)
+**Project Duration:** 90 hours (Small)
 
 **Difficulty:** Easy
 
@@ -198,7 +198,7 @@ Rocket.Chat App development. LLM prompt design/engineering.
 **Goals/Deliverables:**
 A working  Rocket.Chat App that can act as a programming assistant to any developer user of Rocket.Chat.   
 
-**Project Duration:** 95 hours (Short)
+**Project Duration:** 90 hours (Small)
 
 **Difficulty:** Easy
 
@@ -213,7 +213,7 @@ Rocket.Chat App development. LLM prompt design/engineering.
 **Goals/Deliverables:**
 A Rocket.Chat App that can turn any boring old-school text messages into sensitive modern emojified masterpieces. 
 
-**Project Duration:** 95 hours (Short)
+**Project Duration:** 90 hours (Small)
 
 **Difficulty:** Easy
 
@@ -230,7 +230,7 @@ Rocket.Chat App development. LLM prompt design/engineering.
 **Goals/Deliverables:**
 A Rocket.Chat App that acts as a personal translator for cross-language and cross-cultural communications. 
 
-**Project Duration:** 95 hours (Short)
+**Project Duration:** 90 hours (Small)
 
 **Difficulty:** Easy
 
@@ -244,6 +244,6 @@ Rocket.Chat App development. Diffusion models prompting.   Artistic inclinations
 **Goals/Deliverables:**
 A Rocket.Chat App that can generate arbitrary GIF images within a message, based on a descriptive prompt. 
 
-**Project Duration:** 95 hours (Short)
+**Project Duration:** 90 hours (Small)
 
 **Difficulty:** Easy
