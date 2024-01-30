@@ -169,18 +169,18 @@ Create a Rocket.Chat app that answers queries by executing a configurable RAG pi
 
 **Difficulty:** Easy/Medium
 
-### AI Code Reviewer and Bug Finder 
+### Github App 2024:  Enhanced AI PR summarizer, code reviewer and bug finder 
 
-**Mentors:** TBD
+**Mentors:** Samad Khan
 
 **Description:**
-Create a Rocket.Chat app that will review C/C++, Java, Javascript, or Python code.   The app should also help to find possible bugs in the supplied code.   Code can be specified via highlighted chat message,   pasted into the app's input area, or referenced via a Github/Gitlab URL. The app should leverage modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to perform its tasks.     
+Bringing our [Github App](https://github.com/RocketChat/Apps.Github22) into the 2024 AI age, this project will add ability to provide a AI generated summary of PRs to the code reviewers whenever a link is shared for a PR.   The AI assistant should also help in reviewing C/C++, Java, Javascript, or Python code; in addition to help find possible bugs in the code involved.  The app should leverage modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to perform its tasks.     
 
 **Desired Skills:**
 Rocket.Chat App development. LLM prompt design/engineering.
 
 **Goals/Deliverables:**
-A working AI Rocket.Chat App that will review code and find bug in code.
+Github App now leveraging LLMs to perform code review, bug finding, and PR summarization. 
 
 **Project Duration:** 95 hours (Short)
 
