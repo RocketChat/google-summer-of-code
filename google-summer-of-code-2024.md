@@ -91,6 +91,57 @@ We welcome any additional ideas you may have.
 
 **Difficulty:** Easy
 
+### News Aggregation App
+
+**Mentors:** TBD
+
+**Description:**
+An app that collect news from top websites like TechCrunch, etc and sends its summary with a link to full content. The technical challenge would be to write different logic to collect news from different sources -> since some has API, some has RSS feed. These sources should be categorized and presented in a "newspaper" or "news feed" format.  News sources and categories should be completely configurable.
+
+**Desired Skills:**
+Rocket.Chat App development. 
+
+**Goals/Deliverables:**
+A Rocket.Chat App that can presents users with daily news feed gathered from all over the Internet. 
+
+**Project Duration:** 90 hours (Small)
+
+**Difficulty:** Easy
+
+### Embedded Chat 2024
+
+**Mentors:** TBD
+
+**Description:**
+Improvement to the [EmbeddedChat]() project this year include the creation of a rocket chat app to remotely configure the associated EmbeddedChat instance(s).  Other includes security improvements for authentication (one such is providing endpoints using the created EmbeddedChat app for RocketChat to support cookie-based authentication instead of storing the token in localStorage); bonus is to add different pre-built templates. improvements in UI kit rendering inside EmbeddedChat
+
+**Desired Skills:**
+Rocket.Chat App development. 
+
+**Goals/Deliverables:**
+Improved EmbeddedChat that can be configured on the associated Rocket.Chat instance.
+
+**Project Duration:** 90 hours (Small)
+
+**Difficulty:** Easy
+
+### News Aggregation App
+
+**Mentors:** TBD
+
+**Description:**
+An app that collect news from top websites like TechCrunch, etc and sends its summary with a link to full content. The technical challenge would be to write different logic to collect news from different sources -> since some has API, some has RSS feed. These sources should be categorized and presented in a "newspaper" or "news feed" format.  News sources and categories should be completely configurable.
+
+**Desired Skills:**
+Rocket.Chat App development. 
+
+**Goals/Deliverables:**
+A Rocket.Chat App that can presents users with daily news feed gathered from all over the Internet. 
+
+**Project Duration:** 90 hours (Small)
+
+**Difficulty:** Easy
+
 ### AI Newsletter Generator and Publisher
 
 **Mentors:** TBD
