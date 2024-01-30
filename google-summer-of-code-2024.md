@@ -125,23 +125,6 @@ Improved EmbeddedChat that can be configured on the associated Rocket.Chat insta
 
 **Difficulty:** Easy
 
-### News Aggregation App
-
-**Mentors:** TBD
-
-**Description:**
-An app that collect news from top websites like TechCrunch, etc and sends its summary with a link to full content. The technical challenge would be to write different logic to collect news from different sources -> since some has API, some has RSS feed. These sources should be categorized and presented in a "newspaper" or "news feed" format.  News sources and categories should be completely configurable.
-
-**Desired Skills:**
-Rocket.Chat App development. 
-
-**Goals/Deliverables:**
-A Rocket.Chat App that can presents users with daily news feed gathered from all over the Internet. 
-
-**Project Duration:** 90 hours (Small)
-
-**Difficulty:** Easy
-
 ### AI Newsletter Generator and Publisher
 
 **Mentors:** TBD
