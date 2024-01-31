@@ -273,6 +273,10 @@ A Rocket.Chat App that acts as a personal translator for cross-language and cros
 
 
 ### AI in-channel GIF Image Generator 
+
+**Mentors:**  Nabhag Motivaras
+
+**Description:**
 A slash command triggered Rocket.Chat app that will generate a small GIF image.   The image generation should be controlled via a descriptive prompt issued by the user.  The image can be inserted in-place within the chat or sent to the system clipboard.  The app must leverage modern open source diffusion model such as Stable Diffusion in generating the image. 
 
 **Desired Skills:**
