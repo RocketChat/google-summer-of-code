@@ -111,16 +111,20 @@ A Rocket.Chat App that can presents users with daily news feed gathered from all
 
 ### Embedded Chat 2024
 
-**Mentors:** TBD
+**Mentors:** Sidharth Mohanty
 
 **Description:**
-Improvement to the [EmbeddedChat]() project this year include the creation of a rocket chat app to remotely configure the associated EmbeddedChat instance(s).  Other includes security improvements for authentication (one such is providing endpoints using the created EmbeddedChat app for RocketChat to support cookie-based authentication instead of storing the token in localStorage); bonus is to add different pre-built templates. improvements in UI kit rendering inside EmbeddedChat
+Improvement to the EmbeddedChat project this year includes:
+- Creation of a Rocket.Chat App to remotely configure the associated EmbeddedChat instance(s).
+- Security improvements for authentication (one such is providing endpoints using the created EmbeddedChat app for RocketChat to support cookie-based authentication instead of storing the token in localStorage).
+- Improving the UI library by making it completely headless and adding different pre-built templates).
+Bonus: improvements in UI kit rendering inside EmbeddedChat
 
 **Desired Skills:**
-Rocket.Chat App development. 
+Rocket.Chat App development
 
 **Goals/Deliverables:**
-Improved EmbeddedChat that can be configured on the associated Rocket.Chat instance.
+Improved EmbeddedChat that can be configured on the associated Rocket.Chat instance and major security update which requires to completely shift from localStorage to browser cookies. Clean UI for EmbeddedChat and provide users with some pre-built templates so that they can easily get started with EmbeddedChat.
 
 **Project Duration:** 90 hours (Small)
 
