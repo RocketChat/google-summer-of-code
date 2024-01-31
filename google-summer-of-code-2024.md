@@ -94,10 +94,10 @@ We welcome any additional ideas you may have.
 
 ### News Aggregation App
 
-**Mentors:** TBD
+**Mentors:** Abhinav Kumar
 
 **Description:**
-An app that collect news from top websites like TechCrunch, etc and sends its summary with a link to full content. The technical challenge would be to write different logic to collect news from different sources -> since some has API, some has RSS feed. These sources should be categorized and presented in a "newspaper" or "news feed" format.  News sources and categories should be completely configurable.
+A Rocket.Chat app that collects news from top websites like TechCrunch, etc and sends its summary with a link to full content. The technical challenge would be to write different logic to collect news from different sources -> since some has API, some has RSS feed. These sources should be categorized and presented in a "newspaper" or "news feed" format.  News sources and categories should be completely configurable.
 
 **Desired Skills:**
 Rocket.Chat App development. 
