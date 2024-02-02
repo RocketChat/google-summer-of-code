@@ -328,7 +328,9 @@ Familiarity with JavaScript and TypeScript is mandatory. Along with server side,
 🎯 **Goals/Deliverables:**
 Rocket.Chat running without meteor/accounts package as a dependency.
 
-📈 **Difficulty:** Hard
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:**  Hard
 
 -----
 
@@ -366,7 +368,7 @@ Multiple files in a message feature.
 
 ⏳ **Project Duration:** 90 hours (Small)
 
-📈 **Difficulty:** Small
+📈 **Difficulty:** Easy
 
 -----
 
@@ -483,7 +485,9 @@ Rocket.Chat starting with a config.json file.
 💪 **Desired Skills:**
 Basic Typescript knowledge.
 
-📈 **Difficulty:** Small
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Easy
 
 -----
 
@@ -500,9 +504,9 @@ Familiarity with JavaScript and TypeScript is mandatory. Along with server side,
 🎯 **Goals/Deliverables:**
 Rocket.Chat running without meteor/accounts package as a dependency.
 
-📈 **Difficulty:** Hard
+⏳ **Project Duration:** 175 hours (Medium)
 
-⏳ **Project Duration:** 350 hours
+📈 **Difficulty:** Easy/Medium
 
 -----
 
@@ -520,9 +524,9 @@ Rocket.Chat starting with a config.json file.
 💪 **Desired Skills:**
 Basic Typescript knowledge.
 
-📈 **Difficulty:** Small
+⏳ **Project Duration:** 90 hours (Small)
 
-⏳ **Project Duration:** 90 hours
+📈 **Difficulty:** Easy
 
 -----
 
@@ -541,10 +545,10 @@ Kowledge or kubernetes, helm charts, go template language, basic deployment idea
 A helm chart that can deploy Rocket.Chat with everything configured including Rocket.Chat and a matrix server. This should consider both
 - airgapped environments
 - public cloud deployments
+  
+⏳ **Project Duration:** 175 hours (Medium)
 
 📈 **Difficulty:** Medium
-
-⏳ **Project Duration:** 175 hours
 
 -----
 
@@ -565,9 +569,9 @@ Through the plugin, we should be able to
 - share code lines directly from the editor (blame links, line links etc) and open them as such
 - able to collaborate with a team member with ease (member picked from rocket.chat contact list)
 
-📈 **Difficulty:** Hard
+⏳ **Project Duration:** 175 hours (Medium)
 
-⏳ **Project Duration:** 350 hours
+📈 **Difficulty:** Hard
 
 -----
 
@@ -589,6 +593,7 @@ Through the extension, we should be able to
 - share code lines directly from the editor (blame links, line links etc) and open them as such
 - able to collaborate with a team member with ease (member picked from rocket.chat contact list)
 
+⏳ **Project Duration:** 175 hours (Medium)
+
 📈 **Difficulty:** Hard
 
-⏳ **Project Duration:** 350 hours
