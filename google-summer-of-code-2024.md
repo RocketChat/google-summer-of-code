@@ -303,6 +303,23 @@ A working  Rocket.Chat App that can act as a programming assistant to any develo
 
 **Difficulty:** Easy
 
+### Multiple Imaged in one message
+
+**Mentors:** TBD
+
+**Description:**
+Addition of a feature enabling possibility to send multiple images in a same message; similar to what is seen on many other platforms.
+
+**Desired Skills:**
+Familiarity with react and node; coding on typescript;
+
+**Goals/Deliverables:**\
+Multiple images in a message feature. 
+
+**Project Duration:** 90 hours (Small)
+
+**Difficulty:** Small
+
 ### AI In-message Emoji generator / embellisher
 
 **Mentors:** TBD
@@ -320,6 +337,25 @@ A Rocket.Chat App that can turn any boring old-school text messages into sensiti
 
 **Difficulty:** Easy
 
+### Multiple Reflect admin actions in a dashboard or audit log
+
+**Mentors:** TBD
+
+**Description:**
+Administrative change control system in rocket.chat; 
+Rocket.Chat admin see if someone change a group name or create a new user, it would be nice if that would be reflected in a dashboard or audit log. This way there would always be a control of what is being done in the production environment at the administrative level.
+
+**Desired Skills:**
+Familiarity with react and node; coding on typescript;
+
+**Goals/Deliverables:**\
+Admin Dashboard showing change logs. 
+
+**Project Duration:** 175 hours (Medium)
+
+**Difficulty:** Medium
+
+
 ### AI Chat Conversation Thread Summarizer
 
 **Mentors:** TBD
@@ -332,23 +368,6 @@ Rocket.Chat App development. LLM prompt design/engineering.
 
 **Goals/Deliverables:**\
 A working Rocket.Chat App that can summarize any conversation threads. 
-
-**Project Duration:** 90 hours (Small)
-
-**Difficulty:** Easy
-
-### AI Documentation Generator for Code 
-
-**Mentors:** TBD
-
-**Description:**
-Create an app that will generate documentation for a body of Javascript, Typescript, Python, Java or C/C++ code  (given a github/gitlab URL to the code).   The  app should use modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to generate this documentation.     This documentation should appear either as a private message to the invoking user, as an in-line message for the current channel,  or become available to be shared with external applications. 
-
-**Desired Skills:**
-Rocket.Chat App development. LLM prompt design/engineering.
-
-**Goals/Deliverables:**\
-A working Rocket.Chat App that will generate code documentation via AI assistance.
 
 **Project Duration:** 90 hours (Small)
 
@@ -371,37 +390,21 @@ Customizable categories on rocket.chat; better UX.
 
 **Difficulty:** Medium
 
-### Multiple Reflect admin actions in a dashboard or audit log
+
+### AI Documentation Generator for Code 
 
 **Mentors:** TBD
 
 **Description:**
-Administrative change control system in rocket.chat; 
-Rocket.Chat admin see if someone change a group name or create a new user, it would be nice if that would be reflected in a dashboard or audit log. This way there would always be a control of what is being done in the production environment at the administrative level.
+Create an app that will generate documentation for a body of Javascript, Typescript, Python, Java or C/C++ code  (given a github/gitlab URL to the code).   The  app should use modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to generate this documentation.     This documentation should appear either as a private message to the invoking user, as an in-line message for the current channel,  or become available to be shared with external applications. 
 
 **Desired Skills:**
-Familiarity with react and node; coding on typescript;
+Rocket.Chat App development. LLM prompt design/engineering.
 
 **Goals/Deliverables:**\
-Admin Dashboard showing change logs. 
-
-**Project Duration:** 175 hours (Medium)
-
-**Difficulty:** Medium
-
-### Multiple Imaged in one message
-
-**Mentors:** TBD
-
-**Description:**
-Addition of a feature enabling possibility to send multiple images in a same message; similar to what is seen on many other platforms.
-
-**Desired Skills:**
-Familiarity with react and node; coding on typescript;
-
-**Goals/Deliverables:**\
-Multiple images in a message feature. 
+A working Rocket.Chat App that will generate code documentation via AI assistance.
 
 **Project Duration:** 90 hours (Small)
 
-**Difficulty:** Small
+**Difficulty:** Easy
+
