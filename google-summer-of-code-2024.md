@@ -297,3 +297,37 @@ A working  Rocket.Chat App that can act as a programming assistant to any develo
 
 **Difficulty:** Easy
 
+### Agile BOT
+
+**Mentors:** Gabriel Casals & Felipe Scuciatto
+
+**Description:**
+Agile adoption is increasing year to year on the different industries. There is an opportunity to add agile package bots to help squad with reminders, links and facilitate attendance to meeting based on simple calendar inputs and emoji reactions. Candidate will be working with Agile experts and Engineers to build some solutions for this space and help improve team/squads productivity. Successful contributor will propose and implement a Chatbot that solves a problem in agile. Candidate have a free choice of technology to implement the chatbot - RASA, Botpress, Dialogflow, and so on.
+
+**Desired Skills:**
+Familiarity with TypeScript development. Demonstrated interest and/or passion in Agile and squad productivity tools.
+
+**Goals/Deliverables:**
+A working chatbot that can improve agile team productivity 
+
+**Project Duration:** 175 hours. (Medium)
+
+**Difficulty:** Medium
+
+### DX Refactor for UI Kit Desktop 
+
+**Mentors:** Carlos Suarez & Gabriel Casals
+
+**Description:**
+A UI kit is a set of files that contains critical UI components like fonts, layered design files, icons, documentation, and HTML/CSS files. 
+We are looking to make the UI KIT DX better enhancing error boundary, option to send payloads from cloud and render UIKit components, additional input field types and validations
+
+**Desired Skills:**
+Familiarity with TypeScript, Javascript and React development
+
+**Goals/Deliverables:**
+Improve UI Kit for Desktop, impacting different areas of Rocket.Chat
+
+**Project Duration:** 175 hours. (Medium)
+
+**Difficulty:** Medium
