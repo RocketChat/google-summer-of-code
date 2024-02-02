@@ -331,3 +331,25 @@ Improve UI Kit for Desktop, impacting different areas of Rocket.Chat
 **Project Duration:** 175 hours. (Medium)
 
 **Difficulty:** Medium
+
+### Quick Replies Functionality in RocketChat  
+
+**Mentors:** Hugo Costa & Gabriel Casals
+
+**Description:**
+Addition of a Quick Replies feature. This functionality would be similar to predefined answers in a helpdesk/support context, giving users the option to generate standardised responses.
+Some possible functionality: 
+-Allow users to create and save a list of predefined quick replies.
+-These quick replies would be accessible through a simple button or keyboard shortcut.
+-Users could thus select a quick reply in lieu of manual text input, save time, and expedite the response process.
+
+**Desired Skills:**
+Familiarity with react and node; coding on typescript; AI will be a good adition.  
+
+**Goals/Deliverables:**
+Quick Replies feature
+
+**Project Duration:** 175 hours. (Medium)
+
+**Difficulty:** Medium
+
