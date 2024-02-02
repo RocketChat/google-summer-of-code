@@ -130,22 +130,6 @@ Improved EmbeddedChat that can be configured on the associated Rocket.Chat insta
 
 **Difficulty:** Easy
 
-### AI Newsletter Generator and Publisher
-
-**Mentors:** TBD
-
-**Description:**
-This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to help generate newsletters for special interest groups and/or teams operating on a Rocket.Chat server.   The newsletter author should be able to supply raw content to the AI generator and have perfectly phrased and formatted newsletter generated.   The app should allow for the immediate or scheduled publication of the resulting newsletter to either a team, subset of the server's user, or all of the server's users.  The app should also allow for emailing those who prefers to receive the newsletter via email.   Ideally the app should maintain a list of dynamically chaning newsletter subscribers.
-
-**Desired Skills:**
-Rocket.Chat App development. LLM prompt design/engineering.
-
-**Goals/Deliverables:**\
-A working Rocket.Chat App that can generate newsletter for a user group or team.  
-
-**Project Duration:** 90 hours (Small)
-
-**Difficulty:** Easy
 
 ### AI Assistant to help with understanding Rocket.Chat core codebase
 **Mentors:** Vinayak Sharma 
@@ -160,40 +144,6 @@ The code base of Rocket.Chat is known to be unwieldy and large, and typically ta
 **Project Duration:** 175 hours (Medium)
 
 **Difficulty:** Easy/Medium
-
-### AI Chat Conversation Thread Summarizer
-
-**Mentors:** TBD
-
-**Description:**
-This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to summarize a conversation within a Rocket.Chat conversation thread.  This summary should appear as either a private message to the invoking user, or become an in-line comment together with the discussion thread itself. 
-
-**Desired Skills:**
-Rocket.Chat App development. LLM prompt design/engineering.
-
-**Goals/Deliverables:**\
-A working Rocket.Chat App that can summarize any conversation threads. 
-
-**Project Duration:** 90 hours (Small)
-
-**Difficulty:** Easy
-
-### AI Documentation Generator for Code 
-
-**Mentors:** TBD
-
-**Description:**
-Create an app that will generate documentation for a body of Javascript, Typescript, Python, Java or C/C++ code  (given a github/gitlab URL to the code).   The  app should use modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to generate this documentation.     This documentation should appear either as a private message to the invoking user, as an in-line message for the current channel,  or become available to be shared with external applications. 
-
-**Desired Skills:**
-Rocket.Chat App development. LLM prompt design/engineering.
-
-**Goals/Deliverables:**\
-A working Rocket.Chat App that will generate code documentation via AI assistance.
-
-**Project Duration:** 90 hours (Small)
-
-**Difficulty:** Easy
 
 
 ### AI Query Bot: a configurable Retrieval Augmented Generation pipleline executor 
@@ -222,37 +172,6 @@ Rocket.Chat App development. LLM prompt design/engineering.
 
 **Goals/Deliverables:**
 Github App now leveraging LLMs to perform code review, bug finding, and PR summarization. 
-
-**Project Duration:** 90 hours (Small)
-
-**Difficulty:** Easy
-
-
-### AI C/C++, Java, Javascript, Typescript, Python Programmer
-
-**Description:**
-Create a Rocket.Chat app that will write short code modules in C/C++, Java, Javascript, Typescript or Python based on specification supplied by the user.   The app should leverage modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to write the code.   The user must be able to quickly reject and ask for a new variation of the code if desired;  the user should also be able to augment/fine-tune the system prompt for more precise code generation (designing an intuitive Ux here can be tricky). Minor editing of generated code should be allowed and easy to make. Finally accepted generated code should be available to be injected into the current channel as a syntax highlighted message, shared to external application, or added to Github (with the associated credentials configured) as a pull request.
-
-**Desired Skills:**
-Rocket.Chat App development. LLM prompt design/engineering.
-
-**Goals/Deliverables:**
-A working  Rocket.Chat App that can act as a programming assistant to any developer user of Rocket.Chat.   
-
-**Project Duration:** 90 hours (Small)
-
-**Difficulty:** Easy
-
-### AI In-message Emoji generator / embellisher
-
-**Description:**
-Create a Rocket.Chat app that will add emoji to an old-school plain text message.  The app should leverage modern open source LLMs (Mistral, Llama2, Phi, and so on) to inject the emojis.   User should be able to adjust the level of embellishment, and should be able to ask for a re-do if needed.  User should be able to make some small edits after emjois are added.  The finally accepted message should be available to be injected into the current channel, shared to external application, or copied to system clipboard.
-
-**Desired Skills:**
-Rocket.Chat App development. LLM prompt design/engineering.
-
-**Goals/Deliverables:**
-A Rocket.Chat App that can turn any boring old-school text messages into sensitive modern emojified masterpieces. 
 
 **Project Duration:** 90 hours (Small)
 
@@ -292,3 +211,89 @@ A Rocket.Chat App that can generate arbitrary GIF images within a message, based
 **Project Duration:** 90 hours (Small)
 
 **Difficulty:** Easy
+
+### AI Newsletter Generator and Publisher
+
+**Mentors:** TBD
+
+**Description:**
+This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to help generate newsletters for special interest groups and/or teams operating on a Rocket.Chat server.   The newsletter author should be able to supply raw content to the AI generator and have perfectly phrased and formatted newsletter generated.   The app should allow for the immediate or scheduled publication of the resulting newsletter to either a team, subset of the server's user, or all of the server's users.  The app should also allow for emailing those who prefers to receive the newsletter via email.   Ideally the app should maintain a list of dynamically chaning newsletter subscribers.
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**\
+A working Rocket.Chat App that can generate newsletter for a user group or team.  
+
+**Project Duration:** 90 hours (Small)
+
+**Difficulty:** Easy
+
+### AI In-message Emoji generator / embellisher
+
+**Mentors:** TBD
+
+**Description:**
+Create a Rocket.Chat app that will add emoji to an old-school plain text message.  The app should leverage modern open source LLMs (Mistral, Llama2, Phi, and so on) to inject the emojis.   User should be able to adjust the level of embellishment, and should be able to ask for a re-do if needed.  User should be able to make some small edits after emjois are added.  The finally accepted message should be available to be injected into the current channel, shared to external application, or copied to system clipboard.
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**
+A Rocket.Chat App that can turn any boring old-school text messages into sensitive modern emojified masterpieces. 
+
+**Project Duration:** 90 hours (Small)
+
+**Difficulty:** Easy
+
+### AI Chat Conversation Thread Summarizer
+
+**Mentors:** TBD
+
+**Description:**
+This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to summarize a conversation within a Rocket.Chat conversation thread.  This summary should appear as either a private message to the invoking user, or become an in-line comment together with the discussion thread itself. 
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**\
+A working Rocket.Chat App that can summarize any conversation threads. 
+
+**Project Duration:** 90 hours (Small)
+
+**Difficulty:** Easy
+
+### AI Documentation Generator for Code 
+
+**Mentors:** TBD
+
+**Description:**
+Create an app that will generate documentation for a body of Javascript, Typescript, Python, Java or C/C++ code  (given a github/gitlab URL to the code).   The  app should use modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to generate this documentation.     This documentation should appear either as a private message to the invoking user, as an in-line message for the current channel,  or become available to be shared with external applications. 
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**\
+A working Rocket.Chat App that will generate code documentation via AI assistance.
+
+**Project Duration:** 90 hours (Small)
+
+**Difficulty:** Easy
+
+### AI C/C++, Java, Javascript, Typescript, Python Programmer
+
+**Mentors:** TBD
+
+**Description:**
+Create a Rocket.Chat app that will write short code modules in C/C++, Java, Javascript, Typescript or Python based on specification supplied by the user.   The app should leverage modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to write the code.   The user must be able to quickly reject and ask for a new variation of the code if desired;  the user should also be able to augment/fine-tune the system prompt for more precise code generation (designing an intuitive Ux here can be tricky). Minor editing of generated code should be allowed and easy to make. Finally accepted generated code should be available to be injected into the current channel as a syntax highlighted message, shared to external application, or added to Github (with the associated credentials configured) as a pull request.
+
+**Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+**Goals/Deliverables:**
+A working  Rocket.Chat App that can act as a programming assistant to any developer user of Rocket.Chat.   
+
+**Project Duration:** 90 hours (Small)
+
+**Difficulty:** Easy
+
