@@ -197,7 +197,7 @@ A working Rocket.Chat App that will generate code documentation via AI assistanc
 
 
 ### AI Query Bot: a configurable Retrieval Augmented Generation pipleline executor 
-**Mentors:** TBD
+**Mentors:** Shiqi Mei
 
 **Description:**
 Create a Rocket.Chat app that answers queries by executing a configurable RAG pipeline.   The RAG pipeline should be configurable via the App's setting - controlling aspects such a embedding/tokenizer engine,  vector database search algorithms, re-ranking strategy,  open source LLM used for generation (Mistral, Llama,  Phi and so on); as well as any prompt used in the pipeline.  The code should have at least two concrete config/examples within two non-trivial problem domains  (feel free to use available public open source data collections).
