@@ -315,6 +315,23 @@ A working Rocket.Chat App that can generate newsletter for a user group or team.
 
 -----
 
+### 💡Removing meteor-accounts dependency from Rocket.Chat
+
+👥 **Mentor(s):** Debdut Chakraborty
+
+💬 **Description:**
+`meteor-accounts` is the largest Meteor dependency Rocket.Chat has as of today. This project will aim to remove all dependency of it from Rocket.Chat taking it further into the road of meteor-less-ness.
+
+💪 **Desired Skills:**
+Familiarity with JavaScript and TypeScript is mandatory. Along with server side, may also need client side javascript skills. Meteor knowledge is a plus.
+
+🎯 **Goals/Deliverables:**
+Rocket.Chat running without meteor/accounts package as a dependency.
+
+📈 **Difficulty:** Hard
+
+-----
+
 ### 💡AI C/C++, Java, Javascript, Typescript, Python Programmer
 
 👥 **Mentor(s):** TBD
@@ -449,28 +466,12 @@ A working Rocket.Chat App that will generate code documentation via AI assistanc
 
 📈 **Difficulty:** Easy
 
------
-
-### 💡Removing meteor-accounts dependency from Rocket.Chat
-
-👥 **Mentor(s):** Debdut Chakraborty
-
-💬 **Description:**
-`meteor-accounts` is the largest Meteor dependency Rocket.Chat has as of today. This project will aim to remove all dependency of it from Rocket.Chat taking it further into the road of meteor-less-ness.
-
-💪 **Desired Skills:**
-Familiarity with JavaScript and TypeScript is mandatory. Along with server side, may also need client side javascript skills. Meteor knowledge is a plus.
-
-🎯 **Goals/Deliverables:**
-Rocket.Chat running without meteor/accounts package as a dependency.
-
-📈 **Difficulty:** Hard
 
 -----
 
 ### 💡Rocket.Chat configs through a JSON config file (or other format)
 
-👥 **Mentor(s):** Debdut Chakraborty
+👥 **Mentor(s):** TBD
 
 💬 **Description:**
 Currently Rocket.Chat can load settings from environment variables named after the setting IDs, like `Account_UseTwofactorEmailAuth` for example (not a literal). 
@@ -488,7 +489,7 @@ Basic Typescript knowledge.
 
 ### 💡Removing meteor-accounts dependency from Rocket.Chat
 
-👥 **Mentor(s):** Debdut Chakraborty
+👥 **Mentor(s):** TBD
 
 💬 **Description:**
 `meteor-accounts` is the largest Meteor dependency Rocket.Chat has as of today. This project will aim to remove all dependency of it from Rocket.Chat taking it further into the road of meteor-less-ness.
@@ -507,7 +508,7 @@ Rocket.Chat running without meteor/accounts package as a dependency.
 
 ### 💡Rocket.Chat configs through a JSON config file (or other format)
 
-👥 **Mentor(s):** Debdut Chakraborty
+👥 **Mentor(s):** TBD
 
 💬 **Description:**
 Currently Rocket.Chat can load settings from environment variables named after the setting IDs, like `Account_UseTwofactorEmailAuth` for example (not a literal). 
@@ -527,7 +528,7 @@ Basic Typescript knowledge.
 
 ### 💡Adding Synapse/Dendrite federation capability to Rocket.Chat Helm Chart
 
-👥 **Mentor(s):** Debdut Chakraborty
+👥 **Mentor(s):** TBD
 
 💬 **Description:**
 Currently to enable synapse and matrix federation in a kubernetes cluster, is not very easy task. This project's aim will be to add support for synapse (or dendrite) to be auto deployed much like mongodb is done, behind a flag like `federate: true`.
@@ -549,7 +550,7 @@ A helm chart that can deploy Rocket.Chat with everything configured including Ro
 
 ### 💡NeoVim plugin for Rocket.Chat
 
-👥 **Mentor(s):** Debdut Chakraborty
+👥 **Mentor(s):** TBD
 
 💬 **Description:**
 A simple Neovim plugin for Rocket.Chat that one should be able to use for communication, code sharing, simple git processing (sharable).
@@ -572,7 +573,7 @@ Through the plugin, we should be able to
 
 ### 💡VSCode extension for Rocket.Chat
 
-👥 **Mentor(s):** Debdut Chakraborty
+👥 **Mentor(s):** TBD
 
 💬 **Description:**
 A simple client in VSCode to have conversations with your team mates through ROcket.Chat.
