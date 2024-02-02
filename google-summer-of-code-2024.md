@@ -146,6 +146,27 @@ The code base of Rocket.Chat is known to be unwieldy and large, and typically ta
 **Difficulty:** Easy/Medium
 
 
+### Quick Replies Functionality in RocketChat  
+
+**Mentors:** Hugo Costa & Gabriel Casals
+
+**Description:**
+Addition of a Quick Replies feature. This functionality would be similar to predefined answers in a helpdesk/support context, giving users the option to generate standardised responses.
+Some possible functionality: 
+-Allow users to create and save a list of predefined quick replies.
+-These quick replies would be accessible through a simple button or keyboard shortcut.
+-Users could thus select a quick reply in lieu of manual text input, save time, and expedite the response process.
+
+**Desired Skills:**
+Familiarity with react and node; coding on typescript; AI will be a good adition.  
+
+**Goals/Deliverables:**
+Quick Replies feature
+
+**Project Duration:** 175 hours. (Medium)
+
+**Difficulty:** Medium
+
 ### AI Query Bot: a configurable Retrieval Augmented Generation pipleline executor 
 **Mentors:** Shiqi Mei
 
@@ -176,6 +197,25 @@ Github App now leveraging LLMs to perform code review, bug finding, and PR summa
 **Project Duration:** 90 hours (Small)
 
 **Difficulty:** Easy
+
+
+### DX Refactor for UI Kit Desktop 
+
+**Mentors:** Carlos Suarez & Gabriel Casals
+
+**Description:**
+A UI kit is a set of files that contains critical UI components like fonts, layered design files, icons, documentation, and HTML/CSS files. 
+We are looking to make the UI KIT DX better enhancing error boundary, option to send payloads from cloud and render UIKit components, additional input field types and validations
+
+**Desired Skills:**
+Familiarity with TypeScript, Javascript and React development
+
+**Goals/Deliverables:**
+Improve UI Kit for Desktop, impacting different areas of Rocket.Chat
+
+**Project Duration:** 175 hours. (Medium)
+
+**Difficulty:** Medium
 
 
 ### AI Bi-directional Translator for Languages, Cultures and Sentiments
@@ -314,42 +354,4 @@ A working chatbot that can improve agile team productivity
 
 **Difficulty:** Medium
 
-### DX Refactor for UI Kit Desktop 
-
-**Mentors:** Carlos Suarez & Gabriel Casals
-
-**Description:**
-A UI kit is a set of files that contains critical UI components like fonts, layered design files, icons, documentation, and HTML/CSS files. 
-We are looking to make the UI KIT DX better enhancing error boundary, option to send payloads from cloud and render UIKit components, additional input field types and validations
-
-**Desired Skills:**
-Familiarity with TypeScript, Javascript and React development
-
-**Goals/Deliverables:**
-Improve UI Kit for Desktop, impacting different areas of Rocket.Chat
-
-**Project Duration:** 175 hours. (Medium)
-
-**Difficulty:** Medium
-
-### Quick Replies Functionality in RocketChat  
-
-**Mentors:** Hugo Costa & Gabriel Casals
-
-**Description:**
-Addition of a Quick Replies feature. This functionality would be similar to predefined answers in a helpdesk/support context, giving users the option to generate standardised responses.
-Some possible functionality: 
--Allow users to create and save a list of predefined quick replies.
--These quick replies would be accessible through a simple button or keyboard shortcut.
--Users could thus select a quick reply in lieu of manual text input, save time, and expedite the response process.
-
-**Desired Skills:**
-Familiarity with react and node; coding on typescript; AI will be a good adition.  
-
-**Goals/Deliverables:**
-Quick Replies feature
-
-**Project Duration:** 175 hours. (Medium)
-
-**Difficulty:** Medium
 
