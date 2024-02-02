@@ -354,6 +354,54 @@ A working Rocket.Chat App that will generate code documentation via AI assistanc
 
 **Difficulty:** Easy
 
+### Multiple Grouping channels in the sidebar into customizable categories
 
+**Mentors:** TBD
 
+**Description:**
+allow users the ability to create new "custom" sections in the sidebar to be able to group channels, discussions and individual conversations as needed.
 
+**Desired Skills:**
+Familiarity with react and node; coding on typescript;
+
+**Goals/Deliverables:**\
+Customizable categories on rocket.chat; better UX. 
+
+**Project Duration:** 175 hours (Medium)
+
+**Difficulty:** Medium
+
+### Multiple Reflect admin actions in a dashboard or audit log
+
+**Mentors:** TBD
+
+**Description:**
+Administrative change control system in rocket.chat; 
+Rocket.Chat admin see if someone change a group name or create a new user, it would be nice if that would be reflected in a dashboard or audit log. This way there would always be a control of what is being done in the production environment at the administrative level.
+
+**Desired Skills:**
+Familiarity with react and node; coding on typescript;
+
+**Goals/Deliverables:**\
+Admin Dashboard showing change logs. 
+
+**Project Duration:** 175 hours (Medium)
+
+**Difficulty:** Medium
+
+### Multiple Imaged in one message
+
+**Mentors:** TBD
+
+**Description:**
+Addition of a feature enabling possibility to send multiple images in a same message; similar to what is seen on many other platforms.
+
+**Desired Skills:**
+Familiarity with react and node; coding on typescript;
+
+**Goals/Deliverables:**\
+Multiple images in a message feature. 
+
+**Project Duration:** 90 hours (Small)
+
+**Difficulty:** Small
