@@ -421,6 +421,8 @@ Rocket.Chat running without meteor/accounts package as a dependency.
 
 **Difficulty:** Hard
 
+**Project Duration:** 350 hours
+
 ### Rocket.Chat configs through a JSON config file (or other format)
 
 **Mentors:** Debdut Chakraborty
@@ -436,6 +438,8 @@ Rocket.Chat starting with a config.json file.
 Basic Typescript knowledge.
 
 **Difficulty:** Small
+
+**Project Duration:** 90 hours
 
 ### Adding Synapse/Dendrite federation capability to Rocket.Chat Helm Chart
 
@@ -453,7 +457,9 @@ A helm chart that can deploy Rocket.Chat with everything configured including Ro
 - airgapped environments
 - public cloud deployments
 
-**Difficulty:** Hard
+**Difficulty:** Medium
+
+**Project Duration:** 175 hours
 
 ### NeoVim plugin for Rocket.Chat
 
@@ -473,6 +479,8 @@ Through the plugin, we should be able to
 - able to collaborate with a team member with ease (member picked from rocket.chat contact list)
 
 **Difficulty:** Hard
+
+**Project Duration:** 350 hours
 
 ### VSCode extension for Rocket.Chat
 
@@ -494,3 +502,4 @@ Through the extension, we should be able to
 
 **Difficulty:** Hard
 
+**Project Duration:** 350 hours
