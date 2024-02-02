@@ -439,6 +439,41 @@ Basic Typescript knowledge.
 
 **Difficulty:** Small
 
+### Removing meteor-accounts dependency from Rocket.Chat
+
+**Mentors:** Debdut Chakraborty
+
+**Description:**
+`meteor-accounts` is the largest Meteor dependency Rocket.Chat has as of today. This project will aim to remove all dependency of it from Rocket.Chat taking it further into the road of meteor-less-ness.
+
+**Desired Skills:**
+Familiarity with JavaScript and TypeScript is mandatory. Along with server side, may also need client side javascript skills. Meteor knowledge is a plus.
+
+**Goals/Deliverables:**
+Rocket.Chat running without meteor/accounts package as a dependency.
+
+**Difficulty:** Hard
+
+**Project Duration:** 350 hours
+
+### Rocket.Chat configs through a JSON config file (or other format)
+
+**Mentors:** Debdut Chakraborty
+
+**Description:**
+Currently Rocket.Chat can load settings from environment variables named after the setting IDs, like `Account_UseTwofactorEmailAuth` for example (not a literal). 
+This poses a fundamental limitation, values of non-string type. This project's aim will be to add another option for Rocket.Chat to load settings' values via a JSON config file like rc.json or some other format (we can discuss).
+
+**Deliverables:**
+Rocket.Chat starting with a config.json file.
+
+**Desired Skills:**
+Basic Typescript knowledge.
+
+**Difficulty:** Small
+
+**Project Duration:** 90 hours
+
 ### Adding Synapse/Dendrite federation capability to Rocket.Chat Helm Chart
 
 **Mentors:** Debdut Chakraborty
@@ -455,7 +490,9 @@ A helm chart that can deploy Rocket.Chat with everything configured including Ro
 - airgapped environments
 - public cloud deployments
 
-**Difficulty:** Hard
+**Difficulty:** Medium
+
+**Project Duration:** 175 hours
 
 ### NeoVim plugin for Rocket.Chat
 
@@ -475,6 +512,8 @@ Through the plugin, we should be able to
 - able to collaborate with a team member with ease (member picked from rocket.chat contact list)
 
 **Difficulty:** Hard
+
+**Project Duration:** 350 hours
 
 ### VSCode extension for Rocket.Chat
 
@@ -496,3 +535,4 @@ Through the extension, we should be able to
 
 **Difficulty:** Hard
 
+**Project Duration:** 350 hours
