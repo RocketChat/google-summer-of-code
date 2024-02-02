@@ -420,3 +420,39 @@ Familiarity with JavaScript and TypeScript is mandatory. Along with server side,
 Rocket.Chat running without meteor/accounts package as a dependency.
 
 **Difficulty:** Hard
+
+### Rocket.Chat configs through a JSON config file (or other format)
+
+**Mentors:** Debdut Chakraborty
+
+**Description:**
+Currently Rocket.Chat can load settings from environment variables named after the setting IDs, like `Account_UseTwofactorEmailAuth` for example (not a literal). 
+This poses a fundamental limitation, values of non-string type. This project's aim will be to add another option for Rocket.Chat to load settings' values via a JSON config file like rc.json or some other format (we can discuss).
+
+**Deliverables:**
+Rocket.Chat starting with a config.json file.
+
+**Desired Skills:**
+Basic Typescript knowledge.
+
+**Difficulty:** Small
+
+### Adding Synapse/Dendrite federation capability to Rocket.Chat Helm Chart
+
+**Mentors:** Debdut Chakraborty
+
+**Description:**
+Currently to enable synapse and matrix federation in a kubernetes cluster, is not very easy task. This project's aim will be to add support for synapse (or dendrite) to be auto deployed much like mongodb is done, behind a flag like `federate: true`.
+Understand more the context from https://github.com/RocketChat/federation-airgap - particularly the design and flow documents.
+
+**Desired Skills:**
+Kowledge or kubernetes, helm charts, go template language, basic deployment ideas, shell scriptiing
+
+**Deliverables:**
+A helm chart that can deploy Rocket.Chat with everything configured including Rocket.Chat and a matrix server. This should consider both
+- airgapped environments
+- public cloud deployments
+
+**Difficulty:** Hard
+
+
