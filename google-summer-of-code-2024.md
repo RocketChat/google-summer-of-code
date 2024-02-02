@@ -405,3 +405,18 @@ Multiple images in a message feature.
 **Project Duration:** 90 hours (Small)
 
 **Difficulty:** Small
+
+### Removing meteor-accounts dependency from Rocket.Chat
+
+**Mentors:** Debdut Chakraborty
+
+**Description:**
+`meteor-accounts` is the largest Meteor dependency Rocket.Chat has as of today. This project will aim to remove all dependency of it from Rocket.Chat taking it further into the road of meteor-less-ness.
+
+**Desired Skills:**
+Familiarity with JavaScript and TypeScript is mandatory. Along with server side, may also need client side javascript skills. Meteor knowledge is a plus.
+
+**Goals/Deliverables:**
+Rocket.Chat running without meteor/accounts package as a dependency.
+
+**Difficulty:** Hard
