@@ -160,7 +160,7 @@ The code base of Rocket.Chat is known to be unwieldy and large, and typically ta
 
 ### 💡Quick Replies Functionality in RocketChat  
 
-👥 **Mentor(s):** Hugo Costa & Gabriel Casals
+👥 **Mentor(s):** Hugo Costa, Gabriel Casals
 
 💬 **Description:**
 Addition of a Quick Replies feature. This functionality would be similar to predefined answers in a helpdesk/support context, giving users the option to generate standardised responses.
@@ -219,7 +219,7 @@ Github App now leveraging LLMs to perform code review, bug finding, and PR summa
 
 ### 💡DX Refactor for UI Kit Desktop 
 
-👥 **Mentor(s):** Carlos Suarez & Gabriel Casals
+👥 **Mentor(s):** Carlos Suarez, Gabriel Casals
 
 💬 **Description:**
 A UI kit is a set of files that contains critical UI components like fonts, layered design files, icons, documentation, and HTML/CSS files. 
@@ -301,7 +301,7 @@ A working chatbot that can improve agile team productivity
 👥 **Mentor(s):** Sing Li
 
 💬 **Description:**
-This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to help generate newsletters for special interest groups and/or teams operating on a Rocket.Chat server.   The newsletter author should be able to supply raw content to the AI generator and have perfectly phrased and formatted newsletter generated.   The app should allow for the immediate or scheduled publication of the resulting newsletter to either a team, subset of the server's user, or all of the server's users.  The app should also allow for emailing those who prefers to receive the newsletter via email.   Ideally the app should maintain a list of dynamically chaning newsletter subscribers.
+This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to help generate newsletters for special interest groups and/or teams operating on a Rocket.Chat server.   The newsletter author should be able to supply raw content to the AI generator and have perfectly phrased and formatted newsletter generated.   The app should allow for the immediate or scheduled publication of the resulting newsletter to either a team, subset of the server's user, or all of the server's users.  The app should also allow for emailing those who prefers to receive the newsletter via email.   Ideally the app should maintain a list of dynamically changing newsletter subscribers.
 
 💪 **Desired Skills:**
 Rocket.Chat App development. LLM prompt design/engineering.
