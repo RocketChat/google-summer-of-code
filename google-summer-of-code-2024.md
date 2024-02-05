@@ -334,6 +334,25 @@ Rocket.Chat running without meteor/accounts package as a dependency.
 
 -----
 
+### 💡Multiple files in one message
+
+👥 **Mentor(s):** Dhruv Jain
+
+💬 **Description:**
+Addition of a feature enabling possibility to send multiple files (text files, images, audio, videos) in a same message; similar to what is seen on many other platforms.
+
+💪 **Desired Skills:**
+Familiarity with react and node; coding on typescript;
+
+🎯 **Goals/Deliverables:**\
+Multiple files in a message feature. 
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Easy
+
+-----
+
 ### 💡AI C/C++, Java, Javascript, Typescript, Python Programmer
 
 👥 **Mentor(s):** TBD
@@ -346,25 +365,6 @@ Rocket.Chat App development. LLM prompt design/engineering.
 
 🎯 **Goals/Deliverables:**
 A working  Rocket.Chat App that can act as a programming assistant to any developer user of Rocket.Chat.   
-
-⏳ **Project Duration:** 90 hours (Small)
-
-📈 **Difficulty:** Easy
-
------
-
-### 💡Multiple files in one message
-
-👥 **Mentor(s):** TBD
-
-💬 **Description:**
-Addition of a feature enabling possibility to send multiple files (text files, images, audio, videos) in a same message; similar to what is seen on many other platforms.
-
-💪 **Desired Skills:**
-Familiarity with react and node; coding on typescript;
-
-🎯 **Goals/Deliverables:**\
-Multiple files in a message feature. 
 
 ⏳ **Project Duration:** 90 hours (Small)
 
