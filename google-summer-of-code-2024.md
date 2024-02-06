@@ -385,7 +385,7 @@ Familiarity with JavaScript and TypeScript is mandatory. Rocket.Chat app develop
 🎯 **Goals/Deliverables:**
 Rocket.Chat app that aggregate feeds from Bluesky or Mastodon federated ecosystems.
 
-⏳ **Project Duration:** 90 hours (Easy)
+⏳ **Project Duration:** 90 hours (Small)
 
 📈 **Difficulty:**  Easy/Medium
 
