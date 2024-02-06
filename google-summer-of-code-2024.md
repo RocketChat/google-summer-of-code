@@ -217,7 +217,7 @@ Github App now leveraging LLMs to perform code review, bug finding, and PR summa
 
 -----
 
-### 💡DX Refactor for UI Kit Desktop 
+### 💡 Refactor UI Kit Desktop to improve developer experience (DX)
 
 👥 **Mentor(s):** Carlos Suarez, Gabriel Casals
 
