@@ -372,6 +372,25 @@ Multiple files in a message feature.
 
 -----
 
+### 💡Bluesky AT-protocol (and/or ActivityPub)  Client 
+
+👥 **Mentor(s):** Aaron Ogle
+
+💬 **Description:**
+Create a Rocket.Chat app that can be used to aggregate feeds from the Bluesky and/or ActivityPub ecosystems.  User should be able to select and manage the feeds they are interested in.  This project does not involve the posting/publishing of content to the federated networks.
+
+💪 **Desired Skills:**
+Familiarity with JavaScript and TypeScript is mandatory. Rocket.Chat app development. Experience or familiarity with AT-protocol or ActivityPub. 
+
+🎯 **Goals/Deliverables:**
+Rocket.Chat app that aggregate feeds from Bluesky or Mastodon federated ecosystems.
+
+⏳ **Project Duration:** 90 hours (Easy)
+
+📈 **Difficulty:**  Easy/Medium
+
+-----
+
 ### 💡AI C/C++, Java, Javascript, Typescript, Python Programmer
 
 👥 **Mentor(s):** TBD
