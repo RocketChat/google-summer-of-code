@@ -334,6 +334,25 @@ Rocket.Chat running without meteor/accounts package as a dependency.
 
 -----
 
+### 💡AI Chat Conversation Thread Summarizer
+
+👥 **Mentor(s):** José Petry
+
+💬 **Description:**
+This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to summarize a conversation within a Rocket.Chat conversation thread.  This summary should appear as either a private message to the invoking user, or become an in-line comment together with the discussion thread itself. 
+
+💪 **Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+🎯 **Goals/Deliverables:**\
+A working Rocket.Chat App that can summarize any conversation threads. 
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Easy
+
+-----
+
 ### 💡Multiple files in one message
 
 👥 **Mentor(s):** Dhruv Jain
@@ -409,25 +428,6 @@ Admin Dashboard showing change logs.
 
 📈 **Difficulty:** Medium
 
-
------
-
-### 💡AI Chat Conversation Thread Summarizer
-
-👥 **Mentor(s):** TBD
-
-💬 **Description:**
-This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to summarize a conversation within a Rocket.Chat conversation thread.  This summary should appear as either a private message to the invoking user, or become an in-line comment together with the discussion thread itself. 
-
-💪 **Desired Skills:**
-Rocket.Chat App development. LLM prompt design/engineering.
-
-🎯 **Goals/Deliverables:**\
-A working Rocket.Chat App that can summarize any conversation threads. 
-
-⏳ **Project Duration:** 90 hours (Small)
-
-📈 **Difficulty:** Easy
 
 -----
 
