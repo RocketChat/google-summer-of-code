@@ -506,9 +506,6 @@ Knowledge of TypeScript, JavaScript, and Rocket.Chat API.
 
 📈 **Difficulty:** Medium
 
-
-
-
 -----
 
 ### 💡AI C/C++, Java, Javascript, Typescript, Python Programmer
@@ -607,26 +604,6 @@ A working Rocket.Chat App that will generate code documentation via AI assistanc
 
 📈 **Difficulty:** Easy
 
-
------
-
-### 💡Rocket.Chat configs through a JSON config file (or other format)
-
-👥 **Mentor(s):** TBD
-
-💬 **Description:**
-Currently Rocket.Chat can load settings from environment variables named after the setting IDs, like `Account_UseTwofactorEmailAuth` for example (not a literal). 
-This poses a fundamental limitation, values of non-string type. This project's aim will be to add another option for Rocket.Chat to load settings' values via a JSON config file like rc.json or some other format (we can discuss).
-
-🎯 **Goals/Deliverables:**
-Rocket.Chat starting with a config.json file.
-
-💪 **Desired Skills:**
-Basic Typescript knowledge.
-
-⏳ **Project Duration:** 90 hours (Small)
-
-📈 **Difficulty:** Easy
 
 -----
 
