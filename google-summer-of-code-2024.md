@@ -372,12 +372,12 @@ Multiple files in a message feature.
 
 -----
 
-### 💡Bluesky AT-protocol (and/or ActivityPub)  Client 
+### 💡Bluesky AT-protocol Client (and/or ActivityPub) Feeds Aggregator App 
 
 👥 **Mentor(s):** Aaron Ogle
 
 💬 **Description:**
-Create a Rocket.Chat app that can be used to aggregate feeds from the Bluesky and/or ActivityPub ecosystems.  User should be able to select and manage the feeds they are interested in.  This project does not involve the posting/publishing of content to the federated networks.
+Create a Rocket.Chat app that can be used to aggregate feeds from the Bluesky ecosystem (ActivityPub may need different non-client approach).  User should be able to select and manage the feeds they are interested in.  This project does not involve the posting/publishing of content to the federated networks.
 
 💪 **Desired Skills:**
 Familiarity with JavaScript and TypeScript is mandatory. Rocket.Chat app development. Experience or familiarity with AT-protocol or ActivityPub. 
@@ -388,6 +388,126 @@ Rocket.Chat app that aggregate feeds from Bluesky or Mastodon federated ecosyste
 ⏳ **Project Duration:** 90 hours (Small)
 
 📈 **Difficulty:**  Easy/Medium
+
+-----
+
+### UIKit Coding Examples and Documentation Improvement
+
+👥 **Mentor(s):** Guilherme Gazzo
+
+💬 **Description:**
+Provide a better documentation for the UIkit, adding explanations about the "whys" and "hows". Most importantly, and the coding part of this project: coming up with some non-trivial working examples of concrete use cases.
+
+💪 **Desired Skills:**
+Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIkit.  Previous experience with UI framework or API documentation a big plus.
+
+🎯 **Goals/Deliverables:**
+
+The UIKit documentation improved with many coding examples and an understandable general overview, including:
+
+- Reasons
+- Explanation of each Block/Section
+- Examples and use cases
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Easy
+
+-----
+
+### 💡 Mocks for unit testing : Rocket.Chat Core
+
+👥 **Mentor(s):** Diego Sampaio, Guilherme Gazzo, Tasso Evangelista, Sing Li
+
+💬 **Description:**
+This can possibly be the most challenging (and rewarding) project this season, for the "right" candidate.   You will be combing through the massive Rocket.Chat core code base and mapping the critical parts that can be mocked and then implement the injectables for unit testing.
+
+Rocket.Chat is an open source nodeJS based, highly scalable production server that is used by millions daily. Designing and implementing mocks, injectables, and unit testing framework for this sort of scaled server is currently considered pioneering work in open source.   Are you up for the challenge?
+
+💪 **Desired Skills:**
+Knowledge of TypeScript, JavaScript, MongoDB, MicroServices, Dependency Injection, and Unit Testing.  Must be passionate about creating test harnesses for modern "impossibly large" real-time server systems. 
+
+🎯 **Goals/Deliverables:**
+
+- Map the critical parts, like collections and services.
+- Refactor parts of the codebase that are not injectable yet.
+- Create an api/approach to generate mocks for the injectable parts.
+- Create a guide for the developers to use the mocks in the unit tests.
+- Create a few examples of unit tests using the mocks.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Hard
+
+-----
+
+### 💡 Rocket.Chat Fuselage Components rewrite
+
+👥 **Mentor(s):** Tasso Evangelista, Guilherme Gazzo,  Douglas Fabris
+
+💬 **Description:**
+Rewrite the Fuselage components using tha tamagui library. With the objective of improving the performance and the maintainability of the components.
+But also allowing the use of the components in different platforms, like React Native.
+
+💪 **Desired Skills:**
+Knowledge of TypeScript, JavaScript, React, React Native, and Rocket.Chat Fuselage.
+
+🎯 **Goals/Deliverables:**
+
+- Rewrite the components using the tamagui library.(At least the most used ones)
+- Run some of the old projects (rocketchat/livechat/onboarding/uikitplayground) using the new components.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Hard
+
+----- 
+
+### 💡UIKit Playground Translations and Scaffolding
+
+👥 **Mentor(s):**  Douglas Fabris, Guilherme Gazzo, Tasso Evangelista 
+
+💬 **Description:**
+
+Implement the translations in the UIKit Playground, allowing the user to change the language and see the components in different languages, helping to handle the dictionaries and the translations in the UIKit.
+
+Transform all the project in to a scaffold to be used as rocketchat app.
+
+💪 **Desired Skills:**
+Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIKit.
+
+🎯 **Goals/Deliverables:**
+- Create a new section in the UIKit Playground to handle the translations.
+- Implement the translations in the UIKit Playground.
+- Implement code generation for the UIKit Playground to be used as a scaffold for new Rocket.chat apps.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Medium
+
+-----
+
+### 💡 API Documentation Generator
+
+👥 **Mentor(s):**  Rodrigo Nascimento, Guilherme Gazzo, Diego Sampaio, 
+
+💬 **Description:**
+Based on the codebase and typescript definitions, generate the openapi and swagger files.
+
+💪 **Desired Skills:**
+Knowledge of TypeScript, JavaScript, and Rocket.Chat API.
+
+🎯 **Goals/Deliverables:**
+- Generate the openapi and swagger files, based on the codebase and typescript definitions.
+- Provide an automated way to keep the documentation updated.
+- Version the documentation based on the Rocket.Chat version.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Medium
+
+
+
 
 -----
 
@@ -615,124 +735,6 @@ Through the extension, we should be able to
 ⏳ **Project Duration:** 175 hours (Medium)
 
 📈 **Difficulty:** Hard
-
------
-
-### UIKit Coding Examples and Documentation Improvement
-
-👥 **Mentor(s):** Guilherme Gazzo
-
-💬 **Description:**
-Provide a better documentation for the UIkit, adding explanations about the "whys" and "hows". Most importantly, and the coding part of this project: coming up with some non-trivial working examples of concrete use cases.
-
-💪 **Desired Skills:**
-Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIkit.  Previous experience with UI framework or API documentation a big plus.
-
-🎯 **Goals/Deliverables:**
-
-The UIKit documentation improved with many coding examples and an understandable general overview, including:
-
-- Reasons
-- Explanation of each Block/Section
-- Examples and use cases
-
-⏳ **Project Duration:** 90 hours (Small)
-
-📈 **Difficulty:** Easy
-
------
-
-### 💡 Mocks for unit testing : Rocket.Chat Core
-
-👥 **Mentor(s):** Diego Sampaio, Guilherme Gazzo, Tasso Evangelista, Sing Li
-
-💬 **Description:**
-This can possibly be the most challenging (and rewarding) project this season, for the "right" candidate.   You will be combing through the massive Rocket.Chat core code base and mapping the critical parts that can be mocked and then implement the injectables for unit testing.
-
-Rocket.Chat is an open source nodeJS based, highly scalable production server that is used by millions daily. Designing and implementing mocks, injectables, and unit testing framework for this sort of scaled server is currently considered pioneering work in open source.   Are you up for the challenge?
-
-💪 **Desired Skills:**
-Knowledge of TypeScript, JavaScript, MongoDB, MicroServices, Dependency Injection, and Unit Testing.  Must be passionate about creating test harnesses for modern "impossibly large" real-time server systems. 
-
-🎯 **Goals/Deliverables:**
-
-- Map the critical parts, like collections and services.
-- Refactor parts of the codebase that are not injectable yet.
-- Create an api/approach to generate mocks for the injectable parts.
-- Create a guide for the developers to use the mocks in the unit tests.
-- Create a few examples of unit tests using the mocks.
-
-⏳ **Project Duration:** 175 hours (Medium)
-
-📈 **Difficulty:** Hard
-
------
-
-### 💡 Rocket.Chat Fuselage Components rewrite
-
-👥 **Mentor(s):** Tasso Evangelista, Guilherme Gazzo,  Douglas Fabris
-
-💬 **Description:**
-Rewrite the Fuselage components using tha tamagui library. With the objective of improving the performance and the maintainability of the components.
-But also allowing the use of the components in different platforms, like React Native.
-
-💪 **Desired Skills:**
-Knowledge of TypeScript, JavaScript, React, React Native, and Rocket.Chat Fuselage.
-
-🎯 **Goals/Deliverables:**
-
-- Rewrite the components using the tamagui library.(At least the most used ones)
-- Run some of the old projects (rocketchat/livechat/onboarding/uikitplayground) using the new components.
-
-⏳ **Project Duration:** 175 hours (Medium)
-
-📈 **Difficulty:** Hard
-
------ 
-
-### 💡UIKit Playground Translations and Scaffolding
-
-👥 **Mentor(s):**  Douglas Fabris, Guilherme Gazzo, Tasso Evangelista 
-
-💬 **Description:**
-
-Implement the translations in the UIKit Playground, allowing the user to change the language and see the components in different languages, helping to handle the dictionaries and the translations in the UIKit.
-
-Transform all the project in to a scaffold to be used as rocketchat app.
-
-💪 **Desired Skills:**
-Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIKit.
-
-🎯 **Goals/Deliverables:**
-- Create a new section in the UIKit Playground to handle the translations.
-- Implement the translations in the UIKit Playground.
-- Implement code generation for the UIKit Playground to be used as a scaffold for new Rocket.chat apps.
-
-⏳ **Project Duration:** 175 hours (Medium)
-
-📈 **Difficulty:** Medium
-
------
-
-### 💡 API Documentation Generator
-
-👥 **Mentor(s):**  Rodrigo Nascimento, Guilherme Gazzo, Diego Sampaio, 
-
-💬 **Description:**
-Based on the codebase and typescript definitions, generate the openapi and swagger files.
-
-💪 **Desired Skills:**
-Knowledge of TypeScript, JavaScript, and Rocket.Chat API.
-
-🎯 **Goals/Deliverables:**
-- Generate the openapi and swagger files, based on the codebase and typescript definitions.
-- Provide an automated way to keep the documentation updated.
-- Version the documentation based on the Rocket.Chat version.
-
-⏳ **Project Duration:** 175 hours (Medium)
-
-📈 **Difficulty:** Medium
-
 
 
 
