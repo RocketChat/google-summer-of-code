@@ -618,19 +618,20 @@ Through the extension, we should be able to
 
 -----
 
-### UIkit Documentation
+### UIKit Coding Examples and Documentation Improvement
 
 👥 **Mentor(s):** Guilherme Gazzo
 
 💬 **Description:**
-Provide a better documentation for the UIkit, providing explanations about whys and hows. Also providing examples and use cases.
+Provide a better documentation for the UIkit, adding explanations about the "whys" and "hows". Most importantly, and the coding part of this project: coming up with some non-trivial working examples of concrete use cases.
 
 💪 **Desired Skills:**
-Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIkit.
+Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIkit.  Previous experience with UI framework or API documentation a big plus.
 
 🎯 **Goals/Deliverables:**
 
-- General overview of the UIkit
+The UIKit documentation improved with many coding examples and an understandable general overview, including:
+
 - Reasons
 - Explanation of each Block/Section
 - Examples and use cases
@@ -728,7 +729,7 @@ Knowledge of TypeScript, JavaScript, and Rocket.Chat API.
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Medium
+📈 **Difficulty:** Hard
 
 
 
