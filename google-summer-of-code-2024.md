@@ -642,15 +642,17 @@ The UIKit documentation improved with many coding examples and an understandable
 
 -----
 
-### 💡 Rocket.Chat Mock for unit testing
+### 💡 Mocks for unit testing : Rocket.Chat Core
 
-👥 **Mentor(s):** Guilherme Gazzo, Tasso Evangelista, Diego Sampaio
+👥 **Mentor(s):** Diego Sampaio, Guilherme Gazzo, Tasso Evangelista, Sing Li
 
 💬 **Description:**
-Map the critical parts of the Rocket.Chat codebase that must to be mocked and injectable for unit testing.
+This can possibly be the most challenging (and rewarding) project this season, for the "right" candidate.   You will be combing through the massive Rocket.Chat core code base and mapping the critical parts that can be mocked and then implement the injectables for unit testing.
+
+Rocket.Chat is an open source nodeJS based, highly scalable production server that is used by millions daily. Designing and implementing mocks, injectables, and unit testing framework for this sort of scaled server is currently considered pioneering work in open source.   Are you up for the challenge?
 
 💪 **Desired Skills:**
-Knowledge of TypeScript, JavaScript, MongoDB, MicroServices, Dependency Injection, and Unit Testing.
+Knowledge of TypeScript, JavaScript, MongoDB, MicroServices, Dependency Injection, and Unit Testing.  Must be passionate about creating test harnesses for modern "impossibly large" real-time server systems. 
 
 🎯 **Goals/Deliverables:**
 
@@ -662,13 +664,13 @@ Knowledge of TypeScript, JavaScript, MongoDB, MicroServices, Dependency Injectio
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Medium
+📈 **Difficulty:** Hard
 
 -----
 
 ### 💡 Rocket.Chat Fuselage Components rewrite
 
-👥 **Mentor(s):** Guilherme Gazzo, Tasso Evangelista, Douglas Fabris
+👥 **Mentor(s):** Tasso Evangelista, Guilherme Gazzo,  Douglas Fabris
 
 💬 **Description:**
 Rewrite the Fuselage components using tha tamagui library. With the objective of improving the performance and the maintainability of the components.
@@ -686,11 +688,11 @@ Knowledge of TypeScript, JavaScript, React, React Native, and Rocket.Chat Fusela
 
 📈 **Difficulty:** Hard
 
-
 ----- 
+
 ### 💡UIKit Playground Translations and Scaffolding
 
-👥 **Mentor(s):** Guilherme Gazzo, Tasso Evangelista, Douglas Fabris
+👥 **Mentor(s):**  Douglas Fabris, Guilherme Gazzo, Tasso Evangelista 
 
 💬 **Description:**
 
@@ -712,9 +714,9 @@ Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIKit.
 
 -----
 
-### 💡Rocket.Chat API Documentation
+### 💡 API Documentation Generator
 
-👥 **Mentor(s):** Guilherme Gazzo, Diego Sampaio, Rodrigo Nascimento
+👥 **Mentor(s):**  Rodrigo Nascimento, Guilherme Gazzo, Diego Sampaio, 
 
 💬 **Description:**
 Based on the codebase and typescript definitions, generate the openapi and swagger files.
@@ -729,7 +731,7 @@ Knowledge of TypeScript, JavaScript, and Rocket.Chat API.
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Hard
+📈 **Difficulty:** Medium
 
 
 
