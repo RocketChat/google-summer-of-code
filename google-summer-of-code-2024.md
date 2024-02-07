@@ -616,7 +616,7 @@ Through the extension, we should be able to
 
 📈 **Difficulty:** Hard
 
----
+-----
 
 ### UIkit Documentation
 
@@ -639,7 +639,7 @@ Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIkit.
 
 📈 **Difficulty:** Easy
 
----
+-----
 
 ### 💡 Rocket.Chat Mock for unit testing
 
@@ -663,7 +663,7 @@ Knowledge of TypeScript, JavaScript, MongoDB, MicroServices, Dependency Injectio
 
 📈 **Difficulty:** Medium
 
----
+-----
 
 ### 💡 Rocket.Chat Fuselage Components rewrite
 
@@ -684,3 +684,52 @@ Knowledge of TypeScript, JavaScript, React, React Native, and Rocket.Chat Fusela
 ⏳ **Project Duration:** 175 hours (Medium)
 
 📈 **Difficulty:** Hard
+
+
+----- 
+### 💡UIKit Playground Translations and Scaffolding
+
+👥 **Mentor(s):** Guilherme Gazzo, Tasso Evangelista, Douglas Fabris
+
+💬 **Description:**
+
+Implement the translations in the UIKit Playground, allowing the user to change the language and see the components in different languages, helping to handle the dictionaries and the translations in the UIKit.
+
+Transform all the project in to a scaffold to be used as rocketchat app.
+
+💪 **Desired Skills:**
+Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIKit.
+
+🎯 **Goals/Deliverables:**
+- Create a new section in the UIKit Playground to handle the translations.
+- Implement the translations in the UIKit Playground.
+- Implement code generation for the UIKit Playground to be used as a scaffold for new Rocket.chat apps.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Medium
+
+-----
+
+### 💡Rocket.Chat API Documentation
+
+👥 **Mentor(s):** Guilherme Gazzo, Diego Sampaio, Rodrigo Nascimento
+
+💬 **Description:**
+Based on the codebase and typescript definitions, generate the openapi and swagger files.
+
+💪 **Desired Skills:**
+Knowledge of TypeScript, JavaScript, and Rocket.Chat API.
+
+🎯 **Goals/Deliverables:**
+- Generate the openapi and swagger files, based on the codebase and typescript definitions.
+- Provide an automated way to keep the documentation updated.
+- Version the documentation based on the Rocket.Chat version.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Medium
+
+
+
+
