@@ -616,3 +616,71 @@ Through the extension, we should be able to
 
 📈 **Difficulty:** Hard
 
+---
+
+### UIkit Documentation
+
+👥 **Mentor(s):** Guilherme Gazzo
+
+💬 **Description:**
+Provide a better documentation for the UIkit, providing explanations about whys and hows. Also providing examples and use cases.
+
+💪 **Desired Skills:**
+Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIkit.
+
+🎯 **Goals/Deliverables:**
+
+- General overview of the UIkit
+- Reasons
+- Explanation of each Block/Section
+- Examples and use cases
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Easy
+
+---
+
+### 💡 Rocket.Chat Mock for unit testing
+
+👥 **Mentor(s):** Guilherme Gazzo, Tasso Evangelista, Diego Sampaio
+
+💬 **Description:**
+Map the critical parts of the Rocket.Chat codebase that must to be mocked and injectable for unit testing.
+
+💪 **Desired Skills:**
+Knowledge of TypeScript, JavaScript, MongoDB, MicroServices, Dependency Injection, and Unit Testing.
+
+🎯 **Goals/Deliverables:**
+
+- Map the critical parts, like collections and services.
+- Refactor parts of the codebase that are not injectable yet.
+- Create an api/approach to generate mocks for the injectable parts.
+- Create a guide for the developers to use the mocks in the unit tests.
+- Create a few examples of unit tests using the mocks.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Medium
+
+---
+
+### 💡 Rocket.Chat Fuselage Components rewrite
+
+👥 **Mentor(s):** Guilherme Gazzo, Tasso Evangelista, Douglas Fabris
+
+💬 **Description:**
+Rewrite the Fuselage components using tha tamagui library. With the objective of improving the performance and the maintainability of the components.
+But also allowing the use of the components in different platforms, like React Native.
+
+💪 **Desired Skills:**
+Knowledge of TypeScript, JavaScript, React, React Native, and Rocket.Chat Fuselage.
+
+🎯 **Goals/Deliverables:**
+
+- Rewrite the components using the tamagui library.(At least the most used ones)
+- Run some of the old projects (rocketchat/livechat/onboarding/uikitplayground) using the new components.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Hard
