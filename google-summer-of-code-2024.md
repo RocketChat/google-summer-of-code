@@ -10,7 +10,7 @@ For timeline, see [Official Google Summer of Code 2024](https://developers.googl
 
 Almost anyone in the world [over 18 years of age](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html) who loves coding and wants to explore the incredible world of open source can join us as a GSoC 2024 contributor.
 
-Most exciting news for the 2024 season is a new [focus on ML/AI projects, and the introduction of a small project type with a 90 days duration](https://opensource.googleblog.com/2023/11/google-summer-of-code-2024-celebrating-20th-year.html); allowing participation from those who can only  devote part of their summer to exploring open source.
+Most exciting news for the 2024 season is a new [focus on ML/AI projects, and the introduction of a small project type with a 90 days duration](https://opensource.googleblog.com/2023/11/google-smummer-of-code-2024-celebrating-20th-year.html); allowing participation from those who can only  devote part of their summer to exploring open source.
 
 For details and rules of Google Summer of Code 2024, please see the [GSoC 2024 Official Website](https://summerofcode.withgoogle.com/). For timeline, see [Official Google Summer of Code 2024 Timeline](https://developers.google.com/open-source/gsoc/timeline) for more details.
 
@@ -52,7 +52,7 @@ Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), t
 
 ## 📂 Project Ideas
 
-> This is the GSoC 2024 project ideas list for Rocket.Chat.  As we continue to engage community mentors for 2024, the project ideas are subject to rapid changes. 
+> This is the GSoC 2024 project ideas list for Rocket.Chat.  As we continue to engage community mentors for 2024, the project ideas are subject to some changes. 
 
 ### 💡 Extended LLM Prompt Editor/Explorer
 
@@ -68,7 +68,7 @@ A prompt editor is the quite essential development tool for any  AI/ML prompt en
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Easy/Medium
+📈 **Difficulty:** Easy/Intermediate
 
 -----
 
@@ -157,7 +157,7 @@ The code base of Rocket.Chat is known to be unwieldy and large, and typically ta
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Easy/Medium
+📈 **Difficulty:** Easy/Intermediate
 
 
 -----
@@ -181,7 +181,7 @@ Quick Replies feature
 
 ⏳ **Project Duration:** 175 hours. (Medium)
 
-📈 **Difficulty:** Medium
+📈 **Difficulty:** Intermediate
 
 -----
 
@@ -197,7 +197,7 @@ Create a Rocket.Chat app that answers queries by executing a configurable RAG pi
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Easy/Medium
+📈 **Difficulty:** Easy/Intermediate
 
 -----
 
@@ -237,7 +237,7 @@ Improve UI Kit for Desktop, impacting different areas of Rocket.Chat
 
 ⏳ **Project Duration:** 175 hours. (Medium)
 
-📈 **Difficulty:** Medium
+📈 **Difficulty:** Intermediate
 
 
 -----
@@ -296,7 +296,7 @@ A working chatbot that can improve agile team productivity
 
 ⏳ **Project Duration:** 175 hours. (Medium)
 
-📈 **Difficulty:** Medium
+📈 **Difficulty:** Intermediate
 
 -----
 
@@ -391,7 +391,7 @@ Rocket.Chat app that aggregate feeds from Bluesky or Mastodon federated ecosyste
 
 ⏳ **Project Duration:** 90 hours (Small)
 
-📈 **Difficulty:**  Easy/Medium
+📈 **Difficulty:**  Easy/Intermediate
 
 -----
 
@@ -487,7 +487,7 @@ Knowledge of TypeScript, JavaScript, React, and Rocket.Chat UIKit.
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Medium
+📈 **Difficulty:** Intermediate
 
 -----
 
@@ -508,13 +508,13 @@ Knowledge of TypeScript, JavaScript, and Rocket.Chat API.
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Medium
+📈 **Difficulty:** Intermediate
 
 -----
 
 ### 💡AI C/C++, Java, Javascript, Typescript, Python Programmer
 
-👥 **Mentor(s):** TBD
+👥 **Mentor(s):** Mustafa Hasan Khan
 
 💬 **Description:**
 Create a Rocket.Chat app that will write short code modules in C/C++, Java, Javascript, Typescript or Python based on specification supplied by the user.   The app should leverage modern open source LLMs (Mistral, CodeLlama,  WizardCode, Llama2, Phi, and so on) to write the code.   The user must be able to quickly reject and ask for a new variation of the code if desired;  the user should also be able to augment/fine-tune the system prompt for more precise code generation (designing an intuitive Ux here can be tricky). Minor editing of generated code should be allowed and easy to make. Finally accepted generated code should be available to be injected into the current channel as a syntax highlighted message, shared to external application, or added to Github (with the associated credentials configured) as a pull request.
@@ -566,7 +566,7 @@ Admin Dashboard showing change logs.
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Medium
+📈 **Difficulty:** Intermediate
 
 
 -----
@@ -586,7 +586,7 @@ Customizable categories on rocket.chat; better UX.
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Medium
+📈 **Difficulty:** Intermediate
 
 
 -----
@@ -626,7 +626,7 @@ Rocket.Chat running without meteor/accounts package as a dependency.
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Easy/Medium
+📈 **Difficulty:** Easy/Intermediate
 
 -----
 
@@ -668,7 +668,7 @@ A helm chart that can deploy Rocket.Chat with everything configured including Ro
   
 ⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Medium
+📈 **Difficulty:** Intermediate
 
 -----
 
