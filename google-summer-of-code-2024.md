@@ -717,5 +717,19 @@ Through the extension, we should be able to
 
 📈 **Difficulty:** Hard
 
+### 💡Smart Scheduling Assistant App
+
+👥**Mentor(s):** TBD
+
+💬**Description:** Create a Rocket.Chat app that acts as a Smart Scheduling Assistant. The app should be able to understand the context of a conversation, suggest meeting times, send calendar invites, or set reminders based on the chat content. The app should be configurable via the App's settings, allowing customization of the AI's understanding and response generation. The code should include at least two concrete examples of scheduling scenarios.
+
+💪**Desired Skills:** Rocket.Chat App development. LLM prompt development, including function calling (tools pattern).  Experience with calendar APIs (specifically Google Calendar API).
+
+🎯**Goals/Deliverables:** A flexible Smart Scheduling Assistant, fronting Google Calendar, that can understand and respond to scheduling requests in any conversation on Rocket.Chat.
+
+⏳**Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Intermediate
+
 
 
