@@ -10,7 +10,7 @@ For timeline, see [Official Google Summer of Code 2024](https://developers.googl
 
 Almost anyone in the world [over 18 years of age](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html) who loves coding and wants to explore the incredible world of open source can join us as a GSoC 2024 contributor.
 
-Most exciting news for the 2024 season is a new [focus on ML/AI projects, and the introduction of a small project type with a 90 days duration](https://opensource.googleblog.com/2023/11/google-smummer-of-code-2024-celebrating-20th-year.html); allowing participation from those who can only  devote part of their summer to exploring open source.
+Most exciting news for the 2024 season is a new [focus on ML/AI projects, and the introduction of a small project type with a 90 hours duration](https://opensource.googleblog.com/2023/11/google-summer-of-code-2024-celebrating-20th-year.html); allowing participation from those who can only  devote part of their summer to exploring open source.
 
 For details and rules of Google Summer of Code 2024, please see the [GSoC 2024 Official Website](https://summerofcode.withgoogle.com/). For timeline, see [Official Google Summer of Code 2024 Timeline](https://developers.google.com/open-source/gsoc/timeline) for more details.
 
