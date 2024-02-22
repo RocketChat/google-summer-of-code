@@ -608,26 +608,6 @@ A working Rocket.Chat App that will generate code documentation via AI assistanc
 
 📈 **Difficulty:** Easy
 
-
------
-
-### 💡Removing meteor-accounts dependency from Rocket.Chat
-
-👥 **Mentor(s):** TBD
-
-💬 **Description:**
-`meteor-accounts` is the largest Meteor dependency Rocket.Chat has as of today. This project will aim to remove all dependency of it from Rocket.Chat taking it further into the road of meteor-less-ness.
-
-💪 **Desired Skills:**
-Familiarity with JavaScript and TypeScript is mandatory. Along with server side, may also need client side javascript skills. Meteor knowledge is a plus.
-
-🎯 **Goals/Deliverables:**
-Rocket.Chat running without meteor/accounts package as a dependency.
-
-⏳ **Project Duration:** 175 hours (Medium)
-
-📈 **Difficulty:** Easy/Intermediate
-
 -----
 
 ### 💡Rocket.Chat configs through a JSON config file (or other format)
