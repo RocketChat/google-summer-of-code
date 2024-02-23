@@ -630,28 +630,6 @@ Basic Typescript knowledge.
 
 -----
 
-### 💡Adding Synapse/Dendrite federation capability to Rocket.Chat Helm Chart
-
-👥 **Mentor(s):** TBD
-
-💬 **Description:**
-Currently to enable synapse and matrix federation in a kubernetes cluster, is not very easy task. This project's aim will be to add support for synapse (or dendrite) to be auto deployed much like mongodb is done, behind a flag like `federate: true`.
-Understand more the context from https://github.com/RocketChat/federation-airgap - particularly the design and flow documents.
-
-💪 **Desired Skills:**
-Kowledge or kubernetes, helm charts, go template language, basic deployment ideas, shell scriptiing
-
-🎯 **Goals/Deliverables:**
-A helm chart that can deploy Rocket.Chat with everything configured including Rocket.Chat and a matrix server. This should consider both
-- airgapped environments
-- public cloud deployments
-  
-⏳ **Project Duration:** 175 hours (Medium)
-
-📈 **Difficulty:** Intermediate
-
------
-
 ### 💡NeoVim plugin for Rocket.Chat
 
 👥 **Mentor(s):** TBD
