@@ -18,7 +18,7 @@ For details and rules of Google Summer of Code 2024, please see the [GSoC 2024 O
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2024 : [https://open.rocket.chat/channel/gsoc2024](https://open.rocket.chat/channel/gsoc2024)
 
-Join our [Google Summer of Code 2024 Team ](https://open.rocket.chat/channel/gsoc2024) today, introduce yourself to the friendly community, and interact with over **200 like-minded** contributors/mentors and meet the team in the [ 36 team channels](https://open.rocket.chat/channel/gsoc2024/team-channels).
+Join our [Google Summer of Code 2024 Team ](https://open.rocket.chat/channel/gsoc2024) today, introduce yourself to the friendly community, and interact with over **320 like-minded** contributors/mentors and meet the team in the [40 team channels](https://open.rocket.chat/channel/gsoc2024/team-channels).
 
 If you have ideas and proposals that are not on our idea list, or if a mentor is not available, you can also email to:
 
