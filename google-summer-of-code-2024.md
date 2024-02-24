@@ -304,7 +304,7 @@ A working chatbot that can improve agile team productivity
 👥 **Mentor(s):** Sing Li
 
 💬 **Description:**
-This Rocket.Chat app applies the latest web standard WebGPU technology to run AI Agents in-browser.  The app should allow the execution of a subset of agents created by open source agent frameworks such as rubra.ai    Catering for the limited GPU/LPU capacity of most 2024 client machines/devices, the agents may need to rely on new generation low resources reasonable quality open source LLMs  (such as Gemma 2b and Gemma 7b, Phi, and so on). The app must include at least two specific use-cases where the application of client-side agents actually makes sense (or actually required).  This project need contributor who are already working with modern LLM, tracking its rapid progress, and looking for a mild challenge.
+This Rocket.Chat app applies the latest web standard WebGPU technology to run AI Agents in-browser.  The app should allow the execution of a subset of agents created by open source agent frameworks such as rubra.ai    Catering for the limited GPU/LPU capacity of most 2024 client machines/devices, the agents may need to rely on new generation low resources reasonable quality open source LLMs  (such as Gemma 2b and Gemma 7b, Phi, and so on). The app must include at least two specific use-cases where the application of client-side agents actually makes sense (or actually required).  This project is perfect for a contributor who is already working day-to-day with modern LLMs, tracking their rapid progress, and is looking for a mild challenge.
 
 💪 **Desired Skills:**
 Rocket.Chat App development. Thorough understanding of 2024 RAG pipelines.  Familiarity with WebGPU and associated technologies. 
