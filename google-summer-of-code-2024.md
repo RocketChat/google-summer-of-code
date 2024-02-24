@@ -689,5 +689,88 @@ Through the extension, we should be able to
 
 📈 **Difficulty:** Intermediate
 
+### 💡Design and implement a conversational UI for Rocket.Chat AI Apps
+
+👥**Mentor(s):** TBD
+
+💬**Description:** This project would involve creating a user-friendly and intuitive interface for interacting with Rocket.Chat AI Apps, such as using natural language, voice, gestures, or graphical elements. You would need to research and apply the best practices of conversational UI design, such as simplicity, clarity, consistency, personalization, etc. You would also need to use the Rocket.Chat Apps.Engine, Fuselage, and UI Kit to integrate your interface with the existing Apps UI architecture and Core UI components.
+
+💪**Desired Skills:** ReactJS, TypeScript, User-Centered Design.
+
+🎯**Goals/Deliverables:** 
+- Placeholder for AI bot messages/images
+- UI to shadow interact with AI bots (messages sent to AI bot in a room are only visible to the bot and the user)
+- Other UI elements (up to contributors research)
+
+⏳**Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Hard
+
+
+
+
+### 💡Develop and evaluate a personalized and adaptive content generation system for Rocket.Chat
+
+👥**Mentor(s):** TBD
+
+💬**Description:** This project would involve using AI techniques to generate relevant and engaging content for different user segments, such as based on their preferences, needs, goals, or context. You would need to collect and analyze user data, such as behavior, feedback, or profile, to create user models and personas. You would also need to use natural language generation, content optimization, or recommender systems to create and deliver personalized and adaptive content.
+
+💪**Desired Skills:** Natural Language Processing, Machine Learning, Data Analysis, Python.
+
+🎯**Goals/Deliverables:** 
+- User data collection and analysis module
+- User model and persona generation module
+- Content generation and optimization module
+- Content delivery and evaluation module
+
+⏳**Project Duration:** 350 hours (Large)
+
+📈 **Difficulty:** Hard
+
+
+
+
+
+### 💡Create and test a dynamic and interactive data visualization tool for Rocket.Chat
+
+👥**Mentor(s):** TBD
+
+💬**Description:** This project would involve using AI techniques to create and display data visualizations that are responsive and interactive, such as based on user input, feedback, or context. You would need to use data analysis, data mining, or machine learning to extract and transform data from various sources, such as Rocket.Chat analytics, user feedback, or external services. You would also need to use data visualization, user interface, or user experience design to create and display data visualizations that are informative, engaging, and easy to use.
+
+💪**Desired Skills:** Data Visualization, Data Analysis, Data Mining, Machine Learning, ReactJS, TypeScript, UX.
+
+🎯**Goals/Deliverables:** 
+- Data extraction and transformation module
+- Data visualization design and creation module
+- Data visualization display and interaction module
+- Data visualization testing and evaluation module
+
+⏳**Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Medium
+
+
+
+
+
+### 💡Apply and measure the impact of AI on the accessibility and usability of Rocket.Chat
+
+👥**Mentor(s):** TBD
+
+💬**Description:** This project would involve using AI techniques to enhance the accessibility and usability of Rocket.Chat for different user groups, such as people with disabilities, low literacy, or low bandwidth. You would need to use accessibility, usability, or user-centered design principles and guidelines to identify and address the needs and challenges of these user groups. You would also need to use natural language processing, computer vision, speech recognition, or other AI techniques to provide alternative or assistive modes of interaction, such as text-to-speech, speech-to-text, image captioning, etc.
+
+💪**Desired Skills:** Accessibility, Usability, User-Centered Design, Natural Language Processing, Computer Vision, Speech Recognition, Typescript, Python.
+
+🎯**Goals/Deliverables:** 
+- User group identification and analysis module
+- Accessibility and usability enhancement module
+- Alternative and assistive interaction module
+- Impact measurement and evaluation module
+
+⏳**Project Duration:** 350 hours (Large)
+
+📈 **Difficulty:** Medium
+
+
 
 
