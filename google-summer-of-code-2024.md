@@ -299,23 +299,23 @@ A working chatbot that can improve agile team productivity
 📈 **Difficulty:** Intermediate
 
 -----
-
-### 💡AI Newsletter Generator and Publisher
+### 💡  Client-side in-browser AI Agent Executor
 
 👥 **Mentor(s):** Sing Li
 
 💬 **Description:**
-This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to help generate newsletters for special interest groups and/or teams operating on a Rocket.Chat server.   The newsletter author should be able to supply raw content to the AI generator and have perfectly phrased and formatted newsletter generated.   The app should allow for the immediate or scheduled publication of the resulting newsletter to either a team, subset of the server's user, or all of the server's users.  The app should also allow for emailing those who prefers to receive the newsletter via email.   Ideally the app should maintain a list of dynamically changing newsletter subscribers.
+This Rocket.Chat app applies the latest web standard WebGPU technology to run AI Agents in-browser.  The app should allow the execution of a subset of agents created by open source agent frameworks such as rubra.ai    Catering for the limited GPU/LPU capacity of most 2024 client machines/devices, the agents may need to rely on new generation low resources reasonable quality open source LLMs  (such as Gemma 2b and Gemma 7b, Phi, and so on). The app must include at least two specific use-cases where the application of client-side agents actually makes sense (or actually required).  This project need contributor who are already working with modern LLM, tracking its rapid progress, and looking for a mild challenge.
 
 💪 **Desired Skills:**
-Rocket.Chat App development. LLM prompt design/engineering.
+Rocket.Chat App development. Thorough understanding of 2024 RAG pipelines.  Familiarity with WebGPU and associated technologies. 
 
 🎯 **Goals/Deliverables:**
-A working Rocket.Chat App that can generate newsletter for a user group or team.  
+A working Rocket.Chat App that can run agents in-browser using client-side GPU resources.  
+ hours (Small)
 
-⏳ **Project Duration:** 90 hours (Small)
+⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Easy
+📈 **Difficulty:** Intermediate
 
 -----
 
@@ -689,5 +689,22 @@ Through the extension, we should be able to
 
 📈 **Difficulty:** Intermediate
 
+-----
 
+### 💡AI Newsletter Generator and Publisher
+
+👥 **Mentor(s):**  TBD
+
+💬 **Description:**
+This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to help generate newsletters for special interest groups and/or teams operating on a Rocket.Chat server.   The newsletter author should be able to supply raw content to the AI generator and have perfectly phrased and formatted newsletter generated.   The app should allow for the immediate or scheduled publication of the resulting newsletter to either a team, subset of the server's user, or all of the server's users.  The app should also allow for emailing those who prefers to receive the newsletter via email.   Ideally the app should maintain a list of dynamically changing newsletter subscribers.
+
+💪 **Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+🎯 **Goals/Deliverables:**
+A working Rocket.Chat App that can generate newsletter for a user group or team.  
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Easy
 
