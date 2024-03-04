@@ -182,7 +182,7 @@ Some possible functionality:
 -Users could thus select a quick reply in lieu of manual text input, save time, and expedite the response process.
 
 💪 **Desired Skills:**
-Familiarity with react and node; coding on typescript; AI will be a good adition.  
+Familiarity with react and node; coding on typescript; AI will be a good addition.  
 
 🎯 **Goals/Deliverables:**
 Quick Replies feature
