@@ -64,7 +64,7 @@ Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), t
 
 ### 💡 Extended LLM Prompt Editor/Explorer
 
-👥 **Mentor(s):** Shubham Bhardwaj,  Gabriel Engel
+👥 **Mentor(s):**    Shubham Bhardwaj, Gabriel Engel
 
 💬 **Description:**
 
@@ -540,7 +540,7 @@ A working  Rocket.Chat App that can act as a programming assistant to any develo
 
 ### 💡AI In-message Emoji generator / embellisher
 
-👥 **Mentor(s):** TBD
+👥 **Mentor(s):** Shubham Bhardwaj,  Sing Li
 
 💬 **Description:**
 Create a Rocket.Chat app that will add emoji to an old-school plain text message.  The app should leverage modern open source LLMs (Mistral, Llama2, Phi, and so on) to inject the emojis.   User should be able to adjust the level of embellishment, and should be able to ask for a re-do if needed.  User should be able to make some small edits after emjois are added.  The finally accepted message should be available to be injected into the current channel, shared to external application, or copied to system clipboard.
@@ -662,7 +662,7 @@ Through the plugin, we should be able to
 
 ### 💡VSCode extension for Rocket.Chat
 
-👥 **Mentor(s):** TBD
+👥 **Mentor(s):** Debdut Chakraborty
 
 💬 **Description:**
 A simple client in VSCode to have conversations with your team mates through ROcket.Chat.
