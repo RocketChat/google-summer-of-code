@@ -557,6 +557,30 @@ A Rocket.Chat App that can turn any boring old-school text messages into sensiti
 
 -----
 
+### 💡VSCode extension for Rocket.Chat
+
+👥 **Mentor(s):** Debdut Chakraborty
+
+💬 **Description:**
+A simple client in VSCode to have conversations with your team mates through ROcket.Chat.
+The goal is for developers to be able to communicate better, which means it will have to provide some simple but different featureset than a normal client. 
+
+💪 **Desired Skills:**
+Knowledge of VSCode extension building, TypeScript, Rocket.Chat API.
+
+🎯 **Goals/Deliverables:**
+Through the extension, we should be able to
+- log in to individual server
+- converse with colleagues
+- share code lines directly from the editor (blame links, line links etc) and open them as such
+- able to collaborate with a team member with ease (member picked from rocket.chat contact list)
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Hard
+
+-----
+
 ### 💡Multiple Reflect admin actions in a dashboard or audit log
 
 👥 **Mentor(s):** TBD
@@ -638,28 +662,6 @@ Through the plugin, we should be able to
 📈 **Difficulty:** Hard
 
 -----
-
-### 💡VSCode extension for Rocket.Chat
-
-👥 **Mentor(s):** Debdut Chakraborty
-
-💬 **Description:**
-A simple client in VSCode to have conversations with your team mates through ROcket.Chat.
-The goal is for developers to be able to communicate better, which means it will have to provide some simple but different featureset than a normal client. 
-
-💪 **Desired Skills:**
-Knowledge of VSCode extension building, TypeScript, Rocket.Chat API.
-
-🎯 **Goals/Deliverables:**
-Through the extension, we should be able to
-- log in to individual server
-- converse with colleagues
-- share code lines directly from the editor (blame links, line links etc) and open them as such
-- able to collaborate with a team member with ease (member picked from rocket.chat contact list)
-
-⏳ **Project Duration:** 175 hours (Medium)
-
-📈 **Difficulty:** Hard
 
 ### 💡Smart Scheduling Assistant App
 
