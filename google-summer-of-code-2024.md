@@ -575,27 +575,6 @@ Admin Dashboard showing change logs.
 
 📈 **Difficulty:** Intermediate
 
-
------
-
-### 💡Multiple Grouping channels in the sidebar into customizable categories
-
-👥 **Mentor(s):** TBD
-
-💬 **Description:**
-allow users the ability to create new "custom" sections in the sidebar to be able to group channels, discussions and individual conversations as needed.
-
-💪 **Desired Skills:**
-Familiarity with react and node; coding on typescript;
-
-🎯 **Goals/Deliverables:**\
-Customizable categories on rocket.chat; better UX. 
-
-⏳ **Project Duration:** 175 hours (Medium)
-
-📈 **Difficulty:** Intermediate
-
-
 -----
 
 ### 💡AI Documentation Generator for Code 
