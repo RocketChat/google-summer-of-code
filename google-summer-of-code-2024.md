@@ -18,7 +18,7 @@ For details and rules of Google Summer of Code 2024, please see the [GSoC 2024 O
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2024 : [https://open.rocket.chat/channel/gsoc2024](https://open.rocket.chat/channel/gsoc2024)
 
-Join our [Google Summer of Code 2024 Team ](https://open.rocket.chat/channel/gsoc2024) today, introduce yourself to the friendly community, and interact with over **320 like-minded** contributors/mentors and meet the team in the [40 team channels](https://open.rocket.chat/channel/gsoc2024/team-channels).
+Join our [Google Summer of Code 2024 Team ](https://open.rocket.chat/channel/gsoc2024) today, introduce yourself to the friendly community, and interact with over **438 like-minded** contributors/mentors and meet the team in the [47 team channels](https://open.rocket.chat/channel/gsoc2024/team-channels).
 
 If you have ideas and proposals that are not on our idea list, or if a mentor is not available, you can also email to:
 
@@ -39,6 +39,10 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 -----
 
 ### **Latest update**
+
+Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community:  **189 new contributors creating 73 Merged PRs, 104 Open PRs, and 224 Issues** as of **March 7, 2024**!
+
+GSoC 2024 community mentors continued to help us to run the sixth iteration of the ["Rocket.Chat App workshop (Write an AI App)"](https://open.rocket.chat/channel/events-and-meet-ups?msg=FTDpvbiP9TBS3hy5d) on **March 1, 2024** to a full house of attendees.  The session is hands-on, and we have to limit the quota due to server and AI/GPU resources available.  We have modified the flow to include debugging and log content ahead of the workshop, enabling attendees to debug their setup in case of difficulty during the session.  Due the overwhelming response, we will be expanding our capacity for the next session.  Thanks goes to the sixth set of ethusisastic attendees for providing us with valuable feedback. 
 
 Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community: **141 new contributors creating 62 Merged PRs, 103 Open PRs, and 203 Issues** as of **February 24, 2024**!  
 
