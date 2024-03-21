@@ -150,9 +150,9 @@ Rocket.Chat App development
 🎯 **Goals/Deliverables:**
 Improved EmbeddedChat that can be configured on the associated Rocket.Chat instance and major security update which requires to completely shift from localStorage to browser cookies. Clean UI for EmbeddedChat and provide users with some pre-built templates so that they can easily get started with EmbeddedChat.
 
-⏳ **Project Duration:** 90 hours (Small)
+⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Easy
+📈 **Difficulty:** Easy/Intermediate
 
 
 -----
