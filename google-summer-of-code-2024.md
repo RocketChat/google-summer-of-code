@@ -306,9 +306,9 @@ Familiarity with TypeScript development. Demonstrated interest and/or passion in
 🎯 **Goals/Deliverables:**
 A working chatbot that can improve agile team productivity 
 
-⏳ **Project Duration:** 90 hours (Small)
+⏳ **Project Duration:** 175 hours (Medium)
 
-📈 **Difficulty:** Easy
+📈 **Difficulty:** Intermediate
 
 -----
 
