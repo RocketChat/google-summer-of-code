@@ -40,6 +40,10 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
+Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community:  **239 new contributors creating 98 Merged PRs, 97 Open PRs, and 247 Issues.** as of **March 24, 2024**!
+
+GSoC 2024 community mentors continued to help us to run the seventh and eight iteration of the ["Write an AI Rocket.Chat App in an hour"](https://open.rocket.chat/channel/events-and-meet-ups?msg=W5xsMZat4z8xSo2eJ) on **March 15, 2024** and **[March 22, 2024](https://open.rocket.chat/channel/events-and-meet-ups?msg=cw7rhdDgdgykNGsdP)** to a full house of attendees (we have increased capacity to 40+ attendees for recent sessions).  The session is hands-on, and we are doing everything we can to ensure every attendee recieves the same learning experience.  Thanks goes to the seventh and eighth set of ethusisastic attendees for providing us with valuable feedback. 
+
 Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community:  **189 new contributors creating 73 Merged PRs, 104 Open PRs, and 224 Issues** as of **March 7, 2024**!
 
 GSoC 2024 community mentors continued to help us to run the sixth iteration of the ["Rocket.Chat App workshop (Write an AI App)"](https://open.rocket.chat/channel/events-and-meet-ups?msg=FTDpvbiP9TBS3hy5d) on **March 1, 2024** to a full house of attendees.  The session is hands-on, and we have to limit the quota due to server and AI/GPU resources available.  We have modified the flow to include debugging and log content ahead of the workshop, enabling attendees to debug their setup in case of difficulty during the session.  Due the overwhelming response, we will be expanding our capacity for the next session.  Thanks goes to the sixth set of ethusisastic attendees for providing us with valuable feedback. 
