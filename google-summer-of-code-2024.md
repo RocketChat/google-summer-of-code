@@ -40,7 +40,7 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
-We are thankful to have EIGHT former Rocket.Chat GSoC Alumni from as far back as SIX years ago returning this year to guide, influence and inspire this year's new contributors at  the  [Rocket.Chat Google Summer of Code Alumni Summit 2024](https://gsoc.rocket.chat/community/conferences/c/GSoC-Alumni-Summit-2024)  on **March 25, 2024**.   Event was well attended (over 50 total) and its recorded proceedings is now available [here to benefit all GSoC 2024 participants](https://youtube.com/playlist?list=PLee3gqXJQrFUKj-H3KhTznl9K9j2on8KL&si=td8dWYwiCjQxb5Nd).   We like to thank all of the returning alumni, and all of the contributors attending this online event.
+We are thankful to have **EIGHT former Rocket.Chat GSoC Alumni from as far back as SIX years ago** returning this year to guide, influence and inspire this year's new contributors at  the  [Rocket.Chat Google Summer of Code Alumni Summit 2024](https://gsoc.rocket.chat/community/conferences/c/GSoC-Alumni-Summit-2024)  on **March 25, 2024**.   Event was well attended (**over 50**) and the recorded proceedings is now available [here to benefit all GSoC 2024 participants](https://youtube.com/playlist?list=PLee3gqXJQrFUKj-H3KhTznl9K9j2on8KL&si=td8dWYwiCjQxb5Nd).   We like to thank all of the returning alumni, and all of the contributors for attending this online event.
 
 Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community:  **239 new contributors creating 98 Merged PRs, 97 Open PRs, and 247 Issues.** as of **March 24, 2024**!
 
