@@ -612,7 +612,7 @@ Through the extension, we should be able to
 
 ### 💡Smart Scheduling Assistant App
 
-👥**Mentor(s):**  Devanshu Sharma (@Dnouv)
+👥**Mentor(s):**  Devanshu Sharma (@Dnouv),  Douglas Guebert 
 
 💬**Description:** Create a Rocket.Chat app that acts as a Smart Scheduling Assistant. The app should be able to understand the context of a conversation, suggest meeting times, send calendar invites, or set reminders based on the chat content. The app should be configurable via the App's settings, allowing customization of the AI's understanding and response generation. The code should include at least two concrete examples of scheduling scenarios.
 
@@ -623,3 +623,22 @@ Through the extension, we should be able to
 ⏳**Project Duration:** 175 hours (Medium)
 
 📈 **Difficulty:** Intermediate
+
+-----
+
+### 💡AI Newsletter Generator and Publisher
+
+👥 **Mentor(s):**  Douglas Guebert,  Devanshu Sharma (@Dnouv)
+
+💬 **Description:**
+This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to help generate newsletters for special interest groups and/or teams operating on a Rocket.Chat server.   The newsletter author should be able to supply raw content to the AI generator and have perfectly phrased and formatted newsletter generated.   The app should allow for the immediate or scheduled publication of the resulting newsletter to either a team, subset of the server's user, or all of the server's users.  The app should also allow for emailing those who prefers to receive the newsletter via email.   Ideally the app should maintain a list of dynamically changing newsletter subscribers.
+
+💪 **Desired Skills:**
+Rocket.Chat App development. LLM prompt design/engineering.
+
+🎯 **Goals/Deliverables:**
+A working Rocket.Chat App that can generate newsletter for a user group or team.  
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Easy
