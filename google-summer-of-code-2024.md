@@ -40,6 +40,8 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
+We are thankful to have EIGHT former Rocket.Chat GSoC Alumni from as far back as SIX years ago returning this year to guide, influence and inspire this year's new contributors at  the  [Rocket.Chat Google Summer of Code Alumni Summit 2024](https://gsoc.rocket.chat/community/conferences/c/GSoC-Alumni-Summit-2024)  on **March 25, 2024**.   Event was well attended (over 50 total) and its recorded proceedings is now available [here to benefit all GSoC 2024 participants](https://youtube.com/playlist?list=PLee3gqXJQrFUKj-H3KhTznl9K9j2on8KL&si=td8dWYwiCjQxb5Nd).   We like to thank all of the returning alumni, and all of the contributors attending this online event.
+
 Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community:  **239 new contributors creating 98 Merged PRs, 97 Open PRs, and 247 Issues.** as of **March 24, 2024**!
 
 GSoC 2024 community mentors continued to help us to run the seventh and eight iteration of the ["Write an AI Rocket.Chat App in an hour"](https://open.rocket.chat/channel/events-and-meet-ups?msg=W5xsMZat4z8xSo2eJ) on **March 15, 2024** and **[March 22, 2024](https://open.rocket.chat/channel/events-and-meet-ups?msg=cw7rhdDgdgykNGsdP)** to a full house of attendees (we have increased capacity to 40+ attendees for recent sessions).  The session is hands-on, and we are doing everything we can to ensure every attendee recieves the same learning experience.  Thanks goes to the seventh and eighth set of ethusisastic attendees for providing us with valuable feedback. 
@@ -612,7 +614,7 @@ Through the extension, we should be able to
 
 ### 💡Smart Scheduling Assistant App
 
-👥**Mentor(s):**  Devanshu Sharma (@Dnouv),  Douglas Guebert 
+👥**Mentor(s):**  Devanshu Sharma (@Dnouv),  Douglas Gubert 
 
 💬**Description:** Create a Rocket.Chat app that acts as a Smart Scheduling Assistant. The app should be able to understand the context of a conversation, suggest meeting times, send calendar invites, or set reminders based on the chat content. The app should be configurable via the App's settings, allowing customization of the AI's understanding and response generation. The code should include at least two concrete examples of scheduling scenarios.
 
@@ -628,7 +630,7 @@ Through the extension, we should be able to
 
 ### 💡AI Newsletter Generator and Publisher
 
-👥 **Mentor(s):**  Douglas Guebert,  Devanshu Sharma (@Dnouv)
+👥 **Mentor(s):**  Douglas Gubert,  Devanshu Sharma (@Dnouv)
 
 💬 **Description:**
 This Rocket.Chat app leverages modern open source LLMs (Mistral,  Llama2, Phi, and so on) to help generate newsletters for special interest groups and/or teams operating on a Rocket.Chat server.   The newsletter author should be able to supply raw content to the AI generator and have perfectly phrased and formatted newsletter generated.   The app should allow for the immediate or scheduled publication of the resulting newsletter to either a team, subset of the server's user, or all of the server's users.  The app should also allow for emailing those who prefers to receive the newsletter via email.   Ideally the app should maintain a list of dynamically changing newsletter subscribers.
