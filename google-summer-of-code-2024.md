@@ -42,6 +42,8 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
+Application submissions official closed on April 2nd, and we have received a total of **225 proposals** from our ethusiastic GSoC 2024 contributors community. In the next few weeks, project mentors will be combing through these proposals and reviewing them for selection.  Meanwhile, open source contributions continue and we will be running our tenth instance of the hands-on workshop  ["Write an AI Rocket.Chat App in an hour"](https://open.rocket.chat/channel/events-and-meet-ups?msg=fCXChGkB882jMQ9Ha).  To thank our code contributors, we are also running a [special "thank you" activity](https://open.rocket.chat/channel/gsoc2024?msg=NtL7MX5Rhfcb5SnAq) for all code contributors having at least one PR merged this season.
+
 Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community:  **264 new contributors creating 102 Merged PRs, 94 Open PRs, and 249 Issues.** as of **April 3, 2024**!
 
 Returning GSoC community mentors helped us to run the ninth iterative refinement of the ["Write an AI Rocket.Chat App in an hour"](https://open.rocket.chat/channel/events-and-meet-ups?msg=X68J2y7ZTpaDfTa4Q)  on **March 29, 2024**  to a room full of attendees.  The session is hands-on, and we have improved it by adding more information on the use of UIKit from prior session feedback.  Thanks goes to the ninth set of ethusisastic attendees for providing us with more valuable feedback. 
@@ -76,7 +78,7 @@ Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), t
 
 ## 📂 Project Ideas
 
-> This is the GSoC 2024 project ideas list for Rocket.Chat.  As we continue to engage community mentors for 2024, the project ideas are subject to some changes. 
+> This is the GSoC 2024 project ideas list for Rocket.Chat.   
 
 ### 💡 Extended LLM Prompt Editor/Explorer
 
