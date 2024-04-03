@@ -20,7 +20,7 @@ For details and rules of Google Summer of Code 2024, please see the [GSoC 2024 O
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2024 : [https://open.rocket.chat/channel/gsoc2024](https://open.rocket.chat/channel/gsoc2024)
 
-Join our [Google Summer of Code 2024 Team ](https://open.rocket.chat/channel/gsoc2024) today, introduce yourself to the friendly community, and interact with over **565 like-minded** contributors/mentors and meet the team in the [49 team channels](https://open.rocket.chat/channel/gsoc2024/team-channels).
+Join our [Google Summer of Code 2024 Team ](https://open.rocket.chat/channel/gsoc2024) today, introduce yourself to the friendly community, and interact with over **636 like-minded** contributors/mentors and meet the team in the [50 team channels](https://open.rocket.chat/channel/gsoc2024/team-channels).
 
 If you have ideas and proposals that are not on our idea list, or if a mentor is not available, you can also email to:
 
@@ -41,6 +41,10 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 -----
 
 ### **Latest update**
+
+Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community:  **264 new contributors creating 102 Merged PRs, 94 Open PRs, and 249 Issues.** as of **April 3, 2024**!
+
+Returning GSoC community mentors helped us to run the ninth iterative refinement of the ["Write an AI Rocket.Chat App in an hour"](https://open.rocket.chat/channel/events-and-meet-ups?msg=X68J2y7ZTpaDfTa4Q)  on **March 29, 2024**  to a room full of attendees.  The session is hands-on, and we have improved it by adding more information on the use of UIKit from prior session feedback.  Thanks goes to the ninth set of ethusisastic attendees for providing us with more valuable feedback. 
 
 We are thankful to have **EIGHT former Rocket.Chat GSoC Alumni from as far back as SIX years ago** returning this year to guide, influence and inspire this year's new contributors at  the  [Rocket.Chat Google Summer of Code Alumni Summit 2024](https://gsoc.rocket.chat/community/conferences/c/GSoC-Alumni-Summit-2024)  on **March 25, 2024**.   Event was well attended (**over 50**) and the recorded proceedings is now available [here to benefit all GSoC 2024 participants](https://youtube.com/playlist?list=PLee3gqXJQrFUKj-H3KhTznl9K9j2on8KL&si=td8dWYwiCjQxb5Nd).   We like to thank all of the returning alumni, and all of the contributors for attending this online event.
 
