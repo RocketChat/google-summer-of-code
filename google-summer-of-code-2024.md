@@ -4,7 +4,9 @@
 
 ## How to apply
 
-Application for Google Summer of Code 2024 is now closed.  Accepted projects will be announced on May 1, 2024 1800UTC at the [official Google Summer of Code site](https://summerofcode.withgoogle.com/).
+Application for Google Summer of Code 2024 is now closed.  See [official Google Summer of Code site](https://summerofcode.withgoogle.com/).
+
+See [official accepted projects and contributors](https://summerofcode.withgoogle.com/programs/2024/organizations/rocketchat) for the list of projects this year.
 
 Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2024](https://summerofcode.withgoogle.com/), helping to usher in a new generation of open source contributors and enthusiasts.
 
