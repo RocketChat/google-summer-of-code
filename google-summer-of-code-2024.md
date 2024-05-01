@@ -44,6 +44,10 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
+Results for 2024 has been just been announced on **May 1, 2024**.  This is an incredible year for GSoC at Rocket.Chat. Thanks to the enthusiastic early interests from new contributors and extremely strong support of returning community mentors, Google has graciously selected **seventeen** Rocket.Chat projects.   This record ties with the year 2019 for us – a booming open-source year before COVID-19.    
+
+Mentors of selected projects will start welcoming the contributors officially and bringing them into our community bonding activities immediately.  See [official results](https://summerofcode.withgoogle.com/programs/2024/organizations/rocketchat) for more details about the accepted projects.   We will be listing the projects with mentor assignment here shortly. 
+
 Application submissions official closed on April 2nd, and we have received a total of **225 proposals** from our ethusiastic GSoC 2024 contributors community. In the next few weeks, project mentors will be combing through these proposals and reviewing them for selection.  Meanwhile, open source contributions continue and we will be running our tenth instance of the hands-on workshop  ["Write an AI Rocket.Chat App in an hour"](https://open.rocket.chat/channel/events-and-meet-ups?msg=fCXChGkB882jMQ9Ha).  To thank our code contributors, we are also running a [special "thank you" activity](https://open.rocket.chat/channel/gsoc2024?msg=NtL7MX5Rhfcb5SnAq) for all code contributors having at least one PR merged this season.
 
 Check out our [GSoC 2024 Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2024 community:  **264 new contributors creating 102 Merged PRs, 94 Open PRs, and 249 Issues.** as of **April 3, 2024**!
