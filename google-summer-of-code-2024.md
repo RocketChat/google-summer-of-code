@@ -46,7 +46,7 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 Results for 2024 has just been announced on **May 1, 2024**.  This is an incredible year for GSoC at Rocket.Chat. Thanks to the enthusiastic early interests from new contributors and extremely strong support of returning community mentors, Google has graciously selected **seventeen** Rocket.Chat projects.      
 
-Mentors of selected projects will start welcoming the contributors officially and bringing them into our community bonding activities immediately. 
+Mentors of selected projects will start welcoming the contributors officially and bringing them into our community bonding activities immediately.   An incredible *14 mentors this year are returning GSoC contributors from prior years*;  we sincerely thank them for their ethusiastic support.  
 
 All of these 17 selected projects are open source projects welcoming additional contributors.  Please click on links below.
 
@@ -57,21 +57,21 @@ All of these 17 selected projects are open source projects welcoming additional 
 | Abhi Patel  | Multiple files in one message   | DhruvJain, Rodrigo Nascimento |
 | Akshun Kuthiala    | API Documentation Generator                   | Guilherme Gazzo, Rodrigo Nascimento   |
 | Aman-Negi   | AI in-channel GIF Image Generator   | Nabhag Motivaras                         |
-| Anjaneya Gupta  | Google Summer of Code Community Hub 2024     |M. Palanikannan                  |
+| Anjaneya Gupta  | [Google Summer of Code Community Hub 2024](https://github.com/RocketChat/GSoC-Community-Hub)     |M. Palanikannan                  |
 | Ashutosh Singh Chauhan  |Extended LLM Prompt Editor/Explorer | Gabriel Engel, Shubham Bhardwaj             |
 | Hardik Bhatia     | Agile BOT              | Gabriel Casals, Felipe Scuciatto             |
 | Hunter Xia |AI Query Bot: a configurable Retrieval Augmented Generation pipeline executor  | Shiqi Mei        |
-| Jeffrey Yu | AI Chat Conversation Thread Summarizer              |Dnouv, José Petry                    |
-| Maria Khelli  | Smart Scheduling App Assistant | Douglas Gubert, Dnouv,    Sing Li                |
+| Jeffrey Yu | [AI Chat Conversation Thread Summarizer](https://github.com/RocketChat/Apps.Chat.Summarize)  |Dnouv, José Petry                    |
+| Maria Khelli  | [Smart Scheduling App Assistant](https://github.com/RocketChat/Apps.Smart.Scheduler) | Douglas Gubert, Dnouv,    Sing Li                |
 | Prisha Gupta |AI Assistant to help with understanding Rocket.Chat core codebase     | Vinayak_Sharma              |
-| Ryan Zhou  | AI C/C++, Java, Javascript, Typescript, Python Programmer   |Mustafa Hasan Khan, Samad Yar Khan                 |
+| Ryan Zhou  | [AI C/C++, Java, Javascript, Typescript, Python Programmer](https://github.com/RocketChat/Apps.RC.AI.Programmer)   |Mustafa Hasan Khan, Samad Yar Khan                 |
 |Sandeep Pillai  |AI In-message Emoji generator / embellisher | Sing Li, Shubham Bhardwaj            |
 | Sayan_Banerjee    | Graphical Guided RC Code Tours     | AdityaSingh-02            |
 | Umang Utkarsh |News Aggregation App | abhinavkrin        |
 | Vipin Chaudhary |Quick Replies Functionality in RocketChat    |Gabriel Casals, Hugo Costa                  |
-| Yuriko Kikuchi | AI Newsletter Generator and Publisher | Dnouv,  Douglas Gubert               |
+| Yuriko Kikuchi | [AI Newsletter Generator and Publisher](https://github.com/RocketChat/Apps.AI.Newsletter.Generator.and.Publisher) | Dnouv,  Douglas Gubert               |
 | Prisha Gupta |AI Assistant to help with understanding Rocket.Chat core codebase     | Vinayak_Sharma              |
-| Zishan_Ahmad | Embedded Chat 2024 | Sidharth Mohanty|
+| Zishan_Ahmad | [Embedded Chat 2024](https://github.com/RocketChat/EmbeddedChat) | Sidharth Mohanty|
 
 
 
