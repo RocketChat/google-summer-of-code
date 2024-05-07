@@ -46,7 +46,7 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 Results for 2024 has just been announced on **May 1, 2024**.  This is an incredible year for GSoC at Rocket.Chat. Thanks to the enthusiastic early interests from new contributors and extremely strong support of returning community mentors, Google has graciously selected **seventeen** Rocket.Chat projects.      
 
-Mentors of selected projects will start welcoming the contributors officially and bringing them into our community bonding activities immediately.   An incredible *14 mentors this year are returning GSoC contributors from prior years*;  we sincerely thank them for their ethusiastic support.  
+Mentors of selected projects will start welcoming the contributors officially and bringing them into our community bonding activities immediately.   An incredible **14 mentors this year are returning GSoC contributors from prior years**;  we sincerely thank them for their ethusiastic support.  
 
 
 ##### 2024 Projects
