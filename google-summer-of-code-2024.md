@@ -51,7 +51,7 @@ Mentors of selected projects will start welcoming the contributors officially an
 
 ##### 2024 Projects
 
-All of these 17 selected projects are open source projects welcoming additional contributors.  Please click on links below and start contributing!
+All of the 17 projects are open source projects welcoming additional contributors.  Please click on links below and start contributing!
 
 
 | Contributor      | Project                                 | Mentors                                        |
