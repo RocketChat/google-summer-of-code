@@ -48,9 +48,11 @@ Results for 2024 has just been announced on **May 1, 2024**.  This is an incredi
 
 Mentors of selected projects will start welcoming the contributors officially and bringing them into our community bonding activities immediately.   An incredible *14 mentors this year are returning GSoC contributors from prior years*;  we sincerely thank them for their ethusiastic support.  
 
-All of these 17 selected projects are open source projects welcoming additional contributors.  Please click on links below.
 
 ##### 2024 Projects
+
+All of these 17 selected projects are open source projects welcoming additional contributors.  Please click on links below and start contributing!
+
 
 | Contributor      | Project                                 | Mentors                                        |
 | ---------------- | --------------------------------------- | ---------------------------------------------- |
