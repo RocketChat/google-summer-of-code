@@ -72,7 +72,6 @@ All of the 17 projects are open source projects welcoming additional contributor
 | Umang Utkarsh |News Aggregation App | abhinavkrin        |
 | Vipin Chaudhary |Quick Replies Functionality in RocketChat    |Gabriel Casals, Hugo Costa                  |
 | Yuriko Kikuchi | [AI Newsletter Generator and Publisher](https://github.com/RocketChat/Apps.AI.Newsletter.Generator.and.Publisher) | Dnouv,  Douglas Gubert               |
-| Prisha Gupta |AI Assistant to help with understanding Rocket.Chat core codebase     | Vinayak_Sharma              |
 | Zishan_Ahmad | [Embedded Chat 2024](https://github.com/RocketChat/EmbeddedChat) | Sidharth Mohanty|
 
 
