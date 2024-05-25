@@ -60,17 +60,17 @@ All of the 17 projects are open source projects welcoming additional contributor
 | Akshun Kuthiala    | API Documentation Generator                   | Guilherme Gazzo, Rodrigo Nascimento   |
 | Aman-Negi   | AI in-channel GIF Image Generator   | Nabhag Motivaras                         |
 | Anjaneya Gupta  | [Google Summer of Code Community Hub 2024](https://github.com/RocketChat/GSoC-Community-Hub)     |M. Palanikannan                  |
-| Ashutosh Singh Chauhan  |Extended LLM Prompt Editor/Explorer | Gabriel Engel, Shubham Bhardwaj             |
+| Ashutosh Singh Chauhan  |[Extended LLM Prompt Editor/Explorer](https://github.com/RocketChat/Apps.LLM.PromptEditor) | Gabriel Engel, Shubham Bhardwaj             |
 | Hardik Bhatia     | Agile BOT              | Gabriel Casals, Felipe Scuciatto             |
 | Hunter Xia |AI Query Bot: a configurable Retrieval Augmented Generation pipeline executor  | Shiqi Mei        |
 | Jeffrey Yu | [AI Chat Conversation Thread Summarizer](https://github.com/RocketChat/Apps.Chat.Summarize)  |Dnouv, José Petry                    |
 | Maria Khelli  | [Smart Scheduling App Assistant](https://github.com/RocketChat/Apps.Smart.Scheduler) | Douglas Gubert, Dnouv,    Sing Li                |
 | Prisha Gupta |AI Assistant to help with understanding Rocket.Chat core codebase     | Vinayak_Sharma              |
-| Ryan Zhou  | [AI C/C++, Java, Javascript, Typescript, Python Programmer](https://github.com/RocketChat/Apps.RC.AI.Programmer)   |Mustafa Hasan Khan, Samad Yar Khan                 |
-|Sandeep Pillai  |AI In-message Emoji generator / embellisher | Sing Li, Shubham Bhardwaj            |
+| Ryan Zhou  | [AI C/C++, Java, Javascript, Typescript, Python Programmer](https://github.com/RocketChat/Apps.RC.AI.Programmer)   |Mustafa Hasan Khan, Samad Yar [Khan                 |
+|Sandeep Pillai  |[AI In-message Emoji generator / embellisher](https://github.com/RocketChat/Apps.Emoji.Embellisher) | Sing Li, Shubham Bhardwaj            |
 | Sayan_Banerjee    | Graphical Guided RC Code Tours     | AdityaSingh-02            |
 | Umang Utkarsh |News Aggregation App | abhinavkrin        |
-| Vipin Chaudhary |Quick Replies Functionality in RocketChat    |Gabriel Casals, Hugo Costa                  |
+| Vipin Chaudhary |[Quick Replies Functionality in RocketChat](https://github.com/RocketChat/Apps.QuickReplies)    |Gabriel Casals, Hugo Costa                  |
 | Yuriko Kikuchi | [AI Newsletter Generator and Publisher](https://github.com/RocketChat/Apps.AI.Newsletter.Generator.and.Publisher) | Dnouv,  Douglas Gubert               |
 | Zishan_Ahmad | [Embedded Chat 2024](https://github.com/RocketChat/EmbeddedChat) | Sidharth Mohanty|
 
