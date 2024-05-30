@@ -58,7 +58,7 @@ All of the 17 projects are open source projects welcoming additional contributor
 | ---------------- | --------------------------------------- | ---------------------------------------------- |
 | Abhi Patel  | Multiple files in one message   | DhruvJain, Rodrigo Nascimento |
 | Akshun Kuthiala    | API Documentation Generator                   | Guilherme Gazzo, Rodrigo Nascimento   |
-| Aman-Negi   | AI in-channel GIF Image Generator   | Nabhag Motivaras                         |
+| Aman-Negi   | [AI in-channel GIF Image Generator](https://github.com/RocketChat/Apps.AI.GIF)   | Nabhag Motivaras                         |
 | Anjaneya Gupta  | [Google Summer of Code Community Hub 2024](https://github.com/RocketChat/GSoC-Community-Hub)     |M. Palanikannan                  |
 | Ashutosh Singh Chauhan  |[Extended LLM Prompt Editor/Explorer](https://github.com/RocketChat/Apps.LLM.PromptEditor) | Gabriel Engel, Shubham Bhardwaj             |
 | Hardik Bhatia     | Agile BOT              | Gabriel Casals, Felipe Scuciatto             |
@@ -69,7 +69,7 @@ All of the 17 projects are open source projects welcoming additional contributor
 | Ryan Zhou  | [AI C/C++, Java, Javascript, Typescript, Python Programmer](https://github.com/RocketChat/Apps.RC.AI.Programmer)   |Mustafa Hasan Khan, Samad Yar [Khan                 |
 |Sandeep Pillai  |[AI In-message Emoji generator / embellisher](https://github.com/RocketChat/Apps.Emoji.Embellisher) | Sing Li, Shubham Bhardwaj            |
 | Sayan_Banerjee    | Graphical Guided RC Code Tours     | AdityaSingh-02            |
-| Umang Utkarsh |News Aggregation App | abhinavkrin        |
+| Umang Utkarsh |[News Aggregation App](https://github.com/RocketChat/Apps.News-Aggregation) | abhinavkrin        |
 | Vipin Chaudhary |[Quick Replies Functionality in RocketChat](https://github.com/RocketChat/Apps.QuickReplies)    |Gabriel Casals, Hugo Costa                  |
 | Yuriko Kikuchi | [AI Newsletter Generator and Publisher](https://github.com/RocketChat/Apps.AI.Newsletter.Generator.and.Publisher) | Dnouv,  Douglas Gubert               |
 | Zishan_Ahmad | [Embedded Chat 2024](https://github.com/RocketChat/EmbeddedChat) | Sidharth Mohanty|
