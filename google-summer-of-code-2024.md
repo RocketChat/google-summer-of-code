@@ -61,7 +61,7 @@ All of the 17 projects are open source projects welcoming additional contributor
 | Aman-Negi   | [AI in-channel GIF Image Generator](https://github.com/RocketChat/Apps.AI.GIF)   | Nabhag Motivaras                         |
 | Anjaneya Gupta  | [Google Summer of Code Community Hub 2024](https://github.com/RocketChat/GSoC-Community-Hub)     |M. Palanikannan                  |
 | Ashutosh Singh Chauhan  |[Extended LLM Prompt Editor/Explorer](https://github.com/RocketChat/Apps.LLM.PromptEditor) | Gabriel Engel, Shubham Bhardwaj             |
-| Hardik Bhatia     | Agile BOT              | Gabriel Casals, Felipe Scuciatto             |
+| Hardik Bhatia     | [Agile BOT](https://github.com/RocketChat/AgileBot)            | Gabriel Casals, Felipe Scuciatto             |
 | Hunter Xia |AI Query Bot: a configurable Retrieval Augmented Generation pipeline executor  | Shiqi Mei        |
 | Jeffrey Yu | [AI Chat Conversation Thread Summarizer](https://github.com/RocketChat/Apps.Chat.Summarize)  |Dnouv, José Petry                    |
 | Maria Khelli  | [Smart Scheduling App Assistant](https://github.com/RocketChat/Apps.Smart.Scheduler) | Douglas Gubert, Dnouv,    Sing Li                |
