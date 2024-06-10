@@ -65,7 +65,7 @@ All of the 17 projects are open source projects welcoming additional contributor
 | Hunter Xia |AI Query Bot: a configurable Retrieval Augmented Generation pipeline executor  | Shiqi Mei        |
 | Jeffrey Yu | [AI Chat Conversation Thread Summarizer](https://github.com/RocketChat/Apps.Chat.Summarize)  |Dnouv, José Petry                    |
 | Maria Khelli  | [Smart Scheduling App Assistant](https://github.com/RocketChat/Apps.Smart.Scheduler) | Douglas Gubert, Dnouv,    Sing Li                |
-| Prisha Gupta |AI Assistant to help with understanding Rocket.Chat core codebase     | Vinayak_Sharma              |
+| Prisha Gupta |[AI Assistant to help with understanding Rocket.Chat core codebase](https://github.com/RocketChat/Apps.AI.Codebase.Assistant)     | Vinayak_Sharma              |
 | Ryan Zhou  | [AI C/C++, Java, Javascript, Typescript, Python Programmer](https://github.com/RocketChat/Apps.RC.AI.Programmer)   |Mustafa Hasan Khan, Samad Yar [Khan                 |
 |Sandeep Pillai  |[AI In-message Emoji generator / embellisher](https://github.com/RocketChat/Apps.Emoji.Embellisher) | Sing Li, Shubham Bhardwaj            |
 | Sayan_Banerjee    | Graphical Guided RC Code Tours     | AdityaSingh-02            |
