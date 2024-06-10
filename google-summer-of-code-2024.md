@@ -62,7 +62,7 @@ All of the 17 projects are open source projects welcoming additional contributor
 | Anjaneya Gupta  | [Google Summer of Code Community Hub 2024](https://github.com/RocketChat/GSoC-Community-Hub)     |M. Palanikannan                  |
 | Ashutosh Singh Chauhan  |[Extended LLM Prompt Editor/Explorer](https://github.com/RocketChat/Apps.LLM.PromptEditor) | Gabriel Engel, Shubham Bhardwaj             |
 | Hardik Bhatia     | [Agile BOT](https://github.com/RocketChat/AgileBot)            | Gabriel Casals, Felipe Scuciatto             |
-| Hunter Xia |AI Query Bot: a configurable Retrieval Augmented Generation pipeline executor  | Shiqi Mei        |
+| Hunter Xia | [AI Query Bot: a configurable Retrieval Augmented Generation pipeline executor](https://github.com/RocketChat/Apps.Rocket.Chat.QueryBot) | Shiqi Mei        |
 | Jeffrey Yu | [AI Chat Conversation Thread Summarizer](https://github.com/RocketChat/Apps.Chat.Summarize)  |Dnouv, José Petry                    |
 | Maria Khelli  | [Smart Scheduling App Assistant](https://github.com/RocketChat/Apps.Smart.Scheduler) | Douglas Gubert, Dnouv,    Sing Li                |
 | Prisha Gupta |[AI Assistant to help with understanding Rocket.Chat core codebase](https://github.com/RocketChat/Apps.AI.Codebase.Assistant)     | Vinayak_Sharma              |
