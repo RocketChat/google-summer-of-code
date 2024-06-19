@@ -43,6 +43,11 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 -----
 
 ### **Latest update**
+**June 18, 2024**  Community bonding period has come and gone, and every one of our seventeen projects is now well into the coding phase. Mentors are keeping in touch with their contributors through our [open server](https://open.rocket.chat/channel/gsoc2024)  as well as regular video meeting. 
+
+Most of this years' projects are AI related, and we have started an **open source AI club** to talk shop --- welcoming all our GSoC contributors, their mentors, AI ethusiasts in our community, and open source / AI professionals that we keep in touch with.  Many of this year's projects are also now ready for wider community contribution  (check them out here -   https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2024.md#2024-projects).  
+
+We have a very wide diversity of projects, participants, and mentors this year, and have observed some interesting trends;  we are also learning from running the new short duration (typically AI related) projects this year - and we will share our experience with the larger organizations community at this year's mentor's summit.  We have noticed one project exhibiting signs of mentor negligence; and another one with a contributor falling ill from the recent local *heat-dome* and may withdraw;  adminstrators are in touch with these projects hopefully correcting their courses before the midterm.     
 
 Results for 2024 has just been announced on **May 1, 2024**.  This is an incredible year for GSoC at Rocket.Chat. Thanks to the enthusiastic early interests from new contributors and extremely strong support of returning community mentors, Google has graciously selected **seventeen** Rocket.Chat projects.      
 
