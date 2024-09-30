@@ -44,7 +44,7 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
-** September 30, 2024**  We are delighted to conclude the Google Summer of Code 2024 season with 17 successful projects, thanks to all the hard work of the new community contributors and all the participating mentors.  On September 12, We hosted our annual live event [Rocket.Chat Gooogle Summer of Code 2024 Demo Day](https://gsoc.rocket.chat/community/conferences/c/GSoC-Demo-Day-24#Sessions) where all our contributors present and demostrate their project to our community in real time.   The event was a great success, with 16 out of the 17 new contributors conducting live presentations.  The proceeding of the day is now available [via this playlist link](https://www.youtube.com/playlist?list=PLee3gqXJQrFXy3Bi6sfaUOLQqXugPsSt9).   This is the 20th anniversaries of Google Summer of Code and a few of us are quite excited to participate in the celebrations at the mentors' summit in the coming week. 
+**September 30, 2024**  We are delighted to conclude the Google Summer of Code 2024 season with 17 successful projects, thanks to all the hard work of the new community contributors and all the participating mentors.  On September 12, We hosted our annual live event [Rocket.Chat Gooogle Summer of Code 2024 Demo Day](https://gsoc.rocket.chat/community/conferences/c/GSoC-Demo-Day-24#Sessions) where all our contributors present and demostrate their project to our community in real time.   The event was a great success, with 16 out of the 17 new contributors conducting live presentations.  The proceeding of the day is now available [via this playlist link](https://www.youtube.com/playlist?list=PLee3gqXJQrFXy3Bi6sfaUOLQqXugPsSt9).   This is the 20th anniversaries of Google Summer of Code and a few of us are quite excited to participate in the celebrations at the mentors' summit in the coming week. 
 
 **June 18, 2024**  Community bonding period has come and gone, and every one of our seventeen projects is now well into the coding phase. Mentors are keeping in touch with their contributors through our [open server](https://open.rocket.chat/channel/gsoc2024)  as well as regular video meeting. 
 
@@ -64,19 +64,19 @@ All of the 17 projects are open source projects welcoming additional contributor
 
 | Contributor      | Project                                 | Mentors                                        |
 | ---------------- | --------------------------------------- | ---------------------------------------------- |
-| Abhi Patel  | Multiple files in one message   | DhruvJain, Rodrigo Nascimento |
+| Abhi Patel  | Multiple files in one message   | Dhruv Jain, Rodrigo Nascimento |
 | Akshun Kuthiala    | API Documentation Generator                   | Guilherme Gazzo, Rodrigo Nascimento   |
 | Aman-Negi   | [AI in-channel GIF Image Generator](https://github.com/RocketChat/Apps.AI.GIF)   | Nabhag Motivaras                         |
 | Anjaneya Gupta  | [Google Summer of Code Community Hub 2024](https://github.com/RocketChat/GSoC-Community-Hub)     |M. Palanikannan                  |
-| Ashutosh Singh Chauhan  |[Extended LLM Prompt Editor/Explorer](https://github.com/RocketChat/Apps.LLM.PromptEditor) | Gabriel Engel, Shubham Bhardwaj             |
+| Ashutosh Singh Chauhan  |[Extended LLM Prompt Editor/Explorer](https://github.com/RocketChat/Apps.LLM.PromptEditor) | Gabriel Engel, John Crisp, Shubham Bhardwaj             |
 | Hardik Bhatia     | [Agile BOT](https://github.com/RocketChat/AgileBot)            | Gabriel Casals, Felipe Scuciatto             |
 | Hunter Xia | [AI Query Bot: a configurable Retrieval Augmented Generation pipeline executor](https://github.com/RocketChat/Apps.Rocket.Chat.QueryBot) | Shiqi Mei        |
 | Jeffrey Yu | [AI Chat Conversation Thread Summarizer](https://github.com/RocketChat/Apps.Chat.Summarize)  |Dnouv, José Petry                    |
 | Maria Khelli  | [Smart Scheduling App Assistant](https://github.com/RocketChat/Apps.Smart.Scheduler) | Douglas Gubert, Dnouv,    Sing Li                |
 | Prisha Gupta |[AI Assistant to help with understanding Rocket.Chat core codebase](https://github.com/RocketChat/Apps.AI.Codebase.Assistant)     | Vinayak_Sharma              |
-| Ryan Zhou  | [AI C/C++, Java, Javascript, Typescript, Python Programmer](https://github.com/RocketChat/Apps.RC.AI.Programmer)   |Mustafa Hasan Khan, Samad Yar [Khan                 |
+| Ryan Zhou  | [AI C/C++, Java, Javascript, Typescript, Python Programmer](https://github.com/RocketChat/Apps.RC.AI.Programmer)   | Samad Yar Khan, John Crisp,  Mustafa Hasan Khan     |
 |Sandeep Pillai  |[AI In-message Emoji generator / embellisher](https://github.com/RocketChat/Apps.Emoji.Embellisher) | Sing Li, Shubham Bhardwaj            |
-| Sayan_Banerjee    | Graphical Guided RC Code Tours     | AdityaSingh-02            |
+| Sayan_Banerjee    | [Graphical Guided RC Code Tours](https://github.com/RocketChat/RC.Guided.Tours)     | Aditya Singh  |
 | Umang Utkarsh |[News Aggregation App](https://github.com/RocketChat/Apps.News-Aggregation) | abhinavkrin        |
 | Vipin Chaudhary |[Quick Replies Functionality in RocketChat](https://github.com/RocketChat/Apps.QuickReplies)    |Gabriel Casals, Hugo Costa                  |
 | Yuriko Kikuchi | [AI Newsletter Generator and Publisher](https://github.com/RocketChat/Apps.AI.Newsletter.Generator.and.Publisher) | Dnouv,  Douglas Gubert               |
