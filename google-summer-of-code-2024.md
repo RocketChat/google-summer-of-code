@@ -43,6 +43,9 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 -----
 
 ### **Latest update**
+
+** September 30, 2024**  We are delighted to conclude the Google Summer of Code 2024 season with 17 successful projects, thanks to all the hard work of the new community contributors and all the participating mentors.  On September 12, We hosted our annual live event [Rocket.Chat Gooogle Summer of Code 2024 Demo Day](https://gsoc.rocket.chat/community/conferences/c/GSoC-Demo-Day-24#Sessions) where all our contributors present and demostrate their project to our community in real time.   The event was a great success, with 16 out of the 17 new contributors conducting live presentations.  The proceeding of the day is now available [via this playlist link](https://www.youtube.com/playlist?list=PLee3gqXJQrFXy3Bi6sfaUOLQqXugPsSt9).   This is the 20th anniversaries of Google Summer of Code and a few of us are quite excited to participate in the celebrations at the mentors' summit in the coming week. 
+
 **June 18, 2024**  Community bonding period has come and gone, and every one of our seventeen projects is now well into the coding phase. Mentors are keeping in touch with their contributors through our [open server](https://open.rocket.chat/channel/gsoc2024)  as well as regular video meeting. 
 
 Most of this years' projects are AI related, and we have started an **open source AI club** to talk shop --- welcoming all our GSoC contributors, their mentors, AI ethusiasts in our community, and open source / AI professionals that we keep in touch with.  Many of this year's projects are also now ready for wider community contribution  (check them out here -   https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2024.md#2024-projects).  
