@@ -6,11 +6,11 @@
 
 Rocket.Chat is applying to become a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to usher in a new generation of open source contributors and enthusiasts.
 
-For timeline, see [Official Google Summer of Code 2024](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.
+For timeline, see [Official Google Summer of Code 2025](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.
 
 Almost anyone in the world [over 18 years of age](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html) who loves coding and wants to explore the incredible world of open source can join us as a GSoC 2025 contributor.
 
-Most exciting news for the 2025 season is a new [focus on ML/AI plus security projects, and the continued support for a small project type with a 90 hours duration](https://opensource.googleblog.com/2023/11/google-summer-of-code-2024-celebrating-20th-year.html); allowing participation from those who can only  devote part of their summer to exploring open source.
+Most exciting news for the 2025 season is a new [focus on ML/AI plus security projects, and the continued support for a small project type with a 90 hours duration](https://opensource.googleblog.com/2023/11/google-summer-of-code-2025-celebrating-20th-year.html); allowing participation from those who can only  devote part of their summer to exploring open source.
 
 For details and rules of Google Summer of Code 2025, please see the [GSoC 2025 Official Website](https://summerofcode.withgoogle.com/). For timeline, see [Official Google Summer of Code 2025 Timeline](https://developers.google.com/open-source/gsoc/timeline) for more details.
 
@@ -18,11 +18,11 @@ For details and rules of Google Summer of Code 2025, please see the [GSoC 2025 O
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2025 : [https://open.rocket.chat/channel/gsoc2025](https://open.rocket.chat/channel/gsoc2025)
 
-Join our [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2024) today, introduce yourself to the friendly community, and interact with over **110 like-minded** contributors/mentors (as of January 27, 2025)  and meet the team in the [20+ team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
+Join our [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) today, introduce yourself to the friendly community, and interact with over **110 like-minded** contributors/mentors (as of January 27, 2025)  and meet the team in the [20+ team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
 
 If you have ideas and proposals that are not on our idea list, or if a mentor is not available, you can also email to:
 
-gsoc+2024@rocket.chat
+gsoc+2025@rocket.chat
 
 But better yet, you can post your idea in the [New GSoC 2025 Ideas looking for mentors](https://open.rocket.chat/channel/New-GSoC-2025-Ideas-looking-for-mentors) channel and possibly getting some immediate community feedback or support for your idea.
 
@@ -69,9 +69,9 @@ A prompt editor is the quintessential development tool for any  AI/ML prompt eng
 👥 **Mentor(s):** Mentor 1 and Mentor 2
 
 💬 **Description:**
-Most Rocket.Chat developers uses VSCode when studying our massive production code base, and when writing new code. VSCode is the best environment for conducting interactive tutorial and code walkthroughs. The CodeTour extension available in VSCode can be used to create such walkthrough and tutorials. This project involves the development of a set of guided tutorials using CodeTour that will help new developers to understand how to perform multiple actions. In 2024, we want to extend these tours to include graphical diagrams and flow charts.  
+Most Rocket.Chat developers uses VSCode when studying our massive production code base, and when writing new code. VSCode is the best environment for conducting interactive tutorial and code walkthroughs. The CodeTour extension available in VSCode can be used to create such walkthrough and tutorials. This project involves the development of a set of guided tutorials using CodeTour that will help new developers to understand how to perform multiple actions. In 2025, we want to extend these tours to include graphical diagrams and flow charts.  
 
-Paths to be documented and graphically enhanced for 2024 include these areas:
+Paths to be documented and graphically enhanced for 2025 include these areas:
 
 * How a message is sent
 * How to create an endpoint
