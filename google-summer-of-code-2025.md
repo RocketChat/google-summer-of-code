@@ -44,7 +44,7 @@ As of January 27th 2025  checkout our [GSoC 2025  Contributors Leaderboard](http
 
 ## 📂 Project Ideas
 
-> This is the GSoC 2025 project ideas list for Rocket.Chat.   
+> This is an early draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes during the application period - as mentors and potential contributors discuss and evolve the project descriptions.
 
 ### 💡 An Interesting Placeholder for AI/ML project 
 
