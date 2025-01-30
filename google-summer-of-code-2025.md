@@ -119,21 +119,21 @@ A Rocket.Chat App that can presents users with daily news feed gathered from all
 
 💬 **Description:**
 Improvement to the EmbeddedChat project this year includes:
-- Creation of a Rocket.Chat App to remotely configure the associated EmbeddedChat instance(s).
-- Security improvements for authentication (one such is providing endpoints using the created EmbeddedChat app for RocketChat to support cookie-based authentication instead of storing the token in localStorage).
-- Improving the UI library by making it completely headless and adding different pre-built templates).
-Bonus: improvements in UI kit rendering inside EmbeddedChat
+- Upgrading the current API and auth packages to use the latest Rocket.Chat SDK packages like `ddp-client`, and aligning other components to use other abstraction provided by Rocket.Chat, ensuring these packages will be managed internally moving forward.
+- Making the EmbeddedChat fully mobile-responsive for a seamless experience across all devices.
+- Improving the UI and adding more customization options to enhance the user experience.
 
 💪 **Desired Skills:**
-Rocket.Chat App development
+React.Js
 
 🎯 **Goals/Deliverables:**
-Improved EmbeddedChat that can be configured on the associated Rocket.Chat instance and major security update which requires to completely shift from localStorage to browser cookies. Clean UI for EmbeddedChat and provide users with some pre-built templates so that they can easily get started with EmbeddedChat.
+- Integration of the latest Rocket.Chat SDK packages
+- Fully mobile-responsive EmbeddedChat
+- Improved UI with more customization options
 
 ⏳ **Project Duration:** 90 hours (Small)
 
 📈 **Difficulty:** Easy/Intermediate
-
 
 -----
 
