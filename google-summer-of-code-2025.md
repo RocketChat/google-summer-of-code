@@ -111,9 +111,9 @@ React.Js
 
 -----
 
-### 💡 Rocket.Chat Docs Assistant (RAG-based AI Search)
+### 💡 AI Docs Assistant App
 
-👥 **Mentor(s):** Devanshu  
+👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv)  
 
 💬 **Description:**  
 This project aims to build a Rocket.Chat App that provides a **natural language interface** for querying Rocket.Chat Docs (docs.rocket.chat). Instead of manually searching for answers, users can simply ask the app, and it will return a **relevant, structured response** based on the documentation.  
@@ -132,7 +132,7 @@ Key Features:
 
 🎯 **Goals/Deliverables:**  
 - A Rocket.Chat App that enables users to query Rocket.Chat Docs via natural language.  
-- **Efficient RAG-based retrieval** with an in-memory vector store.  
+- **Efficient RAG-based retrieval** with an in-memory vector store. 
 - A **lightweight, CPU-friendly embedding model** for query similarity matching.  
 - **Interactive chat interface** that tracks context for follow-up queries.  
 
