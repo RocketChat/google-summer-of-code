@@ -136,7 +136,7 @@ Key Features:
 - A **lightweight, CPU-friendly embedding model** for query similarity matching.  
 - **Interactive chat interface** that tracks context for follow-up queries.  
 
-⏳ **Project Duration:** 175 hours (Medium)  
+⏳ **Project Duration:** 90 hours (Small)  
 
 📈 **Difficulty:** Intermediate/Advanced  
 
