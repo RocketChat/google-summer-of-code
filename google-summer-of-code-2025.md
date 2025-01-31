@@ -48,7 +48,7 @@ As of January 27th 2025  checkout our [GSoC 2025  Contributors Leaderboard](http
 
 
 
-### 📅  Message Timestamp Date Picker
+### 📅  Message Timestamp Date Picker Components
 
 👥 **Mentor(s):** [Martin Schoeler](https://open.rocket.chat/direct/martin.schoeler)
 
