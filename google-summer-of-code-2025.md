@@ -87,20 +87,60 @@ The creation of tests for the new component is also expected, both end to end an
 
 -----
 
+
+### 💡On-Vacation Helper App 
+
+👥 **Mentor(s):** Jeffrey Yu
+
+💬 **Description:**  
+
+This LLM-powered app will suggest interesting events and happenings for users during their vacation.   
+
+Details:
+
+* While on vacation, a user can take a photo of his surroundings and upload it to a channel
+* The app will first process the image by passing it to an image reasoning multi-modal LLM to ascertain the location or point of interest or event venue (perhaps reinforced by GPS location information).  
+* Then in a second step an(other) LLM's tools/function-calling capability is used to fetch up-to-date events and happening information over the Internet, catering for the user's current interest. 
+* Finally, a friendly report is produced by an(other) LLM as the last step of a RAG pipeline. 
+* This app should never produce erraneous output. It should know its own limitaion and decline to report if in doubt.   
+
+
+💪 **Desired Skills:**  
+
+- Rocket.Chat Apps Engine (TypeScript)  
+- Familiarity with the "RAG" agentic workflow  
+- Intermediate prompt engineering Skills   
+- Experience with image reasoning capabilities of modern open source multi-modal LLMs  
+- Experience with tools/function-calling capabilities of modern LLMs
+
+🎯 **Goals/Deliverables:**  
+
+- A working Rocket.Chat App that assists users with latest happenings around them wherever they may be while on vacations. 
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Intermediate/Advanced  
+
+-----
+
+
 ### 💡Embedded Chat 2025
 
 👥 **Mentor(s):** Zishan Ahmad
 
 💬 **Description:**
+
 Improvement to the EmbeddedChat project this year includes:
 - Upgrading the current API and auth packages to use the latest Rocket.Chat SDK packages like `ddp-client`, and aligning other components to use other abstraction provided by Rocket.Chat, ensuring these packages will be managed internally moving forward.
 - Making the EmbeddedChat fully mobile-responsive for a seamless experience across all devices.
 - Improving the UI and adding more customization options to enhance the user experience.
 
 💪 **Desired Skills:**
+
 React.Js
 
 🎯 **Goals/Deliverables:**
+
 - Integration of the latest Rocket.Chat SDK packages
 - Fully mobile-responsive EmbeddedChat
 - Improved UI with more customization options
@@ -111,26 +151,94 @@ React.Js
 
 -----
 
+### 💡 Receipts Processor and Reporting App powered by Multi-modal LLMs 
+
+👥 **Mentor(s):** Maria Khelli
+
+💬 **Description:**  
+
+While attending a busy conferences or event, the need to keep track of receipts and then having to adding them up manually to fill in expense reports is a very common and tedious problem.  This project is a Rocket.Chat app that completely automate the process.   
+
+Details:
+
+* The user will be able to take pictures of restaurant receipts on their phone and upload it into a specific channel (representing a single event, duration of time, or trip, and so on...).  
+
+* Upon request, the app should  read and sum all the receipts producing a detailed report.  Ideally, the input format and image size should be flexible and the report format should be customizable via templates.  
+
+* The app should never produce erraneous result under any circumstances, it should be able to recognize its limitation and decline to complete the task instead of giving potentially erraneous output.  
+
+💪 **Desired Skills:**  
+
+- Rocket.Chat Apps Engine (TypeScript)  
+- Intermediate prompt engineering Skills   
+- Experience with image reasoning capabilities of available open source multi-modal LLMs  
+
+
+🎯 **Goals/Deliverables:**  
+
+A working Rocket.Chat app that will scan and sum all the restaurant receipts uploaded to a specific channel.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Easy/Intermediate  
+
+-----
+
+### 💡End to End Encrypted Message Handling for Ruqola on KDE
+
+👥 **Mentor(s):** [Montel Laurant](https://github.com/Montel)  
+
+💬 **Description:**  
+
+Add end to end encrypted message feature to the [Ruqola client](https://github.com/KDE/ruqola) on KDE.  Ruqola is the de-facto standard Rocket.Chat client running on KDE.   This project will be co-mentored by an expert mentor from KDE.
+
+Details:
+- some UI elements to handle E2E encrypted messages is already in place
+- careful consideration for key management is essential to a successful implementation
+    - how does the user get the key?  what happens when he/she loses the key?  
+    - what UI is needed to support re-generation of key?
+    - how does one display a channel with messages that may be encrypted by different keys? 
+
+💪 **Desired Skills:**  
+- Rocket.Chat API programming (REST and DDP) 
+- Solid experience with C++ programming
+- Experience with large and complex C++ projects
+- Working experience with KDE on Linux (such as kubuntu) 
+- Ideally already user of Ruqola
+
+🎯 **Goals/Deliverables:**  
+Add support for E2E Encrypted messages in Ruqola.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Advanced  
+
+----
+
 ### 💡 AI Docs Assistant App
 
 👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv)  
 
 💬 **Description:**  
+
 This project aims to build a Rocket.Chat App that provides a **natural language interface** for querying Rocket.Chat Docs (docs.rocket.chat). Instead of manually searching for answers, users can simply ask the app, and it will return a **relevant, structured response** based on the documentation.  
 
 Key Features:  
+
 - **Retrieval-Augmented Generation (RAG)** approach to search and retrieve docs.  
 - **Local embedding model** (running on CPU) to generate query representations.  
 - **In-memory vector store** to efficiently match queries to relevant documentation.  
 - **Context-aware responses** to handle follow-up questions naturally.  
 
 💪 **Desired Skills:**  
+
 - Rocket.Chat Apps Engine (TypeScript)  
 - Natural Language Processing (NLP)  
 - Vector search (HNSW, LSH, or similar techniques in JS)  
 - Web Storage & IndexedDB (for caching, if needed)  
 
 🎯 **Goals/Deliverables:**  
+
 - A Rocket.Chat App that enables users to query Rocket.Chat Docs via natural language.  
 - **Efficient RAG-based retrieval** with an in-memory vector store. 
 - A **lightweight, CPU-friendly embedding model** for query similarity matching.  
@@ -139,5 +247,120 @@ Key Features:
 ⏳ **Project Duration:** 90 hours (Small)  
 
 📈 **Difficulty:** Intermediate/Advanced  
+
+---
+
+### 💡Google Summer of Code Community Hub 2025
+
+👥 **Mentor(s):** Ashutosh Singh Chauhan
+
+💬 **Description:**  
+
+Continuing our work on a "full stack component framework" in which a scalable website can be created by non-technical users using drag-and-drop components that not only include UI and client-side logic, but also pre-scaled server-side behaviors (or serverless impl). 
+
+The ultimate use-case we have been working on is the community hub for Rocket.Chat Google Summer of Code. It will link all the despearate servers into one easy to customize and maintain uniform scalable web app (comprise of a set of full-stack components).
+
+This year's work will include:
+- rebasing of the existing platform and components on Svelte 5
+- moving the WYSIWYG "Syntax Sweetening" work done last year to this new platform
+- implementation of auth via OIDC
+- migrate over the event poster component (used for our demo day)
+- migrate over the video-meet-your-mentor component
+- implement the gsoc leaderboard component
+- implement embeddedchat component
+
+💪 **Desired Skills:**  
+
+- Advanced Typescript
+- Svelte 5
+- AST concepts  
+
+🎯 **Goals/Deliverables:**  
+
+A functional community hub website that we will use for 2026; showcasing the platform and new components.  
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Easy/Intermediate  
+
+---
+
+
+### 💡AI Chat Workflows Automation App with multi-step reasoning
+
+👥 **Mentor(s):**  Hardik Bhatia
+
+💬 **Description:**  
+
+Build a Rocket.Chat app that will monitor messages in specified channels (possibly sent by specified individuals, possibly within certain specified time period, and so on... )  and then (as a second step) perform additional messaging operations based on those messages.  Command should be issued in simple English. Bonus point for more than 2 steps in the reasoning.
+
+Some examples:
+
+    "whenever @sing.li posts any welcome messages in #gsoc2025, immediately DM him with a thank-you note"
+
+    "if any picture is uploaded to the #pets channel, send a message that says meow! if the pet is a cat, and a woof! otherwise"
+
+    "whenever a message is posted that contains a four letter word beginning with letter F, delete that message immediately"
+
+    "if my wife messaged with 'arrived' before I do, DM her sorry I will be late after 1 minute" 
+
+Recommended approach:
+
+- leverage the latest open source specialized multi-step reasoning LLMs such as the DeepSeek distilled models 
+- make intelligent use of tools/function-calling and structured inference    
+- be sure to built in safety to offset erraneous output and/or hallucinations 
+
+💪 **Desired Skills:**  
+
+- Rocket.Chat Apps Engine (TypeScript)  
+- Rocket.Chat messaging APIs
+- Advanced prompt engineering Skills   
+- Experience with image reasoning capabilities of available open source multi-modal LLMs
+- Experience working with multi-step reasoning LLMs
+- Experience with tools/function-calling capabilities of modern LLMs
+- Expereince with code generation and code completion LLMs
+- Understanding of how to implement "safety first" when creating AI apps that may permenantly change the state of a production system
+
+🎯 **Goals/Deliverables:**  
+
+Platform for generating functional automated chat workflows using LLMs.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Intermediate/Advanced  
+
+
+---
+
+### 💡On-device client side LLM inference and API Access Enablement 
+
+👥 **Mentor(s):** Sing Li
+
+💬 **Description:**  
+
+Analyze and modify current deployment workflows for Rocket.Chat to enable browser based client-side on-device LLM inference.  
+
+Details:
+
+- high performance lightweight models became available in second half of 2024, making on-device inference possible  (requiring about 2GB additional memory and GPU on client)
+- webgpu and webllm technology matured and now in-browser inference and LLM API access is a practicing reality
+- Rocket.Chat administrators/installers should be able to OPTIONALLY enable client-side inference
+- on-device/client-side implementation should detect device capabilities before downloading the LLM weights; only enabling it if there is enough compute and memory available on the client 
+
+💪 **Desired Skills:**  
+
+- Rocket.Chat Deployment Flows
+- DevOps: docker, helm, snaps, and so on. 
+- Advanced Typescript
+- Awareness of WASM and webllm 
+- Python 
+
+🎯 **Goals/Deliverables:**  
+
+Ability to deploy client-side/on-device in-browser LLM for rapid development and efficient scaling of AI apps.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Advanced  
 
 ---
