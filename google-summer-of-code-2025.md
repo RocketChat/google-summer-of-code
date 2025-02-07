@@ -186,7 +186,7 @@ A working Rocket.Chat app that will scan and sum all the restaurant receipts upl
 
 ### 💡End to End Encrypted Message Handling for Ruqola on KDE
 
-👥 **Mentor(s):** [Montel Laurant](https://github.com/Montel)  
+👥 **Mentor(s):** [Montel Laurant](https://github.com/Montel),  Aaron Ogle  
 
 💬 **Description:**  
 
@@ -209,7 +209,7 @@ Details:
 🎯 **Goals/Deliverables:**  
 Add support for E2E Encrypted messages in Ruqola.
 
-⏳ **Project Duration:** 90 hours (Small)  
+⏳ **Project Duration:** 175 hours (Medium)  
 
 📈 **Difficulty:** Advanced  
 
