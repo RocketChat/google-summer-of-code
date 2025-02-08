@@ -332,19 +332,32 @@ Platform for generating functional automated chat workflows using LLMs.
 
 ---
 
-### 💡On-device client side LLM inference and API Access Enablement 
+### 💡In-browser, on-device, client-side LLM inference and API Access for Millions 
 
-👥 **Mentor(s):** Sing Li
+👥 **Mentor(s):** Sing Li, Ashutosh Singh Chauhan
 
 💬 **Description:**  
 
-Analyze and modify current deployment workflows for Rocket.Chat to enable browser based client-side on-device LLM inference.  
+You will bring open source, on-device, client-side LLM inference to the millions of Rocket.Chat users with this ground-breaking project (don't think it has been done anywhere else yet but we _could_ be wrong).  
 
 Details:
 
-- high performance lightweight models became available in second half of 2024, making on-device inference possible  (requiring about 2GB additional memory and GPU on client)
-- webgpu and webllm technology matured and now in-browser inference and LLM API access is a practicing reality
-- Rocket.Chat administrators/installers should be able to OPTIONALLY enable client-side inference
+Analyze and modify current supported deployment workflows - all three of them:
+
+    * docker
+    * helm
+    * snaps
+
+for Rocket.Chat to enable browser based client-side on-device LLM inference.  
+
+This needs to be done unintrusively and optional for those who don't want to (and don't have modern client-side hardware) AI-enable their users. 
+
+Details:
+
+- high performance lightweight models became available in second half of 2024 (Llama 3.2, Intern LM 2,  Phi 3 mini, Qwen 2.5, Smol LM, Gemma 2b, DeepSeek distlled, and so many more), making on-device inference possible  (requiring ONLY about 2GB additional memory and reasonable GPU on client)
+- breakthrough [webgpu and webllm](https://webllm.mlc.ai/) technology matured 2 yrs later and now in-browser inference and LLM API access (WASM'ed Python code on top of HTML5/WebGPU standard) is a stable working reality
+- big-tech vendors (phone and OS vendors such as Apple, Samsung, Microsoft, and so on ... ) are rapidly bringing client-side *CLOSED SOURCE* inference capability to their own products with no roadmap in 2025 to empower access by other's applications
+- with this project, Rocket.Chat administrators/installers should be able to OPTIONALLY enable client-side inference
 - on-device/client-side implementation should detect device capabilities before downloading the LLM weights; only enabling it if there is enough compute and memory available on the client 
 
 💪 **Desired Skills:**  
@@ -353,11 +366,11 @@ Details:
 - DevOps: docker, helm, snaps, and so on. 
 - Advanced Typescript
 - Awareness of WASM and webllm 
-- Python 
+- Python magician
 
 🎯 **Goals/Deliverables:**  
 
-Ability to deploy client-side/on-device in-browser LLM for rapid development and efficient scaling of AI apps.
+Bring open source AI applications (including development platform), running 100% client-side and in-browser, to millions of existing Rocket.Chat users  (those who already have capable client hardware - any Apple Silicon Mac, for example) 
 
 ⏳ **Project Duration:** 90 hours (Small)  
 
