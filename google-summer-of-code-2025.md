@@ -409,7 +409,7 @@ As you join a Rocket.Chat server there is not much guidance on what to do or whe
 
 💬 **Description:**
 
-Code reviews will no longer be a bottleneck in agile development teams. Engineers will no longer struggle to find the right reviewer, nor will review requests get lost in random Rocket.Chat channels, causing PRs to miss critical milestones. This bot will monitor open pull requests and apply a “nagging” mechanism to ensure timely reviews. Using a statistical scoring system, it will identify the most suitable reviewer and persistently remind them until the review is completed.
+ This bot will monitor open pull requests and apply a “nagging” mechanism to ensure timely reviews. Using a statistical scoring system, it will identify the most suitable reviewer and persistently remind them until the review is completed.
 
 Additionally, the bot will leverage code-specialized Large Language Models (LLMs) to perform an initial review, automatically filtering out minor improvements before they reach human reviewers. This will streamline the review process, reduce unnecessary delays, and ensure that only meaningful changes require manual attention.
 
