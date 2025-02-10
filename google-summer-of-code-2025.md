@@ -381,3 +381,23 @@ Bring open source AI applications (including development platform), running 100%
 📈 **Difficulty:** Advanced  
 
 ---
+### Server Welcome Bot
+
+👥 **Mentor(s):** Gabriel Casals
+
+💬 **Description:**
+
+As you join a Rocket.Chat server there is not much guidance on what to do or where to go. Believe there is opportunity to build a bot, aimed intially to be used and tested in Rocket.Chat open server that will help pick basic new user information to identify the persona and show value path for a smooth onboarding. Should be na app using rocketchat apps engine.
+
+
+💪 **Desired Skills:**
+
+- Rocket.Chat Apps Engine (TypeScript)
+- Natural Language Processing (NLP)
+
+🎯 **Goals/Deliverables:**
+
+- A Rocket.Chat App that will interact with users and collect basic information
+- A Rocket.Chat App that will interact with users and share relevant information based on a mapped persona
+
+⏳ **Project Duration:** 175 hours (Medium)
