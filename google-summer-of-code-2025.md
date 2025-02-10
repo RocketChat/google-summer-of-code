@@ -417,7 +417,7 @@ Additionally, the bot will leverage code-specialized Large Language Models (LLMs
 💪 **Desired Skills:**
 
 - Rocket.Chat Apps Engine (TypeScript)
-- A little os estatistics
+- A little of estatistics
 - LLMs
 - GitHub API
 
