@@ -412,7 +412,7 @@ As you join a Rocket.Chat server there is not much guidance on what to do or whe
 💬 **Description:**  
 This app integrates any one of the popular survey tools (Google Forms, Typeform etc.) into Rocket.Chat to allow teams to create, distribute, and analyze quick polls or feedback forms without leaving the chat. Users can launch surveys, receive immediate notifications when responses are submitted, and have summary reports automatically posted to designated channels.
 
-Using natural to create forms would be a huge plus for the project.
+Using natural language to create forms would be a huge plus for the project.
 Example - "Create a form to accept registration for the Annual Tech Conference. It should collect full name, email address, company, and dietary restrictions. Validate the email field, send me a notification on each new registration, and post a summary report in the #conference-registrations channel."
 
 **Key Features:**
