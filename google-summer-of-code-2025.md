@@ -381,6 +381,7 @@ Bring open source AI applications (including development platform), running 100%
 📈 **Difficulty:** Advanced  
 
 ---
+
 ### Server Welcome Bot
 
 👥 **Mentor(s):** Gabriel Casals
@@ -401,6 +402,8 @@ As you join a Rocket.Chat server there is not much guidance on what to do or whe
 - A Rocket.Chat App that will interact with users and share relevant information based on a mapped persona
 
 ⏳ **Project Duration:** 175 hours (Medium)
+
+---
 
 ### 💡 AI Google Forms / Typeform Survey Integration App
 
@@ -438,7 +441,7 @@ Enables teams to capture immediate feedback and conduct internal polls seamlessl
 
 ### 💡 AI Transcription and Translation for Voice Messages App
 
-👥 **Mentor(s):** Abhinav Kumar
+👥 **Mentor(s):** Dhurv Jain, Abhinav Kumar
 
 💬 **Description:**  
 Rocket.Chat already supports sending voice messages. This project enhances that feature by providing on-demand or real-time transcription and translation of voice messages. Users can choose to transcribe voice messages to text and optionally translate into their preferred language, thereby boosting accessibility and making communication more inclusive.
@@ -466,3 +469,53 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 ⏳ **Project Duration:** 90 hours (Small)  
 📈 **Difficulty:** Intermediate/Advanced
+
+---
+
+### Messages scheduling
+
+👥 **Mentor(s):** Ricardo Garim
+
+💬 **Description:**
+
+Add a native Rocket.Chat feature that lets users schedule messages to be sent later, directly integrated with the current send button. Since we serve users across multiple time zones, this feature will make it easier to schedule messages for the right time, no matter where they are.
+
+💪 **Desired Skills:**
+
+- Awareness of Rocket.Chat server and client codebase (NodeJS and React)
+
+🎯 **Goals/Deliverables:**
+
+- A Rocket.Chat feature that will allow users to schedule messages to be sent in the future
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Advanced
+
+----
+
+### Code Review Bot 
+
+👥 **Mentor(s):** Felipe Scuciatto 
+
+💬 **Description:**
+
+ This bot will monitor open pull requests and apply a “nagging” mechanism to ensure timely reviews. Using a statistical scoring system, it will identify the most suitable reviewer and persistently remind them until the review is completed.
+
+Additionally, the bot will leverage code-specialized Large Language Models (LLMs) to perform an initial review, automatically filtering out minor improvements before they reach human reviewers. This will streamline the review process, reduce unnecessary delays, and ensure that only meaningful changes require manual attention.
+
+
+💪 **Desired Skills:**
+
+- Rocket.Chat Apps Engine (TypeScript)
+- A little of estatistics
+- LLMs
+- GitHub API
+
+🎯 **Goals/Deliverables:**
+
+- A Rocket.Chat App that will interact with users and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+
