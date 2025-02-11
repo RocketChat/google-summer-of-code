@@ -381,6 +381,7 @@ Bring open source AI applications (including development platform), running 100%
 📈 **Difficulty:** Advanced  
 
 ---
+
 ### Server Welcome Bot
 
 👥 **Mentor(s):** Gabriel Casals
@@ -403,6 +404,29 @@ As you join a Rocket.Chat server there is not much guidance on what to do or whe
 ⏳ **Project Duration:** 175 hours (Medium)
 
 ---
+
+### Messages scheduling
+
+👥 **Mentor(s):** Ricardo Garim
+
+💬 **Description:**
+
+Add a native Rocket.Chat feature that lets users schedule messages to be sent later, directly integrated with the current send button. Since we serve users across multiple time zones, this feature will make it easier to schedule messages for the right time, no matter where they are.
+
+💪 **Desired Skills:**
+
+- Awareness of Rocket.Chat server and client codebase (NodeJS and React)
+
+🎯 **Goals/Deliverables:**
+
+- A Rocket.Chat feature that will allow users to schedule messages to be sent in the future
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Advanced
+
+----
+
 ### Code Review Bot 
 
 👥 **Mentor(s):** Felipe Scuciatto 
@@ -426,3 +450,4 @@ Additionally, the bot will leverage code-specialized Large Language Models (LLMs
 - A Rocket.Chat App that will interact with users and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
 
 ⏳ **Project Duration:** 175 hours (Medium)
+
