@@ -401,3 +401,24 @@ As you join a Rocket.Chat server there is not much guidance on what to do or whe
 - A Rocket.Chat App that will interact with users and share relevant information based on a mapped persona
 
 ⏳ **Project Duration:** 175 hours (Medium)
+
+---
+### Messages scheduling
+
+👥 **Mentor(s):** Ricardo Garim
+
+💬 **Description:**
+
+Add a native Rocket.Chat feature that lets users schedule messages to be sent later, directly integrated with the current send button. Since we serve users across multiple time zones, this feature will make it easier to schedule messages for the right time, no matter where they are.
+
+💪 **Desired Skills:**
+
+- Awareness of Rocket.Chat server and client codebase (NodeJS and React)
+
+🎯 **Goals/Deliverables:**
+
+- A Rocket.Chat feature that will allow users to schedule messages to be sent in the future
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Advanced
