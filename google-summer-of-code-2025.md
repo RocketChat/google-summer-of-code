@@ -336,13 +336,13 @@ Platform for generating functional automated chat workflows using LLMs.
 
 ---
 
-### 💡In-browser, on-device, client-side LLM inference and API Access for Millions 
+### 💡In-browser, on-device, client-side LLM inference and API Access
 
 👥 **Mentor(s):** Sing Li, Ashutosh Singh Chauhan
 
 💬 **Description:**  
 
-You will bring open source, on-device, client-side LLM inference to the millions of Rocket.Chat users with this ground-breaking project (don't think it has been done anywhere else yet but we _could_ be wrong).  
+You will bring open source, on-device, client-side LLM inference (API calls, agentic workflows, and so on) to all Rocket.Chat users with this project.  
 
 Details:
 
