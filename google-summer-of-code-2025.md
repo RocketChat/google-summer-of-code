@@ -405,6 +405,73 @@ As you join a Rocket.Chat server there is not much guidance on what to do or whe
 
 ---
 
+### 💡 AI Google Forms / Typeform Survey Integration App
+
+👥 **Mentor(s):** Abhinav kumar
+
+💬 **Description:**  
+This app integrates any one of the popular survey tools (Google Forms, Typeform etc.) into Rocket.Chat to allow teams to create, distribute, and analyze quick polls or feedback forms without leaving the chat. Users can launch surveys, receive immediate notifications when responses are submitted, and have summary reports automatically posted to designated channels.
+
+Using natural to create forms would be a huge plus for the project.
+Example - "Create a form to accept registration for the Annual Tech Conference. It should collect full name, email address, company, and dietary restrictions. Validate the email field, send me a notification on each new registration, and post a summary report in the #conference-registrations channel."
+
+**Key Features:**
+- **Slash Commands:** Launch new surveys or share form links directly from Rocket.Chat.
+- **Inline Notifications:** Receive real-time alerts when survey responses are submitted.
+- **Automated Reporting:** Generate and post periodic summary reports in designated channels.
+
+**Use Case:**  
+Enables teams to capture immediate feedback and conduct internal polls seamlessly within Rocket.Chat, enhancing decision-making and team engagement.
+
+💪 **Desired Skills:**  
+- Proficiency with Rocket.Chat Apps Engine (TypeScript)  
+- Experience with REST APIs and third‑party service integrations  
+- Familiarity with survey platforms (Google Forms, Typeform) and their APIs
+
+🎯 **Goals/Deliverables:**  
+- Develop a Rocket.Chat App that connects to Google Forms/Typeform.  
+- Implement slash commands for survey creation and sharing.  
+- Integrate real-time notifications for survey responses.  
+- Automate the generation and posting of summary reports.
+
+⏳ **Project Duration:** 90 hours (Small)  
+📈 **Difficulty:** Easy/Intermediate
+
+---
+
+### 💡 AI Transcription and Translation for Voice Messages App
+
+👥 **Mentor(s):** Dhurv Jain, Abhinav Kumar
+
+💬 **Description:**  
+Rocket.Chat already supports sending voice messages. This project enhances that feature by providing on-demand or real-time transcription and translation of voice messages. Users can choose to transcribe voice messages to text and optionally translate into their preferred language, thereby boosting accessibility and making communication more inclusive.
+
+**Possible Milestones:**
+- **UI/UX Enhancements:**  
+  - Integrate options into the existing voice message interface for triggering transcription and translation.
+- **Backend Processing:**  
+  - Integrate with a speech-to-text service (e.g., Google Cloud Speech-to-Text or open‑source alternatives like Vosk) to transcribe voice messages.
+- **Translation Integration:**  
+  - Connect with a translation API (e.g., Google Translate or LibreTranslate) to convert transcriptions into the target language.
+- **Performance & Accuracy Tuning:**  
+  - Optimize for low latency and high transcription accuracy, ensuring the system gracefully handles slow or unavailable external APIs.
+
+💪 **Desired Skills:**  
+- Experience with Rocket.Chat Apps Engine (TypeScript)  
+- Familiarity with speech-to-text and translation APIs  
+- Skills in mobile and web UI/UX enhancement  
+- Ability to optimize performance and implement robust error handling
+
+🎯 **Goals/Deliverables:**  
+- A Rocket.Chat App that enhances the existing voice message feature with transcription and translation capabilities.
+- Seamless integration with external speech-to-text and translation services.
+- An intuitive interface that allows users to trigger transcription and translation on demand or in real time.
+
+⏳ **Project Duration:** 90 hours (Small)  
+📈 **Difficulty:** Intermediate/Advanced
+
+---
+
 ### Messages scheduling
 
 👥 **Mentor(s):** Ricardo Garim
@@ -450,4 +517,5 @@ Additionally, the bot will leverage code-specialized Large Language Models (LLMs
 - A Rocket.Chat App that will interact with users and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
 
 ⏳ **Project Duration:** 175 hours (Medium)
+
 
