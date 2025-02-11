@@ -208,6 +208,7 @@ Details:
 - Solid experience with C++ programming
 - Experience with large and complex C++ projects
 - Working experience with KDE on Linux (such as kubuntu) 
+- Interest in encryption/cryptography technology
 - Ideally already user of Ruqola
 
 🎯 **Goals/Deliverables:**  
