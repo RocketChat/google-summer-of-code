@@ -401,3 +401,28 @@ As you join a Rocket.Chat server there is not much guidance on what to do or whe
 - A Rocket.Chat App that will interact with users and share relevant information based on a mapped persona
 
 ⏳ **Project Duration:** 175 hours (Medium)
+
+---
+### Code Review Bot 
+
+👥 **Mentor(s):** Felipe Scuciatto 
+
+💬 **Description:**
+
+ This bot will monitor open pull requests and apply a “nagging” mechanism to ensure timely reviews. Using a statistical scoring system, it will identify the most suitable reviewer and persistently remind them until the review is completed.
+
+Additionally, the bot will leverage code-specialized Large Language Models (LLMs) to perform an initial review, automatically filtering out minor improvements before they reach human reviewers. This will streamline the review process, reduce unnecessary delays, and ensure that only meaningful changes require manual attention.
+
+
+💪 **Desired Skills:**
+
+- Rocket.Chat Apps Engine (TypeScript)
+- A little of estatistics
+- LLMs
+- GitHub API
+
+🎯 **Goals/Deliverables:**
+
+- A Rocket.Chat App that will interact with users and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
+
+⏳ **Project Duration:** 175 hours (Medium)
