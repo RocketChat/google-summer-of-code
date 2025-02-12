@@ -389,7 +389,7 @@ Bring open source AI applications (including development platform), running 100%
 
 💬 **Description:**
 
-As a new user join a Rocket.Chat server there is not much guidance on what to do or where to go.   
+As a new user joins a Rocket.Chat server there is not much guidance on what to do or where to go.   
 
 Right now, the only mechanism is a passive landing page that may display resources for each grouping (persona) of users. 
 
