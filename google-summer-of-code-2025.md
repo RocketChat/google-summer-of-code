@@ -222,7 +222,7 @@ Add support for E2E Encrypted messages in Ruqola.
 
 ### 💡 AI Docs Assistant App
 
-👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv)  
+👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/evan.shu)  
 
 💬 **Description:**  
 
@@ -230,24 +230,27 @@ This project aims to build a Rocket.Chat App that provides a **natural language 
 
 Key Features:  
 
-- **Retrieval-Augmented Generation (RAG)** approach to search and retrieve docs.  
+- **Retrieval-Augmented Generation (RAG)** approach to search and retrieve a summary of docs.    
 - **Local embedding model** (running on CPU) to generate query representations.  
 - **In-memory vector store** to efficiently match queries to relevant documentation.  
-- **Context-aware responses** to handle follow-up questions naturally.  
+- **Context-aware responses** to handle follow-up questions naturally.
+- **Tool Calling** to retrieve the latest page contents from Web 
 
 💪 **Desired Skills:**  
 
 - Rocket.Chat Apps Engine (TypeScript)  
 - Natural Language Processing (NLP)  
 - Vector search (HNSW, LSH, or similar techniques in JS)  
-- Web Storage & IndexedDB (for caching, if needed)  
+- Web Storage & IndexedDB (for caching, if needed)
+- Web Search APIs
+- (Exploratory) Familiarity with Graph Theory
 
 🎯 **Goals/Deliverables:**  
 
 - A Rocket.Chat App that enables users to query Rocket.Chat Docs via natural language.  
 - **Efficient RAG-based retrieval** with an in-memory vector store. 
 - A **lightweight, CPU-friendly embedding model** for query similarity matching.  
-- **Interactive chat interface** that tracks context for follow-up queries.  
+- **Interactive chat interface** that tracks context for follow-up queries.
 
 ⏳ **Project Duration:** 90 hours (Small)  
 
