@@ -383,24 +383,58 @@ Bring open source AI applications (including development platform), running 100%
 
 ---
 
-### Server Welcome Bot
+### Server "Tour Guide" Agent for Onboarding New Users 
 
-👥 **Mentor(s):** Gabriel Casals
+👥 **Mentor(s):** Gabriel Casals, Jeffery Yu
 
 💬 **Description:**
 
-As you join a Rocket.Chat server there is not much guidance on what to do or where to go. Believe there is opportunity to build a bot, aimed intially to be used and tested in Rocket.Chat open server that will help pick basic new user information to identify the persona and show value path for a smooth onboarding. Should be na app using rocketchat apps engine.
+As a new user join a Rocket.Chat server there is not much guidance on what to do or where to go.   
 
+Right now, the only mechanism is a passive landing page that may display resources for each grouping (persona) of users. 
+
+For example, on the open.rocket.chat server, the new user may be:
+
+* Rocket.Chat server administrators looking to connect with others and 
+* A user from a Rocket.Chat server looking to resolve problem or receive support information. 
+* A new developer community member looking for Google Summer of Code program information
+* others
+
+Each one of these personas demand different style of conversation and would need to know about/join different sets of channels and other resources.
+
+Details:
+
+The project aims to replace the boring "easy to miss, difficult to understand" landing page, with the latest LLM powered "Server Tour Guide Agent".   
+
+This AI agent should start a conversation with the new user and then using modern LLM's discrimination/classification ability to positively identify the persona (users grouping/ sub-communities on a server) that the user belongs to.
+
+Then with the help of an LLM, continue to tune the conversation to the lingo-preferred of that persona, and finally guide the user to all the resources and channels available for that persona.
+
+This agent must be configurable (via Rocket.Chat Apps configuration) to handle any arbitrary persona and related resources set.
+
+Recommended Approach: 
+
+The agent should be able to add (and join) the appropriate channel for the new user, after confirming the action with the new user.
+
+A default/catch-all persona should be used to precisely scoped the project and ensure the LLM can converge onto a useful result.
+
+Since direct user input will be passed to the LLM for analysis, the agent MUST make sure that there is no prompt-injection possibility.
+
+Safety of server operation must be taken into account as this agent has ability to change the state of the server permanently.
 
 💪 **Desired Skills:**
 
-- Rocket.Chat Apps Engine (TypeScript)
-- Natural Language Processing (NLP)
+- Experience with Natural Language Processing (NLP) systems
+- Rocket.Chat Apps Engine (TypeScript)  
+- Rocket.Chat messaging APIs
+- Advanced prompt engineering skills   
+- Experience working with multi-step reasoning LLMs
+- Experience with tools/function-calling capabilities of modern LLMs
+- Understanding of how to implement "safety first" when creating AI apps that may permanently change the state of a production system
 
 🎯 **Goals/Deliverables:**
 
-- A Rocket.Chat App that will interact with users and collect basic information
-- A Rocket.Chat App that will interact with users and share relevant information based on a mapped persona
+- An AI Assistant that will help to onboard new users for Rocket.Chat servers across the world. 
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
