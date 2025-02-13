@@ -91,44 +91,65 @@ The creation of tests for the new component is also expected, both end to end an
 
 -----
 
+### Server "Tour Guide" Agent for Onboarding New Users 
 
-### 💡On-Vacation Helper App 
+👥 **Mentor(s):** Gabriel Casals, Jeffery Yu
 
-👥 **Mentor(s):** Jeffrey Yu
+💬 **Description:**
 
-💬 **Description:**  
+As a new user joins a Rocket.Chat server there is not much guidance on what to do or where to go.   
 
-This LLM-powered app will suggest interesting events and happenings for users during their vacation.   
+Right now, the only mechanism is a passive landing page that may display resources for each grouping (persona) of users. 
+
+For example, on the open.rocket.chat server, the new user may be:
+
+* Rocket.Chat server administrators looking to connect with others and 
+* A user from a Rocket.Chat server looking to resolve problem or receive support information. 
+* A new developer community member looking for Google Summer of Code program information
+* others
+
+Each one of these personas demand different style of conversation and would need to know about/join different sets of channels and other resources.
 
 Details:
 
-* While on vacation, a user can take a photo of his surroundings and upload it to a channel
-* The app will first process the image by passing it to an image reasoning multi-modal LLM to ascertain the location or point of interest or event venue (perhaps reinforced by GPS location information).  
-* Then in a second step an(other) LLM's tools/function-calling capability is used to fetch up-to-date events and happening information over the Internet, catering for the user's current interest. 
-* Finally, a friendly report is produced by an(other) LLM as the last step of a RAG pipeline. 
-* This app should never produce erraneous output. It should know its own limitaion and decline to report if in doubt.   
+The project aims to replace the boring "easy to miss, difficult to understand" landing page, with the latest LLM powered "Server Tour Guide Agent".   
 
+This AI agent should start a conversation with the new user and then using modern LLM's discrimination/classification ability to positively identify the persona (users grouping/ sub-communities on a server) that the user belongs to.
 
-💪 **Desired Skills:**  
+Then with the help of an LLM, continue to tune the conversation to the lingo-preferred of that persona, and finally guide the user to all the resources and channels available for that persona.
 
+This agent must be configurable (via Rocket.Chat Apps configuration) to handle any arbitrary persona and related resources set.
+
+Recommended Approach: 
+
+The agent should be able to add (and join) the appropriate channel for the new user, after confirming the action with the new user.
+
+A default/catch-all persona should be used to precisely scoped the project and ensure the LLM can converge onto a useful result.
+
+Since direct user input will be passed to the LLM for analysis, the agent MUST make sure that there is no prompt-injection possibility.
+
+Safety of server operation must be taken into account as this agent has ability to change the state of the server permanently.
+
+💪 **Desired Skills:**
+
+- Experience with Natural Language Processing (NLP) systems
 - Rocket.Chat Apps Engine (TypeScript)  
-- Familiarity with the "RAG" agentic workflow  
-- Intermediate prompt engineering Skills   
-- Experience with image reasoning capabilities of modern open source multi-modal LLMs  
+- Rocket.Chat messaging APIs
+- Advanced prompt engineering skills   
+- Experience working with multi-step reasoning LLMs
 - Experience with tools/function-calling capabilities of modern LLMs
+- Understanding of how to implement "safety first" when creating AI apps that may permanently change the state of a production system
 
-🎯 **Goals/Deliverables:**  
+🎯 **Goals/Deliverables:**
 
-- A working Rocket.Chat App that assists users with latest happenings around them wherever they may be while on vacations. 
+- An AI Assistant that will help to onboard new users for Rocket.Chat servers across the world. 
 
-⏳ **Project Duration:** 90 hours (Small)  
-
-📈 **Difficulty:** Intermediate/Advanced  
+⏳ **Project Duration:** 175 hours (Medium)
 
 -----
 
 
-### 💡Embedded Chat 2025
+### 💡 Embedded Chat 2025
 
 👥 **Mentor(s):** Zishan Ahmad
 
@@ -157,7 +178,7 @@ React.Js
 
 ### 💡 Receipts Processor and Reporting App powered by Multi-modal LLMs 
 
-👥 **Mentor(s):** Maria Khelli
+👥 **Mentor(s):** Maria Khelli, Sing Li
 
 💬 **Description:**  
 
@@ -222,7 +243,7 @@ Add support for E2E Encrypted messages in Ruqola.
 
 ### 💡 AI Docs Assistant App
 
-👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv)  
+👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv),  Jeffery Yu  
 
 💬 **Description:**  
 
@@ -334,8 +355,30 @@ Platform for generating functional automated chat workflows using LLMs.
 
 📈 **Difficulty:** Intermediate/Advanced  
 
-
 ---
+
+###  💡 Messages scheduling
+
+👥 **Mentor(s):** Ricardo Garim
+
+💬 **Description:**
+
+Add a native Rocket.Chat feature that lets users schedule messages to be sent later, directly integrated with the current send button. Since we serve users across multiple time zones, this feature will make it easier to schedule messages for the right time, no matter where they are.
+
+💪 **Desired Skills:**
+
+- Awareness of Rocket.Chat server and client codebase (NodeJS and React)
+
+🎯 **Goals/Deliverables:**
+
+- A Rocket.Chat feature that will allow users to schedule messages to be sent in the future
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Advanced
+
+----
+
 
 ### 💡In-browser, on-device, client-side LLM inference and API Access
 
@@ -383,63 +426,6 @@ Bring open source AI applications (including development platform), running 100%
 
 ---
 
-### Server "Tour Guide" Agent for Onboarding New Users 
-
-👥 **Mentor(s):** Gabriel Casals, Jeffery Yu
-
-💬 **Description:**
-
-As a new user joins a Rocket.Chat server there is not much guidance on what to do or where to go.   
-
-Right now, the only mechanism is a passive landing page that may display resources for each grouping (persona) of users. 
-
-For example, on the open.rocket.chat server, the new user may be:
-
-* Rocket.Chat server administrators looking to connect with others and 
-* A user from a Rocket.Chat server looking to resolve problem or receive support information. 
-* A new developer community member looking for Google Summer of Code program information
-* others
-
-Each one of these personas demand different style of conversation and would need to know about/join different sets of channels and other resources.
-
-Details:
-
-The project aims to replace the boring "easy to miss, difficult to understand" landing page, with the latest LLM powered "Server Tour Guide Agent".   
-
-This AI agent should start a conversation with the new user and then using modern LLM's discrimination/classification ability to positively identify the persona (users grouping/ sub-communities on a server) that the user belongs to.
-
-Then with the help of an LLM, continue to tune the conversation to the lingo-preferred of that persona, and finally guide the user to all the resources and channels available for that persona.
-
-This agent must be configurable (via Rocket.Chat Apps configuration) to handle any arbitrary persona and related resources set.
-
-Recommended Approach: 
-
-The agent should be able to add (and join) the appropriate channel for the new user, after confirming the action with the new user.
-
-A default/catch-all persona should be used to precisely scoped the project and ensure the LLM can converge onto a useful result.
-
-Since direct user input will be passed to the LLM for analysis, the agent MUST make sure that there is no prompt-injection possibility.
-
-Safety of server operation must be taken into account as this agent has ability to change the state of the server permanently.
-
-💪 **Desired Skills:**
-
-- Experience with Natural Language Processing (NLP) systems
-- Rocket.Chat Apps Engine (TypeScript)  
-- Rocket.Chat messaging APIs
-- Advanced prompt engineering skills   
-- Experience working with multi-step reasoning LLMs
-- Experience with tools/function-calling capabilities of modern LLMs
-- Understanding of how to implement "safety first" when creating AI apps that may permanently change the state of a production system
-
-🎯 **Goals/Deliverables:**
-
-- An AI Assistant that will help to onboard new users for Rocket.Chat servers across the world. 
-
-⏳ **Project Duration:** 175 hours (Medium)
-
----
-
 ### 💡 AI Google Forms / Typeform Survey Integration App
 
 👥 **Mentor(s):** Abhinav kumar
@@ -474,6 +460,41 @@ Enables teams to capture immediate feedback and conduct internal polls seamlessl
 
 ---
 
+### 💡On-Vacation Helper App 
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**  
+
+This LLM-powered app will suggest interesting events and happenings for users during their vacation.   
+
+Details:
+
+* While on vacation, a user can take a photo of his surroundings and upload it to a channel
+* The app will first process the image by passing it to an image reasoning multi-modal LLM to ascertain the location or point of interest or event venue (perhaps reinforced by GPS location information).  
+* Then in a second step an(other) LLM's tools/function-calling capability is used to fetch up-to-date events and happening information over the Internet, catering for the user's current interest. 
+* Finally, a friendly report is produced by an(other) LLM as the last step of a RAG pipeline. 
+* This app should never produce erraneous output. It should know its own limitaion and decline to report if in doubt.   
+
+
+💪 **Desired Skills:**  
+
+- Rocket.Chat Apps Engine (TypeScript)  
+- Familiarity with the "RAG" agentic workflow  
+- Intermediate prompt engineering Skills   
+- Experience with image reasoning capabilities of modern open source multi-modal LLMs  
+- Experience with tools/function-calling capabilities of modern LLMs
+
+🎯 **Goals/Deliverables:**  
+
+- A working Rocket.Chat App that assists users with latest happenings around them wherever they may be while on vacations. 
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Intermediate/Advanced  
+
+----
+
 ### 💡 AI Transcription and Translation for Voice Messages App
 
 👥 **Mentor(s):** Dhurv Jain, Abhinav Kumar
@@ -507,29 +528,7 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 ---
 
-### Messages scheduling
-
-👥 **Mentor(s):** Ricardo Garim
-
-💬 **Description:**
-
-Add a native Rocket.Chat feature that lets users schedule messages to be sent later, directly integrated with the current send button. Since we serve users across multiple time zones, this feature will make it easier to schedule messages for the right time, no matter where they are.
-
-💪 **Desired Skills:**
-
-- Awareness of Rocket.Chat server and client codebase (NodeJS and React)
-
-🎯 **Goals/Deliverables:**
-
-- A Rocket.Chat feature that will allow users to schedule messages to be sent in the future
-
-⏳ **Project Duration:** 90 hours (Small)
-
-📈 **Difficulty:** Advanced
-
-----
-
-### Code Review Bot 
+###  💡 Code Review Bot 
 
 👥 **Mentor(s):** Felipe Scuciatto 
 
