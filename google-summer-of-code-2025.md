@@ -49,45 +49,35 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 ## 📂 Project Ideas
 
 > This is an early draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes during the application period - as mentors and potential contributors discuss and evolve the project descriptions.
+> 
 
+### 🔑 Passkey-Based WebAuthn Authentication for Rocket.Chat  
 
+👥 **Mentor(s):**  Julio Araujo, [Dnouv](https://open.rocket.chat/direct/Dnouv)  
 
-### 📅  Message Timestamp Date Picker Components
+💬 **Description:**  
+ 
+The WebAuthn standard, now widely available on modern Android and iOS devices, enable convenient passwordless authentication satisfying 2FA (biometrics and "have device").  This project aims to integrate WebAuthn in Rocket.Chat authentication to offer a passwordless, secure login experience. The implementation needs to be aligned with Rocket.Chat’s existing authentication system while ensuring backward compatibility with all existing login methods.  
 
-👥 **Mentor(s):** [Martin Schoeler](https://open.rocket.chat/direct/martin.schoeler)
+💪 **Desired Skills:**  
 
-💬 **Description:**
-Currently Rocket.Chat has a feature that allows users to send timestamps on messages, but not in an intuitive way. To send a timestamp you need to manually write it down with the correct date code. For example `<t:1732557600:t>`.
-This feature was added for Rocket.Chat Apps engine, but users can benefit from this too. The objective of this project is to create a new `MessageToolBar` item that displays a calendar and let the users select the date and time they would like to share, both in the desktop app and mobile apps.
+- Node.js  
+- React.js  
+- WebAuthn API  
+- MongoDB
+- Keen interest in cybersecurity   
+- Authentication & Security Best Practices  
 
-Some examples of the usage of the timestamp feature (you can test them today on the open.rocket.chat server!)
+🎯 **Goals/Deliverables:**  
 
-Pattern: <t:{timestamp}:?{format}>
+- Implement passkey-based authentication using WebAuthn  
+- Modify authentication modules to support passkey registration and login  
+- Update the frontend for seamless passkey interactions  
+- Ensure secure storage of public keys in the user database  
+- Conduct extensive testing across different devices and browsers  
+- Provide detailed documentation and community engagement  
 
-- {timestamp} is a Unix timestamp
-- {format} is an optional parameter that can be used to customize the date and time format.
-
-**Formats**
-
-| Format | Description               | Example                                 |
-| ------ | ------------------------- | --------------------------------------- |
-| `t`    | Short time                | 12:00 AM                                |
-| `T`    | Long time                 | 12:00:00 AM                             |
-| `d`    | Short date                | 12/31/2020                              |
-| `D`    | Long date                 | Thursday, December 31, 2020             |
-| `f`    | Full date and time        | Thursday, December 31, 2020 12:00 AM    |
-| `F`    | Full date and time (long) | Thursday, December 31, 2020 12:00:00 AM |
-| `R`    | Relative time             | 1 year ago                              |
-
-The creation of tests for the new component is also expected, both end to end and unit if applicable.
-
-💪 **Desired Skills:** React, Typescript, React Native
-
-🎯 **Goals/Deliverables:** A new component on the `MessageToolBar` that allows users to add timestamps to their messages, both in desktop and mobile.
-
-⏳ **Project Duration:** 90 hours. (Small)
-
-📈 **Difficulty:** Easy/Intermediate
+⏳ **Project Duration:** 175 hours (Medium)  
 
 -----
 
@@ -325,6 +315,45 @@ Platform for generating functional automated chat workflows using LLMs.
 
 ---
 
+### 📅  Message Timestamp Date Picker Components
+
+👥 **Mentor(s):** [Martin Schoeler](https://open.rocket.chat/direct/martin.schoeler)
+
+💬 **Description:**
+Currently Rocket.Chat has a feature that allows users to send timestamps on messages, but not in an intuitive way. To send a timestamp you need to manually write it down with the correct date code. For example `<t:1732557600:t>`.
+This feature was added for Rocket.Chat Apps engine, but users can benefit from this too. The objective of this project is to create a new `MessageToolBar` item that displays a calendar and let the users select the date and time they would like to share, both in the desktop app and mobile apps.
+
+Some examples of the usage of the timestamp feature (you can test them today on the open.rocket.chat server!)
+
+Pattern: <t:{timestamp}:?{format}>
+
+- {timestamp} is a Unix timestamp
+- {format} is an optional parameter that can be used to customize the date and time format.
+
+**Formats**
+
+| Format | Description               | Example                                 |
+| ------ | ------------------------- | --------------------------------------- |
+| `t`    | Short time                | 12:00 AM                                |
+| `T`    | Long time                 | 12:00:00 AM                             |
+| `d`    | Short date                | 12/31/2020                              |
+| `D`    | Long date                 | Thursday, December 31, 2020             |
+| `f`    | Full date and time        | Thursday, December 31, 2020 12:00 AM    |
+| `F`    | Full date and time (long) | Thursday, December 31, 2020 12:00:00 AM |
+| `R`    | Relative time             | 1 year ago                              |
+
+The creation of tests for the new component is also expected, both end to end and unit if applicable.
+
+💪 **Desired Skills:** React, Typescript, React Native
+
+🎯 **Goals/Deliverables:** A new component on the `MessageToolBar` that allows users to add timestamps to their messages, both in desktop and mobile.
+
+⏳ **Project Duration:** 90 hours. (Small)
+
+📈 **Difficulty:** Easy/Intermediate
+
+---
+
 ###  💡 Messages scheduling
 
 👥 **Mentor(s):** Ricardo Garim
@@ -521,31 +550,4 @@ Additionally, the bot will leverage code-specialized Large Language Models (LLMs
 ⏳ **Project Duration:** 175 hours (Medium)
 
 ---
-
-### 🔑 Passkey-Based Authentication for Rocket.Chat  
-
-👥 **Mentor(s):** [TBD]  
-
-💬 **Description:**  
-
-This project aims to integrate passkey-based authentication into Rocket.Chat, utilizing WebAuthn standards to offer a passwordless, secure login experience. Passkeys leverage public-key cryptography, reducing phishing risks and enhancing user convenience. The implementation will align with Rocket.Chat’s existing authentication system while ensuring backward compatibility with traditional login methods.  
-
-💪 **Desired Skills:**  
-
-- Node.js  
-- React.js  
-- WebAuthn API  
-- MongoDB  
-- Authentication & Security Best Practices  
-
-🎯 **Goals/Deliverables:**  
-
-- Implement passkey-based authentication using WebAuthn  
-- Modify authentication modules to support passkey registration and login  
-- Update the frontend for seamless passkey interactions  
-- Ensure secure storage of public keys in the user database  
-- Conduct extensive testing across different devices and browsers  
-- Provide detailed documentation and community engagement  
-
-⏳ **Project Duration:** 175 hours (Medium)  
 
