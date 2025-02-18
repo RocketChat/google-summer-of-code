@@ -520,4 +520,32 @@ Additionally, the bot will leverage code-specialized Large Language Models (LLMs
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
+---
+
+### 🔑 Passkey-Based Authentication for Rocket.Chat  
+
+👥 **Mentor(s):** [TBD]  
+
+💬 **Description:**  
+
+This project aims to integrate passkey-based authentication into Rocket.Chat, utilizing WebAuthn standards to offer a passwordless, secure login experience. Passkeys leverage public-key cryptography, reducing phishing risks and enhancing user convenience. The implementation will align with Rocket.Chat’s existing authentication system while ensuring backward compatibility with traditional login methods.  
+
+💪 **Desired Skills:**  
+
+- Node.js  
+- React.js  
+- WebAuthn API  
+- MongoDB  
+- Authentication & Security Best Practices  
+
+🎯 **Goals/Deliverables:**  
+
+- Implement passkey-based authentication using WebAuthn  
+- Modify authentication modules to support passkey registration and login  
+- Update the frontend for seamless passkey interactions  
+- Ensure secure storage of public keys in the user database  
+- Conduct extensive testing across different devices and browsers  
+- Provide detailed documentation and community engagement  
+
+⏳ **Project Duration:** 175 hours (Medium)  
 
