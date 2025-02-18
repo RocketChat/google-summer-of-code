@@ -10,7 +10,7 @@ For timeline, see [Official Google Summer of Code 2025](https://developers.googl
 
 Almost anyone in the world [over 18 years of age](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html) who loves coding and wants to explore the incredible world of open source can join us as a GSoC 2025 contributor.
 
-Most exciting news for the 2025 season is a new [focus on ML/AI plus security projects, and the continued support for a small project type with a 90 hours duration](https://opensource.googleblog.com/2023/11/google-summer-of-code-2025-celebrating-20th-year.html); allowing participation from those who can only  devote part of their summer to exploring open source.
+Most exciting news for the 2025 season is focus on ML/AI plus security projects, and the continued support for a small project size with a 90 hours duration; allowing participation from those who can only  devote part of their summer to exploring open source.
 
 For details and rules of Google Summer of Code 2025, please see the [GSoC 2025 Official Website](https://summerofcode.withgoogle.com/). For timeline, see [Official Google Summer of Code 2025 Timeline](https://developers.google.com/open-source/gsoc/timeline) for more details.
 
@@ -18,7 +18,7 @@ For details and rules of Google Summer of Code 2025, please see the [GSoC 2025 O
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2025 : [https://open.rocket.chat/channel/gsoc2025](https://open.rocket.chat/channel/gsoc2025)
 
-Join our [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) today, introduce yourself to the friendly community, and interact with over **110 like-minded** contributors/mentors (as of January 27, 2025)  and meet the team in the [20+ team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
+Join our [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) today, introduce yourself to the friendly community, and interact with over **210 like-minded** contributors/mentors (as of Feb 10th, 2025)  and meet the team in the [30+ team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
 
 If you have ideas and proposals that are not on our idea list, or if a mentor is not available, you can also email to:
 
@@ -40,7 +40,11 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
-As of January 27th 2025  checkout our [GSoC 2025  Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2025 community: we already have over 100 contributors and mentors ready to join us for this season, active in our [team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
+As of **Feb 9th 2025**, we are intensely discussing project ideas with our returning community mentors, and guest mentors from other friendly open source projects.  This year, we are thankful to already have **9 contributors from the 2024 season** returning to help us **as 2025 mentors** to bring on some exciting projects.   Currently we have over 210 contributors and mentors active in our [30 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
+
+
+As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2025 community: we already have over 100 contributors and mentors ready to join us for this season, active in our [team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
+
 
 ## 📂 Project Ideas
 
@@ -87,44 +91,65 @@ The creation of tests for the new component is also expected, both end to end an
 
 -----
 
+### Server "Tour Guide" Agent for Onboarding New Users 
 
-### 💡On-Vacation Helper App 
+👥 **Mentor(s):** Gabriel Casals, Jeffery Yu
 
-👥 **Mentor(s):** Jeffrey Yu
+💬 **Description:**
 
-💬 **Description:**  
+As a new user joins a Rocket.Chat server there is not much guidance on what to do or where to go.   
 
-This LLM-powered app will suggest interesting events and happenings for users during their vacation.   
+Right now, the only mechanism is a passive landing page that may display resources for each grouping (persona) of users. 
+
+For example, on the open.rocket.chat server, the new user may be:
+
+* Rocket.Chat server administrators looking to connect with others and 
+* A user from a Rocket.Chat server looking to resolve problem or receive support information. 
+* A new developer community member looking for Google Summer of Code program information
+* others
+
+Each one of these personas demand different style of conversation and would need to know about/join different sets of channels and other resources.
 
 Details:
 
-* While on vacation, a user can take a photo of his surroundings and upload it to a channel
-* The app will first process the image by passing it to an image reasoning multi-modal LLM to ascertain the location or point of interest or event venue (perhaps reinforced by GPS location information).  
-* Then in a second step an(other) LLM's tools/function-calling capability is used to fetch up-to-date events and happening information over the Internet, catering for the user's current interest. 
-* Finally, a friendly report is produced by an(other) LLM as the last step of a RAG pipeline. 
-* This app should never produce erraneous output. It should know its own limitaion and decline to report if in doubt.   
+The project aims to replace the boring "easy to miss, difficult to understand" landing page, with the latest LLM powered "Server Tour Guide Agent".   
 
+This AI agent should start a conversation with the new user and then using modern LLM's discrimination/classification ability to positively identify the persona (users grouping/ sub-communities on a server) that the user belongs to.
 
-💪 **Desired Skills:**  
+Then with the help of an LLM, continue to tune the conversation to the lingo-preferred of that persona, and finally guide the user to all the resources and channels available for that persona.
 
+This agent must be configurable (via Rocket.Chat Apps configuration) to handle any arbitrary persona and related resources set.
+
+Recommended Approach: 
+
+The agent should be able to add (and join) the appropriate channel for the new user, after confirming the action with the new user.
+
+A default/catch-all persona should be used to precisely scoped the project and ensure the LLM can converge onto a useful result.
+
+Since direct user input will be passed to the LLM for analysis, the agent MUST make sure that there is no prompt-injection possibility.
+
+Safety of server operation must be taken into account as this agent has ability to change the state of the server permanently.
+
+💪 **Desired Skills:**
+
+- Experience with Natural Language Processing (NLP) systems
 - Rocket.Chat Apps Engine (TypeScript)  
-- Familiarity with the "RAG" agentic workflow  
-- Intermediate prompt engineering Skills   
-- Experience with image reasoning capabilities of modern open source multi-modal LLMs  
+- Rocket.Chat messaging APIs
+- Advanced prompt engineering skills   
+- Experience working with multi-step reasoning LLMs
 - Experience with tools/function-calling capabilities of modern LLMs
+- Understanding of how to implement "safety first" when creating AI apps that may permanently change the state of a production system
 
-🎯 **Goals/Deliverables:**  
+🎯 **Goals/Deliverables:**
 
-- A working Rocket.Chat App that assists users with latest happenings around them wherever they may be while on vacations. 
+- An AI Assistant that will help to onboard new users for Rocket.Chat servers across the world. 
 
-⏳ **Project Duration:** 90 hours (Small)  
-
-📈 **Difficulty:** Intermediate/Advanced  
+⏳ **Project Duration:** 175 hours (Medium)
 
 -----
 
 
-### 💡Embedded Chat 2025
+### 💡 Embedded Chat 2025
 
 👥 **Mentor(s):** Zishan Ahmad
 
@@ -153,7 +178,7 @@ React.Js
 
 ### 💡 Receipts Processor and Reporting App powered by Multi-modal LLMs 
 
-👥 **Mentor(s):** Maria Khelli
+👥 **Mentor(s):** Maria Khelli, Sing Li
 
 💬 **Description:**  
 
@@ -178,46 +203,17 @@ Details:
 
 A working Rocket.Chat app that will scan and sum all the restaurant receipts uploaded to a specific channel.
 
-⏳ **Project Duration:** 90 hours (Small)  
+⏳ **Project Duration:** 175 hours (Medium)  
 
 📈 **Difficulty:** Easy/Intermediate  
 
 -----
 
-### 💡End to End Encrypted Message Handling for Ruqola on KDE
-
-👥 **Mentor(s):** [Montel Laurant](https://github.com/Montel),  Aaron Ogle  
-
-💬 **Description:**  
-
-Add end to end encrypted message feature to the [Ruqola client](https://github.com/KDE/ruqola) on KDE.  Ruqola is the de-facto standard Rocket.Chat client running on KDE.   This project will be co-mentored by an expert mentor from KDE.
-
-Details:
-- some UI elements to handle E2E encrypted messages is already in place
-- careful consideration for key management is essential to a successful implementation
-    - how does the user get the key?  what happens when he/she loses the key?  
-    - what UI is needed to support re-generation of key?
-    - how does one display a channel with messages that may be encrypted by different keys? 
-
-💪 **Desired Skills:**  
-- Rocket.Chat API programming (REST and DDP) 
-- Solid experience with C++ programming
-- Experience with large and complex C++ projects
-- Working experience with KDE on Linux (such as kubuntu) 
-- Ideally already user of Ruqola
-
-🎯 **Goals/Deliverables:**  
-Add support for E2E Encrypted messages in Ruqola.
-
-⏳ **Project Duration:** 175 hours (Medium)  
-
-📈 **Difficulty:** Advanced  
-
-----
-
 ### 💡 AI Docs Assistant App
 
-👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/evan.shu)  
+
+👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/evan.shu),  Jeffery Yu  
+
 
 💬 **Description:**  
 
@@ -255,7 +251,7 @@ Key Features:
 
 ### 💡Google Summer of Code Community Hub 2025
 
-👥 **Mentor(s):** Ashutosh Singh Chauhan
+👥 **Mentor(s):**  Anjaneya Gupta
 
 💬 **Description:**  
 
@@ -332,22 +328,57 @@ Platform for generating functional automated chat workflows using LLMs.
 
 📈 **Difficulty:** Intermediate/Advanced  
 
-
 ---
 
-### 💡On-device client side LLM inference and API Access Enablement 
+###  💡 Messages scheduling
 
-👥 **Mentor(s):** Sing Li
+👥 **Mentor(s):** Ricardo Garim
+
+💬 **Description:**
+
+Add a native Rocket.Chat feature that lets users schedule messages to be sent later, directly integrated with the current send button. Since we serve users across multiple time zones, this feature will make it easier to schedule messages for the right time, no matter where they are.
+
+💪 **Desired Skills:**
+
+- Awareness of Rocket.Chat server and client codebase (NodeJS and React)
+
+🎯 **Goals/Deliverables:**
+
+- A Rocket.Chat feature that will allow users to schedule messages to be sent in the future
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Advanced
+
+----
+
+
+### 💡In-browser, on-device, client-side LLM inference and API Access
+
+👥 **Mentor(s):** Sing Li, Ashutosh Singh Chauhan
 
 💬 **Description:**  
 
-Analyze and modify current deployment workflows for Rocket.Chat to enable browser based client-side on-device LLM inference.  
+You will bring open source, on-device, client-side LLM inference (API calls, agentic workflows, and so on) to all Rocket.Chat users with this project.  
 
 Details:
 
-- high performance lightweight models became available in second half of 2024, making on-device inference possible  (requiring about 2GB additional memory and GPU on client)
-- webgpu and webllm technology matured and now in-browser inference and LLM API access is a practicing reality
-- Rocket.Chat administrators/installers should be able to OPTIONALLY enable client-side inference
+Analyze and modify current supported deployment workflows - all three of them:
+
+    * docker
+    * helm
+    * snaps
+
+for Rocket.Chat to enable browser based client-side on-device LLM inference.  
+
+This needs to be done unintrusively and optional for those who don't want to (and don't have modern client-side hardware) AI-enable their users. 
+
+Details:
+
+- high performance lightweight models became available in second half of 2024 (Llama 3.2, Intern LM 2,  Phi 3 mini, Qwen 2.5, Smol LM, Gemma 2b, DeepSeek distlled, and so many more), making on-device inference possible  (requiring ONLY about 2GB additional memory and reasonable GPU on client)
+- breakthrough [webgpu and webllm](https://webllm.mlc.ai/) technology matured 2 yrs later and now in-browser inference and LLM API access (WASM'ed Python code on top of HTML5/WebGPU standard) is a stable working reality
+- big-tech vendors (phone and OS vendors such as Apple, Samsung, Microsoft, and so on ... ) are rapidly bringing client-side *CLOSED SOURCE* inference capability to their own products with no roadmap in 2025 to empower access by other's applications
+- with this project, Rocket.Chat administrators/installers should be able to OPTIONALLY enable client-side inference
 - on-device/client-side implementation should detect device capabilities before downloading the LLM weights; only enabling it if there is enough compute and memory available on the client 
 
 💪 **Desired Skills:**  
@@ -356,14 +387,142 @@ Details:
 - DevOps: docker, helm, snaps, and so on. 
 - Advanced Typescript
 - Awareness of WASM and webllm 
-- Python 
+- Python magician
 
 🎯 **Goals/Deliverables:**  
 
-Ability to deploy client-side/on-device in-browser LLM for rapid development and efficient scaling of AI apps.
+Bring open source AI applications (including development platform), running 100% client-side and in-browser, to millions of existing Rocket.Chat users  (those who already have capable client hardware - any Apple Silicon Mac, for example) 
 
-⏳ **Project Duration:** 90 hours (Small)  
+⏳ **Project Duration:** 175 hours (Medium)  
 
 📈 **Difficulty:** Advanced  
 
 ---
+
+### 💡 AI Google Forms / Typeform Survey Integration App
+
+👥 **Mentor(s):** Abhinav kumar
+
+💬 **Description:**  
+This app integrates any one of the popular survey tools (Google Forms, Typeform etc.) into Rocket.Chat to allow teams to create, distribute, and analyze quick polls or feedback forms without leaving the chat. Users can launch surveys, receive immediate notifications when responses are submitted, and have summary reports automatically posted to designated channels.
+
+Using natural language to create forms would be a huge plus for the project.
+Example - "Create a form to accept registration for the Annual Tech Conference. It should collect full name, email address, company, and dietary restrictions. Validate the email field, send me a notification on each new registration, and post a summary report in the #conference-registrations channel."
+
+**Key Features:**
+- **Slash Commands:** Launch new surveys or share form links directly from Rocket.Chat.
+- **Inline Notifications:** Receive real-time alerts when survey responses are submitted.
+- **Automated Reporting:** Generate and post periodic summary reports in designated channels.
+
+**Use Case:**  
+Enables teams to capture immediate feedback and conduct internal polls seamlessly within Rocket.Chat, enhancing decision-making and team engagement.
+
+💪 **Desired Skills:**  
+- Proficiency with Rocket.Chat Apps Engine (TypeScript)  
+- Experience with REST APIs and third‑party service integrations  
+- Familiarity with survey platforms (Google Forms, Typeform) and their APIs
+
+🎯 **Goals/Deliverables:**  
+- Develop a Rocket.Chat App that connects to Google Forms/Typeform.  
+- Implement slash commands for survey creation and sharing.  
+- Integrate real-time notifications for survey responses.  
+- Automate the generation and posting of summary reports.
+
+⏳ **Project Duration:** 90 hours (Small)  
+📈 **Difficulty:** Easy/Intermediate
+
+---
+
+### 💡On-Vacation Helper App 
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**  
+
+This LLM-powered app will suggest interesting events and happenings for users during their vacation.   
+
+Details:
+
+* While on vacation, a user can take a photo of his surroundings and upload it to a channel
+* The app will first process the image by passing it to an image reasoning multi-modal LLM to ascertain the location or point of interest or event venue (perhaps reinforced by GPS location information).  
+* Then in a second step an(other) LLM's tools/function-calling capability is used to fetch up-to-date events and happening information over the Internet, catering for the user's current interest. 
+* Finally, a friendly report is produced by an(other) LLM as the last step of a RAG pipeline. 
+* This app should never produce erraneous output. It should know its own limitaion and decline to report if in doubt.   
+
+
+💪 **Desired Skills:**  
+
+- Rocket.Chat Apps Engine (TypeScript)  
+- Familiarity with the "RAG" agentic workflow  
+- Intermediate prompt engineering Skills   
+- Experience with image reasoning capabilities of modern open source multi-modal LLMs  
+- Experience with tools/function-calling capabilities of modern LLMs
+
+🎯 **Goals/Deliverables:**  
+
+- A working Rocket.Chat App that assists users with latest happenings around them wherever they may be while on vacations. 
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Intermediate/Advanced  
+
+----
+
+### 💡 AI Transcription and Translation for Voice Messages App
+
+👥 **Mentor(s):** Dhurv Jain, Abhinav Kumar
+
+💬 **Description:**  
+Rocket.Chat already supports sending voice messages. This project enhances that feature by providing on-demand or real-time transcription and translation of voice messages. Users can choose to transcribe voice messages to text and optionally translate into their preferred language, thereby boosting accessibility and making communication more inclusive.
+
+**Possible Milestones:**
+- **UI/UX Enhancements:**  
+  - Integrate options into the existing voice message interface for triggering transcription and translation.
+- **Backend Processing:**  
+  - Integrate with a speech-to-text service (e.g., Google Cloud Speech-to-Text or open‑source alternatives like Vosk) to transcribe voice messages.
+- **Translation Integration:**  
+  - Connect with a translation API (e.g., Google Translate or LibreTranslate) to convert transcriptions into the target language.
+- **Performance & Accuracy Tuning:**  
+  - Optimize for low latency and high transcription accuracy, ensuring the system gracefully handles slow or unavailable external APIs.
+
+💪 **Desired Skills:**  
+- Experience with Rocket.Chat Apps Engine (TypeScript)  
+- Familiarity with speech-to-text and translation APIs  
+- Skills in mobile and web UI/UX enhancement  
+- Ability to optimize performance and implement robust error handling
+
+🎯 **Goals/Deliverables:**  
+- A Rocket.Chat App that enhances the existing voice message feature with transcription and translation capabilities.
+- Seamless integration with external speech-to-text and translation services.
+- An intuitive interface that allows users to trigger transcription and translation on demand or in real time.
+
+⏳ **Project Duration:** 90 hours (Small)  
+📈 **Difficulty:** Intermediate/Advanced
+
+---
+
+###  💡 Code Review Bot 
+
+👥 **Mentor(s):** Felipe Scuciatto 
+
+💬 **Description:**
+
+ This bot will monitor open pull requests and apply a “nagging” mechanism to ensure timely reviews. Using a statistical scoring system, it will identify the most suitable reviewer and persistently remind them until the review is completed.
+
+Additionally, the bot will leverage code-specialized Large Language Models (LLMs) to perform an initial review, automatically filtering out minor improvements before they reach human reviewers. This will streamline the review process, reduce unnecessary delays, and ensure that only meaningful changes require manual attention.
+
+
+💪 **Desired Skills:**
+
+- Rocket.Chat Apps Engine (TypeScript)
+- A little of estatistics
+- LLMs
+- GitHub API
+
+🎯 **Goals/Deliverables:**
+
+- A Rocket.Chat App that will interact with users and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+
