@@ -199,34 +199,38 @@ A working Rocket.Chat app that will scan and sum all the restaurant receipts upl
 
 -----
 
-### 💡 AI Docs Assistant App
+### 💡 Perfect AI Docs Assistant App
 
 👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv),  Jeffery Yu  
 
 💬 **Description:**  
 
-This project aims to build a Rocket.Chat App that provides a **natural language interface** for querying Rocket.Chat Docs (docs.rocket.chat). Instead of manually searching for answers, users can simply ask the app, and it will return a **relevant, structured response** based on the documentation.  
+This project aims to build a Rocket.Chat App that provides a **natural language interface** for querying Rocket.Chat Docs (docs.rocket.chat). Instead of manually searching for answers, users can simply ask the app, and it will return a **perfect, relevant response** extracted and summarized from the documentation.
 
-Key Features:  
+For the very small dataset that we are working with, we aim to tune and optimize the well-known RAG agentic workflow for our specific purpose; ideally producing  **an optimized and perfect Ask the Docs Assistant** for this subset of the Rocket.Chat documentation.
+ 
+Consider possibly:  
 
-- **Retrieval-Augmented Generation (RAG)** approach to search and retrieve docs.  
-- **Local embedding model** (running on CPU) to generate query representations.  
-- **In-memory vector store** to efficiently match queries to relevant documentation.  
-- **Context-aware responses** to handle follow-up questions naturally.  
+- **Retrieval-Augmented Generation (RAG) agentic workflow** the AI/ML design pattern we're all familiar with   
+- **Local embedding model** needs to run in memory/CPU for maximum efficiency
+- **In-memory vector store** run in the client with no persistence, subject of further optimization (chunking, match-selection, metadata) to tune for _perfect results_
+- **Context-aware follow-up responses** not required but nice to have
 
 💪 **Desired Skills:**  
 
 - Rocket.Chat Apps Engine (TypeScript)  
-- Natural Language Processing (NLP)  
-- Vector search (HNSW, LSH, or similar techniques in JS)  
-- Web Storage & IndexedDB (for caching, if needed)  
+- Modern agentic workflows (including classic-RAG)
+- Web Storage & IndexedDB (for caching, if needed)
+- Intermediate prompt engineering 
+- Keen interest in contemporary applications of LLMs
 
 🎯 **Goals/Deliverables:**  
 
-- A Rocket.Chat App that enables users to query Rocket.Chat Docs via natural language.  
-- **Efficient RAG-based retrieval** with an in-memory vector store. 
-- A **lightweight, CPU-friendly embedding model** for query similarity matching.  
-- **Interactive chat interface** that tracks context for follow-up queries.  
+* generation/creation of a perfect validation dataset, consisting of (1500, 5000, 10000) queriies and corresponding answer, that will be used in the benchmark/validation of the final assistant
+* a fine-tuned compact LLM to be used in the last stage of the RAG agentic workflow (fine-tuned minimally on the dataset above)
+* the perfect "ask the docs assistant" for our small dataset, running mostly on the client without heavy compute overhead, ideally scoring 90% plus on the benchmark 
+
+_(we like to thank our early community for helping us to fine-tune this set of deliverables)_
 
 ⏳ **Project Duration:** 90 hours (Small)  
 
@@ -356,7 +360,7 @@ The creation of tests for the new component is also expected, both end to end an
 
 ###  💡 Messages scheduling
 
-👥 **Mentor(s):** Ricardo Garim
+👥 **Mentor(s):** Ricardo Swarovsky
 
 💬 **Description:**
 
@@ -457,20 +461,20 @@ Enables teams to capture immediate feedback and conduct internal polls seamlessl
 
 ---
 
-### 💡On-Vacation Helper App 
+### 💡Trip Helper App 
 
 👥 **Mentor(s):** TBD
 
 💬 **Description:**  
 
-This LLM-powered app will suggest interesting events and happenings for users during their vacation.   
+This LLM-powered app will suggest interesting events and happenings for users during their trip.   
 
 Details:
 
-* While on vacation, a user can take a photo of his surroundings and upload it to a channel
+* While on trip in a foreign place, a user can take a photo of his surroundings and upload it to a channel
 * The app will first process the image by passing it to an image reasoning multi-modal LLM to ascertain the location or point of interest or event venue (perhaps reinforced by GPS location information).  
 * Then in a second step an(other) LLM's tools/function-calling capability is used to fetch up-to-date events and happening information over the Internet, catering for the user's current interest. 
-* Finally, a friendly report is produced by an(other) LLM as the last step of a RAG pipeline. 
+* Finally, a friendly summary report is produced by an(other) LLM as the last step of a RAG pipeline. 
 * This app should never produce erraneous output. It should know its own limitaion and decline to report if in doubt.   
 
 
@@ -484,7 +488,7 @@ Details:
 
 🎯 **Goals/Deliverables:**  
 
-- A working Rocket.Chat App that assists users with latest happenings around them wherever they may be while on vacations. 
+- A working Rocket.Chat App that assists users with latest happenings around them wherever they may be while on any trip. 
 
 ⏳ **Project Duration:** 90 hours (Small)  
 
