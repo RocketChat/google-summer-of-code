@@ -555,3 +555,30 @@ Additionally, the bot will leverage code-specialized Large Language Models (LLMs
 
 ---
 
+###  💡 Asana Integration for Rocket.Chat
+
+👥 **Mentor(s):** Gustavo Bauer
+
+💬 **Description:**
+
+Integrate Asana with Rocket.Chat to boost team collaboration. Instead of duplicating Asana’s complex task creation, focus on elevating user experience from within Rocket.Chat. Users stay informed in Rocket.Chat while complex actions remain in Asana.
+
+💪 **Desired Skills:**
+
+- Rocket.Chat Apps Engine (TypeScript)
+- WebHooks
+- Asana API
+
+🎯 **Possible Milestones:**
+- **Setup & Authentication**
+  - Implement OAuth and channel configuration.
+- **Contextual Notifications**  
+  - Real-time alerts for task updates and deadlines.
+- **Quick Commands & Summaries**
+  - Slash commands for task details and simple updates.
+- **Deep Linking**
+  - Direct links from notifications to tasks in Asana.
+- **Activity Feed**
+  - A mini feed for recent Asana activity in channels.
+
+⏳ **Project Duration:**  90 hours (Small)
