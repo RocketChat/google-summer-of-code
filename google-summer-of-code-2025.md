@@ -125,6 +125,35 @@ An AI Agent that will help to onboard new users.
 
 -----
 
+###  💡 Code Review Assistant for Open Source projects 
+
+👥 **Mentor(s):** Felipe Scuciatto,  Samad Kahn 
+
+💬 **Description:**
+
+Finding reviewers for contributors' PRs on open source projects can often be difficult.  Slow response can possibly result in the loss of a communtiy contributor.  
+
+ This assistant will monitor new pull requests (either via incoming github integration messages in a channel or directly via github events) and identify the most suitable maintainer to review the PR based on a statistical scoring system.  It will follow up with a friendly yet frequent reminder (“nagging”) mechanism to ensure timely reviews. 
+
+Additionally, the bot will leverage code-specialized LLMs to perform an initial review, automatically filtering out minor improvements before they reach human reviewers. 
+
+This will streamline the review process, reduce unnecessary delays, and ensure that only meaningful changes require manual attention.
+
+
+💪 **Desired Skills:**
+
+- Rocket.Chat Apps Engine and TypeScript
+- Knowledge of general statistics
+- Prompt engineering with code-specialized LLMs
+- Ideally GitHub API
+
+🎯 **Goals/Deliverables:**
+
+- A Rocket.Chat App that will interact with oepn source maintainers and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+---
 
 ### 💡 Embedded Chat 2025
 
@@ -508,32 +537,6 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 ⏳ **Project Duration:** 90 hours (Small)  
 📈 **Difficulty:** Intermediate/Advanced
-
----
-
-###  💡 Code Review Bot 
-
-👥 **Mentor(s):** Felipe Scuciatto 
-
-💬 **Description:**
-
- This bot will monitor open pull requests and apply a “nagging” mechanism to ensure timely reviews. Using a statistical scoring system, it will identify the most suitable reviewer and persistently remind them until the review is completed.
-
-Additionally, the bot will leverage code-specialized Large Language Models (LLMs) to perform an initial review, automatically filtering out minor improvements before they reach human reviewers. This will streamline the review process, reduce unnecessary delays, and ensure that only meaningful changes require manual attention.
-
-
-💪 **Desired Skills:**
-
-- Rocket.Chat Apps Engine (TypeScript)
-- A little of estatistics
-- LLMs
-- GitHub API
-
-🎯 **Goals/Deliverables:**
-
-- A Rocket.Chat App that will interact with users and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
-
-⏳ **Project Duration:** 175 hours (Medium)
 
 ---
 
