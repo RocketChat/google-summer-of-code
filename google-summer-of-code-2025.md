@@ -149,7 +149,7 @@ This will streamline the review process, reduce unnecessary delays, and ensure t
 
 🎯 **Goals/Deliverables:**
 
-- A Rocket.Chat App that will interact with oepn source maintainers and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
+- A Rocket.Chat App that will interact with open source maintainers and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
