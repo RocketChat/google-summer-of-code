@@ -129,6 +129,8 @@ An AI Agent that will help to onboard new users.
 
 👥 **Mentor(s):** Felipe Scuciatto,  Samad Kahn 
 
+📢 **Communication Channel:** [idea-Code-Review-Agent-for-Open-Source-projects](https://open.rocket.chat/channel/idea-Code-Review-Agent-for-Open-Source-projects)
+
 💬 **Description:**
 
 Finding reviewers for contributors' PRs on open source projects can often be difficult.  Slow response can possibly result in the loss of a communtiy contributor.  
@@ -159,6 +161,8 @@ This will streamline the review process, reduce unnecessary delays, and ensure t
 
 👥 **Mentor(s):** Zishan Ahmad
 
+📢 **Communication Channel:** [idea-Embedded-Chat-2025](https://open.rocket.chat/channel/idea-Embedded-Chat-2025)
+
 💬 **Description:**
 
 Improvement to the EmbeddedChat project this year includes:
@@ -185,6 +189,8 @@ React.Js
 ### 💡 Receipts Processor and Reporting App powered by Multi-modal LLMs 
 
 👥 **Mentor(s):** Maria Khelli, Sing Li
+
+📢 **Communication Channel:** [idea-Receipts-Processor-and-Reporting-App-powered-by-Multi-modal-LLMs](https://open.rocket.chat/channel/idea-Receipts-Processor-and-Reporting-App-powered-by-Multi-modal-LLMs)
 
 💬 **Description:**  
 
@@ -217,7 +223,9 @@ A working Rocket.Chat app that will scan and sum all the restaurant receipts upl
 
 ### 💡 Perfect AI Docs Assistant App
 
-👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv),  Jeffery Yu  
+👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv),  Jeffery Yu
+
+📢 **Communication Channel:** [idea-Perfect-AI-Docs-Assistant-App](https://open.rocket.chat/channel/idea-Perfect-AI-Docs-Assistant-App)
 
 💬 **Description:**  
 
@@ -294,6 +302,8 @@ A functional community hub website that we will use for 2026; showcasing the pla
 
 👥 **Mentor(s):**  Hardik Bhatia
 
+📢 **Communication Channel:** [idea-AI-Chat-Workflows-Automation-App-with-multi-step-reasoning](https://open.rocket.chat/channel/idea-AI-Chat-Workflows-Automation-App-with-multi-step-reasoning)
+
 💬 **Description:**  
 
 Build a Rocket.Chat app that will monitor messages in specified channels (possibly sent by specified individuals, possibly within certain specified time period, and so on... )  and then (as a second step) perform additional messaging operations based on those messages.  Command should be issued in simple English. Bonus point for more than 2 steps in the reasoning.
@@ -339,6 +349,8 @@ Platform for generating functional automated chat workflows using LLMs.
 
 👥 **Mentor(s):** [Martin Schoeler](https://open.rocket.chat/direct/martin.schoeler)
 
+📢 **Communication Channel:** [idea-Message-Timestamp-Date-Picker-Components](https://open.rocket.chat/channel/idea-Message-Timestamp-Date-Picker-Components)
+
 💬 **Description:**
 Currently Rocket.Chat has a feature that allows users to send timestamps on messages, but not in an intuitive way. To send a timestamp you need to manually write it down with the correct date code. For example `<t:1732557600:t>`.
 This feature was added for Rocket.Chat Apps engine, but users can benefit from this too. The objective of this project is to create a new `MessageToolBar` item that displays a calendar and let the users select the date and time they would like to share, both in the desktop app and mobile apps.
@@ -377,6 +389,8 @@ The creation of tests for the new component is also expected, both end to end an
 ###  💡 Messages scheduling
 
 👥 **Mentor(s):** Ricardo Swarovsky
+
+📢 **Communication Channel:** [idea-Message-Scheduling](https://open.rocket.chat/channel/idea-Messages-scheduling)
 
 💬 **Description:**
 
@@ -441,6 +455,8 @@ Empower the development of scalable open source AI applications running in-brows
 ### 💡 AI Google Forms / Typeform Survey Integration App
 
 👥 **Mentor(s):** Abhinav kumar
+
+📢 **Communication Channel:** [idea-AI-Google-Forms-Typeform-Survey-Integration-App](https://open.rocket.chat/channel/idea-AI-Google-Forms-Typeform-Survey-Integration-App)
 
 💬 **Description:**  
 This app integrates any one of the popular survey tools (Google Forms, Typeform etc.) into Rocket.Chat to allow teams to create, distribute, and analyze quick polls or feedback forms without leaving the chat. Users can launch surveys, receive immediate notifications when responses are submitted, and have summary reports automatically posted to designated channels.
@@ -510,6 +526,8 @@ Details:
 ### 💡 AI Transcription and Translation for Voice Messages App
 
 👥 **Mentor(s):** Dhurv Jain, Abhinav Kumar
+
+📢 **Communication Channel:** [idea-AI-Transcription-and-Translation-for-Voice-Messages-App](https://open.rocket.chat/channel/idea-AI-Transcription-and-Translation-for-Voice-Messages-App)
 
 💬 **Description:**  
 Rocket.Chat already supports sending voice messages. This project enhances that feature by providing on-demand or real-time transcription and translation of voice messages. Users can choose to transcribe voice messages to text and optionally translate into their preferred language, thereby boosting accessibility and making communication more inclusive.
