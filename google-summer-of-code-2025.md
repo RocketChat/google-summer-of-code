@@ -540,3 +540,36 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 ---
 
+### 💡 Asana Integration for Rocket.Chat
+
+👥 **Mentor(s):** Gustavo Bauer
+
+💬 **Description:**  
+Integrate [Asana](https://asana.com/) with Rocket.Chat to boost team collaboration. Instead of duplicating Asana’s complex task creation, focus on contextual notifications and quick access to task updates. Users stay informed in Rocket.Chat while complex actions remain in Asana.
+
+**Possible Milestones:**
+- **Setup & Authentication**
+  - Implement OAuth and channel configuration.
+
+- **Contextual Notifications**
+  - Real-time alerts for task updates and deadlines.
+
+- **Quick Commands & Summaries**
+  - Slash commands for task details and simple updates.
+
+- **Deep Linking**
+  - Direct links from notifications to tasks in Asana.
+
+- **Optional Activity Feed**
+  - A mini feed for recent Asana activity in channels.
+
+💪 **Desired Skills:**  
+- Experience with Rocket.Chat Apps Engine (TypeScript)  
+- OAuth and REST API experience
+
+🎯 **Goals/Deliverables:**  
+- A Rocket.Chat app delivering contextual task notifications and summaries.
+- Seamless redirection to Asana for detailed task management.
+
+⏳ Project Duration: 90hours (Small)
+📈 Difficulty: Easy/Intermediate
