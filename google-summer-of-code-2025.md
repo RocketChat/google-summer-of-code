@@ -573,3 +573,38 @@ Integrate [Asana](https://asana.com/) with Rocket.Chat to boost team collaborati
 
 ⏳ Project Duration: 90hours (Small)
 📈 Difficulty: Easy/Intermediate
+
+---
+
+### 🛠️ Maestro Integration for Rocket.Chat React Native Applications
+
+👥 **Mentor(s):** [Diego Mello](https://open.rocket.chat/direct/diego.mello)
+
+💬 **Description:**
+Integrate [Maestro](https://maestro.mobile.dev/), a mobile UI testing framework, into Rocket.Chat React Native codebase to enhance end-to-end (E2E) testing capabilities. This project aims to automate critical user flows and incorporate these tests into the CircleCI pipeline for continuous integration and delivery.
+
+**Possible Milestones:**
+- **Setup & Configuration**
+  - Integrate Maestro into the React Native project.
+  - Ensure compatibility with both iOS and Android platforms.
+
+- **Develop Test Flows**
+  - Collaborate with the development team to identify key user journeys.
+  - Create and validate comprehensive Maestro test scripts for these scenarios.
+
+- **CI/CD Integration**
+  - Incorporate Maestro tests into the CircleCI pipeline.
+  - Ensure automated test execution on pull request creation.
+
+💪 **Desired Skills**
+- Proficiency in React Native development.
+- Familiarity with mobile UI testing frameworks.
+- Experience with continuous integration tools, particularly CircleCI.
+
+🎯 **Goals/Deliverables**
+- A suite of automated E2E tests using Maestro.
+- Seamless integration of these tests into the CircleCI pipeline for automated execution.
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Intermediate
