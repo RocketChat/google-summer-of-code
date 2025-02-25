@@ -84,7 +84,7 @@ A Rocket.Chat App "agent" that can help setup servers (or for QA or demo or trai
 
 ⏳ **Project Duration:** 90 hours (Small)  
 
-📈 **Difficulty:** Intermediate  
+📈 Difficulty: Easy/Intermediate
 
 ---
 
@@ -119,7 +119,9 @@ Integrate [Asana](https://asana.com/) with Rocket.Chat to boost team collaborati
 - An app delivering userful integration workflows for project management teams collaborating on Rocket.Chat.   Including minimally contextual task notifications and summaries.
 - For workflows that are better handled with Asana's rich UI, seamless redirect to Asana and seamless  return to the Rocket.Chat collaboration context (channel / thread / discussions).
 
-⏳ Project Duration: 90hours (Small)
+⏳ Project Duration: 90 hours (Small)
+
+📈 Difficulty: Easy/Intermediate
 
 ---
 
@@ -612,4 +614,3 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 ---
 
-📈 Difficulty: Easy/Intermediate
