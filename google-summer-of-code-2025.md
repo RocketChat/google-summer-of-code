@@ -614,3 +614,37 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 ---
 
+### 💡Improve Private Team and Private Channel Administration 
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**  
+
+While it is possible to create private team and private channels in Rocket.Chat, the ability for the server's administrator to perform administrative tasks on them are currently very limited  (unless the server admin is part of the private channel or private team).  This was done by the original "team designer" to afford some local privacy for these these users.
+
+This project aims to improve this situation by adding the ability for the server administrator to (optionally) override  (via configuration on admin panel) to directly access and administer private team and private channels.
+
+This should include minimally the following abilities:
+
+* add/remove users in private channels
+* assign and change the roles of private channel users
+* add/remove/rename private team channels
+* add/remove/modify the members of private teams
+* assign and change the rolse of private team users  
+
+
+💪 **Desired Skills:**  
+
+- In depth understanding of Rocket.Chat core
+- Advanced Typescript
+- Interest in administration and management of sub-communities on large chat servers (our Team concept)
+
+🎯 **Goals/Deliverables:**  
+
+Ability for server administrator to better administer private teams and private channels.
+
+⏳ **Project Duration:** 175 hours (Medium)  
+
+📈 **Difficulty:** Intermediate  
+
+---
