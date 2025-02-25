@@ -57,6 +57,8 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 
 👥 **Mentor(s):** Aditya Singh
 
+📢 **Communication Channel:** [idea-Server-Setup-Agent](https://open.rocket.chat/channel/idea-Server-Setup-Agent)
+
 💬 **Description:**  
 
 As an administrator setting up a production Rocket.Chat server, one is typically required to create user accounts, create and assign roles, create default channels, possibly starting threads, starting discussions and populating with initial messages. 
@@ -91,6 +93,8 @@ A Rocket.Chat App "agent" that can help setup servers (or for QA or demo or trai
 ### 💡 Project Management Integration via Asana
 
 👥 **Mentor(s):** Gustavo Bauer
+
+📢 **Communication Channel:** [idea-Project-Management-via-Asana-Integration](https://open.rocket.chat/channel/idea-Project-Management-via-Asana-Integration)
 
 💬 **Description:**  
 Integrate [Asana](https://asana.com/) with Rocket.Chat to boost team collaboration. Instead of duplicating Asana’s complex task creation, focus on contextual notifications and quick access to task updates. Rocket.Chat project management users can stay informed collaborating within Rocket.Chat, while complex workflows that are better handled by Asana's rich UI remains in Asana.  The transition to and from Asana should be seamless. 
@@ -128,6 +132,8 @@ Integrate [Asana](https://asana.com/) with Rocket.Chat to boost team collaborati
 ### 🔑 Passkey-Based WebAuthn Authentication for Rocket.Chat  
 
 👥 **Mentor(s):**  Julio Araujo, [Dnouv](https://open.rocket.chat/direct/Dnouv)  
+
+📢 **Communication Channel:** [idea-Passkey-Based-WebAuthn-Authentication-for-Rocket-Chat](https://open.rocket.chat/channel/idea-Passkey-Based-WebAuthn-Authentication-for-Rocket-Chat)
 
 💬 **Description:**  
  
@@ -487,6 +493,8 @@ Add a native Rocket.Chat feature that lets users schedule messages to be sent la
 ### 💡Client-side AI Support
 
 👥 **Mentor(s):** Sing Li, Ashutosh Singh Chauhan
+
+📢 **Communication Channel:** [idea-Client-side-AI-Support](https://open.rocket.chat/channel/idea-Client-side-AI-Support)
 
 💬 **Description:**  
 
