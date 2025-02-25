@@ -512,6 +512,46 @@ Empower the development of scalable open source AI applications running in-brows
 
 ---
 
+### 💡 AI Enhanced Message Composer Component
+
+👥 **Mentor(s):** Sing Li, Ashutosh Singh Chauhan
+
+💬 **Description:**  
+
+This project aims to add **AI-powered message enhancements** directly into Rocket.Chat’s **Message Composer**, allowing users to refine their messages before sending. The enhancements will focus on:
+
+- **Grammar and Spelling Corrections**
+- **Rephrasing for Clarity**
+- **Tone Adjustments** (e.g., formal, casual)
+
+**Implementation Details:**
+
+- **Message Composer Enhancements:**  
+  - **Inline Suggestions:** Highlight areas needing improvement (grammar, clarity). Click to apply changes.
+  - **Tone Selector:** Add a dropdown to adjust the tone (e.g., formal or casual), and apply the change automatically.
+  - **Message Preview:** Allow users to toggle between the original and enhanced message.
+
+- **AI Integration:**  
+  - Use a lightweight AI model (e.g., **Llama 3.2**) for **client-side** processing via **WASM** or **WebGPU**.
+
+- **UI Integration:**  
+  - Display suggestions as subtle highlights or underlines, ensuring a smooth, non-intrusive experience.
+
+💪 **Desired Skills:**  
+- **Rocket.Chat Composer Component Knowledge**
+- **Advanced JavaScript/TypeScript**
+- **UI/UX Design**
+
+🎯 **Goals/Deliverables:**  
+- **AI Enhancements** in the Message Composer.
+- **UI/UX Polish** for a seamless experience.
+- **Cross-Platform Support** across web, mobile, and electron clients.
+
+⏳ **Project Duration:** 175 hours (Medium)  
+📈 **Difficulty:** Easy/Intermediate
+
+----
+
 ### 💡 AI Google Forms / Typeform Survey Integration App
 
 👥 **Mentor(s):** Abhinav kumar
