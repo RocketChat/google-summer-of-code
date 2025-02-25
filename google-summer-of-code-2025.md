@@ -692,7 +692,7 @@ Implementation must take UI/Ux design into consideration to ensure the elements 
 
 💪 **Desired Skills:**  
 
-- Understanding of rocket.chat core
+- Understanding of Rocket.Chat core
 - UI/Ux development
 - Advanced Typescript
 - Like coding, love design
@@ -703,3 +703,27 @@ Fully customizable channel header for Rocket.Chat.
 ⏳ **Project Duration:** 90 hours (Small)  
 
 📈 **Difficulty:** Easy  
+
+---
+
+### 💡Fine-grained upload/download permissions 
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**  
+
+Add and implement permissions to make possible the fine-grained control of who can upload or download files/attachments.  The implementation must enable the per user control of upload, download individually (or in combination) when users are on mobile, desktop, or web app.  (and any combinations of) 
+
+💪 **Desired Skills:**  
+
+- Understanding of Rocket.Chat core
+- Understanding of Rocket.Chat's role and permission system
+- Advanced Typescript
+- Interest in cyber security
+
+🎯 **Goals/Deliverables:**  
+Ability for administrators to control the upload/download capability per user, in combination with access client type.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Intermediate  
