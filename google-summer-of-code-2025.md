@@ -40,6 +40,8 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
+As of **Feb 24th 2025**, we are evolving project ideas with our engaged community members as well as returning community mentors, and guest mentors from other friendly open source projects.  We are super grateful to have **12 contributors from the 2024 season** returning to help us **as 2025 mentors**; and to bring on some exciting new project ideas.   Currently we have over 380 contributors and mentors active in our [30 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). And over [100 active contributors](https://gsoc.rocket.chat/) have contributed 14 Merged PRs, 88 Open PRs, and 206 issues to our open source projects.
+
 As of **Feb 9th 2025**, we are intensely discussing project ideas with our returning community mentors, and guest mentors from other friendly open source projects.  This year, we are thankful to already have **9 contributors from the 2024 season** returning to help us **as 2025 mentors** to bring on some exciting projects.   Currently we have over 210 contributors and mentors active in our [30 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
 
 
@@ -50,6 +52,78 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 
 > This is an early draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes during the application period - as mentors and potential contributors discuss and evolve the project descriptions.
 > 
+
+### 💡Server Setup Agent
+
+👥 **Mentor(s):** Aditya Singh
+
+💬 **Description:**  
+
+As an administrator setting up a production Rocket.Chat server, one is typically required to create user accounts, create and assign roles, create default channels, possibly starting threads, starting discussions and populating with initial messages. 
+
+These sort of tedious tasks are also often required in the testing and quality assurrance  of Rocket.Chat or Rocket.Chat related apps/projects.  Furthermore, they are also required in many demo and training situations.
+
+This project is a Setup Agent App that  automates all of the above based on either a series of slash commands or by loading an automated script. 
+
+The script should conform to an easy to learn, intuitive and simple DSL (Domain Specific Langauge) of the contributor's design. 
+
+The language needs to incorporate basic variables, and be able to handle simple counted loops.  Conditionals and conditional loops are nice to have.  
+
+The agent should be tested to handle very large scripts that may involve the creation of thousands of objects and messages.  
+
+
+💪 **Desired Skills:**  
+
+- Interest in DSL and AST (Domain Specific Language and Abstract Syntax Trees)
+- Rocket.Chat Apps development (Typescript) 
+- Familiarity with Rocket.Chat's REST APIs
+
+🎯 **Goals/Deliverables:**  
+
+A Rocket.Chat App "agent" that can help setup servers (or for QA or demo or training) by executing an automated script.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 Difficulty: Easy/Intermediate
+
+---
+
+### 💡 Project Management Integration via Asana
+
+👥 **Mentor(s):** Gustavo Bauer
+
+💬 **Description:**  
+Integrate [Asana](https://asana.com/) with Rocket.Chat to boost team collaboration. Instead of duplicating Asana’s complex task creation, focus on contextual notifications and quick access to task updates. Rocket.Chat project management users can stay informed collaborating within Rocket.Chat, while complex workflows that are better handled by Asana's rich UI remains in Asana.  The transition to and from Asana should be seamless. 
+
+*Details:**
+- **Setup & Authentication**
+  - Implement OAuth and channel configuration.
+
+- **Contextual Notifications**
+  - Real-time alerts for task updates and deadlines.
+
+- **Quick Commands & Summaries**
+  - Slash commands for task details and simple updates.
+
+- **Deep Linking**
+  - Direct links from notifications to tasks in Asana.
+
+- **Optional Activity Feed**
+  - A mini feed for recent Asana activity in channels.
+
+💪 **Desired Skills:**  
+- Experience with Rocket.Chat Apps Engine (TypeScript)  
+- OAuth and REST API experience
+
+🎯 **Goals/Deliverables:**  
+- An app delivering userful integration workflows for project management teams collaborating on Rocket.Chat.   Including minimally contextual task notifications and summaries.
+- For workflows that are better handled with Asana's rich UI, seamless redirect to Asana and seamless  return to the Rocket.Chat collaboration context (channel / thread / discussions).
+
+⏳ Project Duration: 90 hours (Small)
+
+📈 Difficulty: Easy/Intermediate
+
+---
 
 ### 🔑 Passkey-Based WebAuthn Authentication for Rocket.Chat  
 
@@ -151,7 +225,7 @@ This will streamline the review process, reduce unnecessary delays, and ensure t
 
 🎯 **Goals/Deliverables:**
 
-- A Rocket.Chat App that will interact with oepn source maintainers and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
+- A Rocket.Chat App that will interact with open source maintainers and monitors open pull requests, assigns the most suitable reviewer based on past reviews, persistently reminds them until the review is completed, and leverages AI for initial code assessments.
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
