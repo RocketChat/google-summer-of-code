@@ -676,7 +676,7 @@ All emojis rendered in-line while a message is being composed.
 
 ---
 
-### 💡Customizability of Channel Header
+### 💡Channel Header Customization
 
 👥 **Mentor(s):** TBD
 
