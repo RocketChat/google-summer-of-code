@@ -648,3 +648,29 @@ Ability for server administrator to better administer private teams and private 
 📈 **Difficulty:** Intermediate  
 
 ---
+
+### 💡Composer support for in-line emoji rendering
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**  
+
+Emojis are rendered in its text form - `:grin:` instead of 😬 - while  composing a message using Rocket.Chat.
+
+This project should upgrade the composer to support in-line in-message rendering of emjois while editing.    The implementation should be able to handle any custom emojis that might be installed on the server. 
+
+💪 **Desired Skills:**  
+
+- Understanding of the composer component
+- Advanced Typescript
+- Interest in UI/Ux design and implementation
+
+🎯 **Goals/Deliverables:**  
+
+All emojis rendered in-line while a message is being composed.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Easy  
+
+---
