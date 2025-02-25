@@ -53,6 +53,40 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 > This is an early draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes during the application period - as mentors and potential contributors discuss and evolve the project descriptions.
 > 
 
+### 💡Server Setup Agent
+
+👥 **Mentor(s):** Aditya Singh
+
+💬 **Description:**  
+
+As an administrator setting up a production Rocket.Chat server, one is typically required to create user accounts, create and assign roles, create default channels, possibly starting threads, starting discussions and populating with initial messages. 
+
+These sort of tedious tasks are also often required in the testing and quality assurrance  of Rocket.Chat or Rocket.Chat related apps/projects.  Furthermore, they are also required in many demo and training situations.
+
+This project is a Setup Agent App that  automates all of the above based on either a series of slash commands or by loading an automated script. 
+
+The script should conform to an easy to learn, intuitive and simple DSL (Domain Specific Langauge) of the contributor's design. 
+
+The language needs to incorporate basic variables, and be able to handle simple counted loops.  Conditionals and conditional loops are nice to have.  
+
+The agent should be tested to handle very large scripts that may involve the creation of thousands of objects and messages.  
+
+
+💪 **Desired Skills:**  
+
+- Interest in DSL and AST (Domain Specific Language and Abstract Syntax Trees)
+- Rocket.Chat Apps development (Typescript) 
+- Familiarity with Rocket.Chat's REST APIs
+
+🎯 **Goals/Deliverables:**  
+
+A Rocket.Chat App "agent" that can help setup servers (or for QA or demo or training) by executing an automated script.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Intermediate  
+
+---
 
 ### 💡 Project Management Integration via Asana
 
