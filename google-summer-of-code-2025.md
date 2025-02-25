@@ -664,6 +664,7 @@ This project should upgrade the composer to support in-line in-message rendering
 - Understanding of the composer component
 - Advanced Typescript
 - Interest in UI/Ux design and implementation
+- Desire to work on high impact projects (benefiting every single RC user)
 
 🎯 **Goals/Deliverables:**  
 
@@ -674,3 +675,31 @@ All emojis rendered in-line while a message is being composed.
 📈 **Difficulty:** Easy  
 
 ---
+
+### 💡Customizability of Channel Header
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**  
+
+Currently, all elements on the channel header are fixed and mandatory.
+
+This project aims to make the channel header customizable, allowing the owner/administrator to hide some components (where it makes sense).
+
+One should be able to hide any combination of the buttons in the header.
+
+Implementation must take UI/Ux design into consideration to ensure the elements showing are still consistent with the overall Rocket.Chat design aesthetics. 
+
+💪 **Desired Skills:**  
+
+- Understanding of rocket.chat core
+- UI/Ux development
+- Advanced Typescript
+- Like coding, love design
+
+🎯 **Goals/Deliverables:**  
+Fully customizable channel header for Rocket.Chat. 
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Easy  
