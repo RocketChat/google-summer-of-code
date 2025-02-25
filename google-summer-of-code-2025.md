@@ -128,7 +128,7 @@ This high impact project upgrades the Rocket.Chat message composer component to 
 - **Cross-Platform Support** across web, mobile, and electron clients.
 
 ⏳ **Project Duration:** 175 hours (Medium)  
-📈 **Difficulty:** Easy/Intermediate
+📈 **Difficulty:** Advanced
 
 ---
 
