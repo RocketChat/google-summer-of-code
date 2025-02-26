@@ -90,6 +90,50 @@ A Rocket.Chat App "agent" that can help setup servers (or for QA or demo or trai
 
 ---
 
+### 💡 AI Enhanced Message Composer Component
+
+👥 **Mentor(s):**  Gabriel Engel, Ashutosh Singh Chauhan
+
+💬 **Description:**  
+
+This high impact project upgrades the Rocket.Chat message composer component to be fully *AI powered*.  It empowers Rocket.Chat users to leverage all that modern AI technologies can offer while they are composing their message. These facilities, in 2025, may include:
+
+- grammar corrections
+- context sensitive spelling correction
+- re-wording/re-phrasing for clarity / jargon-match
+- tone Adjustments
+- tone matching with messages in channel
+- language translation
+- message emojification
+- message summarization and/or message verbose-tization
+- and many more to come in 2025/2026
+
+**Features:**
+  - Inline Suggestions: Highlight areas needing improvement (grammar, clarity). Click to apply changes.
+  - Tone Selector: Add a dropdown to adjust the tone (e.g., formal or casual), and apply the change automatically.
+  - Message Preview: Allow users to toggle between the original and enhanced/translate message.
+  - Hinting: Display suggestions as subtle highlights or underlines, ensuring a smooth, non-intrusive experience.
+
+**AI Integration Consideration**  
+  - This project / upgraded component will not include the LLM access mechanism. It is a pure UI component project.  However, care must be taken to design it in such a way that it can be totally compatible with all kinds of LLM access --  client-side, server-side on-premises, server-side third party, cloud, and so on. 
+
+💪 **Desired Skills:**  
+- Advanced understanding of Rocket.Chat Composer Component
+- Advanced understanding of UI/Kit and Fuselage design philosophy
+- Advanced JavaScript/TypeScript**
+- Like coding, love design
+- Love to work in maximum impact projects
+
+🎯 **Goals/Deliverables:**  
+- **AI Enhancements** in the Message Composer.
+- **UI/UX Polish** for a seamless experience.
+- **Cross-Platform Support** across web, mobile, and electron clients.
+
+⏳ **Project Duration:** 175 hours (Medium)  
+📈 **Difficulty:** Advanced
+
+---
+
 ### 💡 Project Management Integration via Asana
 
 👥 **Mentor(s):** Gustavo Bauer
@@ -640,3 +684,116 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 ---
 
+### 💡Improve Private Team and Private Channel Administration 
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**  
+
+While it is possible to create private team and private channels in Rocket.Chat, the ability for the server's administrator to perform administrative tasks on them are currently very limited  (unless the server admin is part of the private channel or private team).  This was done by the original "team designer" to afford some local privacy for these these users.
+
+This project aims to improve this situation by adding the ability for the server administrator to (optionally) override  (via configuration on admin panel) to directly access and administer private team and private channels.
+
+This should include minimally the following abilities:
+
+* add/remove users in private channels
+* assign and change the roles of private channel users
+* add/remove/rename private team channels
+* add/remove/modify the members of private teams
+* assign and change the rolse of private team users  
+
+
+💪 **Desired Skills:**  
+
+- In depth understanding of Rocket.Chat core
+- Advanced Typescript
+- Interest in administration and management of sub-communities on large chat servers (our Team concept)
+
+🎯 **Goals/Deliverables:**  
+
+Ability for server administrator to better administer private teams and private channels.
+
+⏳ **Project Duration:** 175 hours (Medium)  
+
+📈 **Difficulty:** Intermediate  
+
+---
+
+### 💡Composer support for in-line emoji rendering
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**  
+
+Emojis are rendered in its text form - `:grin:` instead of 😬 - while  composing a message using Rocket.Chat.
+
+This project should upgrade the composer to support in-line in-message rendering of emjois while editing.    The implementation should be able to handle any custom emojis that might be installed on the server. 
+
+💪 **Desired Skills:**  
+
+- Understanding of the composer component
+- Advanced Typescript
+- Interest in UI/Ux design and implementation
+- Desire to work on high impact projects (benefiting every single RC user)
+
+🎯 **Goals/Deliverables:**  
+
+All emojis rendered in-line while a message is being composed.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Easy  
+
+---
+
+### 💡Channel Header Customization
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**  
+
+Currently, all elements on the channel header are fixed and mandatory.
+
+This project aims to make the channel header customizable, allowing the owner/administrator to hide some components (where it makes sense).
+
+One should be able to hide any combination of the buttons in the header.
+
+Implementation must take UI/Ux design into consideration to ensure the elements showing are still consistent with the overall Rocket.Chat design aesthetics. 
+
+💪 **Desired Skills:**  
+
+- Understanding of Rocket.Chat core
+- UI/Ux development
+- Advanced Typescript
+- Like coding, love design
+
+🎯 **Goals/Deliverables:**  
+Fully customizable channel header for Rocket.Chat. 
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Easy  
+
+---
+
+### 💡Fine-grained upload/download permissions 
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**  
+
+Add and implement permissions to make possible the fine-grained control of who can upload or download files/attachments.  The implementation must enable the per user control of upload, download individually (or in combination) when users are on mobile, desktop, or web app.  (and any combinations of) 
+
+💪 **Desired Skills:**  
+
+- Understanding of Rocket.Chat core
+- Understanding of Rocket.Chat's role and permission system
+- Advanced Typescript
+- Interest in cyber security
+
+🎯 **Goals/Deliverables:**  
+Ability for administrators to control the upload/download capability per user, in combination with access client type.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Intermediate  
