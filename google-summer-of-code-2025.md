@@ -4,7 +4,7 @@
 
 ## How to apply
 
-Rocket.Chat is applying to become a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to usher in a new generation of open source contributors and enthusiasts.
+Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to usher in a new generation of open source contributors and enthusiasts.
 
 For timeline, see [Official Google Summer of Code 2025](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.
 
@@ -675,12 +675,14 @@ This should include minimally the following abilities:
 * add/remove/rename private team channels
 * add/remove/modify the members of private teams
 * assign and change the rolse of private team users  
+* access private channels and private teams in the Directory
 
 
 💪 **Desired Skills:**  
 
 - In depth understanding of Rocket.Chat core
 - Advanced Typescript
+- Familiarity with Rocket.Chat UI/Ux 
 - Interest in administration and management of sub-communities on large chat servers (our Team concept)
 
 🎯 **Goals/Deliverables:**  
