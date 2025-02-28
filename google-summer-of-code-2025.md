@@ -583,6 +583,8 @@ Empower the development of scalable open source AI applications running in-brows
 
 👥 **Mentor(s):** Montel Laurant,  Aaron Ogle  
 
+📢 **Communication Channel:** [idea-E2E-messages-handling-for-Ruqola](https://open.rocket.chat/channel/idea-E2E-messages-handling-for-Ruqola)
+
 💬 **Description:**  
 
 Add end to end encrypted message feature to the Ruqola client from KDE.  Ruqola is the de-facto standard Rocket.Chat client running on KDE.   This project will be co-mentored by an expert mentor from the KDE progject.
@@ -720,6 +722,8 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 👥 **Mentor(s):** John Crisp
 
+📢 **Communication Channel:** [idea-Private-Teams-and-Private-Channels-Adminitration-Improvements](https://open.rocket.chat/channel/idea-Private-Teams-and-Private-Channels-Adminitration-Improvements)
+
 💬 **Description:**  
 
 While it is possible to create private team and private channels in Rocket.Chat, the ability for the server's administrator to perform administrative tasks on them are currently very limited  (unless the server admin is part of the private channel or private team).  This was done by the original "team designer" to afford some local privacy for these these users.
@@ -732,7 +736,7 @@ This should include minimally the following abilities:
 * assign and change the roles of private channel users
 * add/remove/rename private team channels
 * add/remove/modify the members of private teams
-* assign and change the rolse of private team users  
+* assign and change the roles of private team users  
 * access private channels and private teams in the Directory
 
 
