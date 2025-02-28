@@ -650,7 +650,7 @@ Enables teams to capture immediate feedback and conduct internal polls seamlessl
 
 ### 💡Trip Helper App 
 
-👥 **Mentor(s):** TBD
+👥 **Mentor(s):** Aman Negi
 
 💬 **Description:**  
 
