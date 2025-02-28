@@ -660,7 +660,7 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 ### 💡Improve Private Team and Private Channel Administration 
 
-👥 **Mentor(s):** TBD
+👥 **Mentor(s):** John Crisp
 
 💬 **Description:**  
 
