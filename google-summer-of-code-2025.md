@@ -4,7 +4,7 @@
 
 ## How to apply
 
-Rocket.Chat is applying to become a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to usher in a new generation of open source contributors and enthusiasts.
+Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to usher in a new generation of open source contributors and enthusiasts.
 
 For timeline, see [Official Google Summer of Code 2025](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.
 
@@ -576,6 +576,38 @@ Empower the development of scalable open source AI applications running in-brows
 
 📈 **Difficulty:** Advanced  
 
+
+-----
+
+### 💡End to End Encrypted Message Handling for Ruqola
+
+👥 **Mentor(s):** Montel Laurant,  Aaron Ogle  
+
+💬 **Description:**  
+
+Add end to end encrypted message feature to the Ruqola client from KDE.  Ruqola is the de-facto standard Rocket.Chat client running on KDE.   This project will be co-mentored by an expert mentor from the KDE progject.
+
+Details:
+- some UI elements to handle E2E encrypted messages is already in place
+- careful consideration for key management is essential to a successful implementation
+    - how does the user get the key?  what happens when he/she loses the key?  
+    - what UI is needed to support re-generation of key?
+    - how does one display a channel with messages that may be encrypted by different keys? 
+
+💪 **Desired Skills:**  
+- Rocket.Chat API programming (REST and DDP) 
+- Solid experience with C++ programming
+- Experience with large and complex C++ projects
+- Working experience with KDE on Linux (such as kubuntu) 
+- Ideally already user of Ruqola
+
+🎯 **Goals/Deliverables:**  
+Add support for E2E Encrypted messages in Ruqola.
+
+⏳ **Project Duration:** 175 hours (Medium)  
+
+📈 **Difficulty:** Advanced  
+
 ---
 
 ### 💡 AI Google Forms / Typeform Survey Integration App
@@ -686,7 +718,7 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 ### 💡Improve Private Team and Private Channel Administration 
 
-👥 **Mentor(s):** TBD
+👥 **Mentor(s):** John Crisp
 
 💬 **Description:**  
 
@@ -701,12 +733,14 @@ This should include minimally the following abilities:
 * add/remove/rename private team channels
 * add/remove/modify the members of private teams
 * assign and change the rolse of private team users  
+* access private channels and private teams in the Directory
 
 
 💪 **Desired Skills:**  
 
 - In depth understanding of Rocket.Chat core
 - Advanced Typescript
+- Familiarity with Rocket.Chat UI/Ux 
 - Interest in administration and management of sub-communities on large chat servers (our Team concept)
 
 🎯 **Goals/Deliverables:**  
