@@ -554,6 +554,38 @@ Empower the development of scalable open source AI applications running in-brows
 
 📈 **Difficulty:** Advanced  
 
+
+-----
+
+### 💡End to End Encrypted Message Handling for Ruqola
+
+👥 **Mentor(s):** Montel Laurant,  Aaron Ogle  
+
+💬 **Description:**  
+
+Add end to end encrypted message feature to the Ruqola client from KDE.  Ruqola is the de-facto standard Rocket.Chat client running on KDE.   This project will be co-mentored by an expert mentor from the KDE progject.
+
+Details:
+- some UI elements to handle E2E encrypted messages is already in place
+- careful consideration for key management is essential to a successful implementation
+    - how does the user get the key?  what happens when he/she loses the key?  
+    - what UI is needed to support re-generation of key?
+    - how does one display a channel with messages that may be encrypted by different keys? 
+
+💪 **Desired Skills:**  
+- Rocket.Chat API programming (REST and DDP) 
+- Solid experience with C++ programming
+- Experience with large and complex C++ projects
+- Working experience with KDE on Linux (such as kubuntu) 
+- Ideally already user of Ruqola
+
+🎯 **Goals/Deliverables:**  
+Add support for E2E Encrypted messages in Ruqola.
+
+⏳ **Project Duration:** 175 hours (Medium)  
+
+📈 **Difficulty:** Advanced  
+
 ---
 
 ### 💡 AI Google Forms / Typeform Survey Integration App
