@@ -57,6 +57,8 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 
 👥 **Mentor(s):** Aditya Singh
 
+📢 **Communication Channel:** [idea-Server-Setup-Agent](https://open.rocket.chat/channel/idea-Server-Setup-Agent)
+
 💬 **Description:**  
 
 As an administrator setting up a production Rocket.Chat server, one is typically required to create user accounts, create and assign roles, create default channels, possibly starting threads, starting discussions and populating with initial messages. 
@@ -136,6 +138,8 @@ This high impact project upgrades the Rocket.Chat message composer component to 
 
 👥 **Mentor(s):** Gustavo Bauer
 
+📢 **Communication Channel:** [idea-Project-Management-via-Asana-Integration](https://open.rocket.chat/channel/idea-Project-Management-via-Asana-Integration)
+
 💬 **Description:**  
 Integrate [Asana](https://asana.com/) with Rocket.Chat to boost team collaboration. Instead of duplicating Asana’s complex task creation, focus on contextual notifications and quick access to task updates. Rocket.Chat project management users can stay informed collaborating within Rocket.Chat, while complex workflows that are better handled by Asana's rich UI remains in Asana.  The transition to and from Asana should be seamless. 
 
@@ -172,6 +176,8 @@ Integrate [Asana](https://asana.com/) with Rocket.Chat to boost team collaborati
 ### 🔑 Passkey-Based WebAuthn Authentication for Rocket.Chat  
 
 👥 **Mentor(s):**  Julio Araujo, [Dnouv](https://open.rocket.chat/direct/Dnouv)  
+
+📢 **Communication Channel:** [idea-Passkey-Based-WebAuthn-Authentication-for-Rocket-Chat](https://open.rocket.chat/channel/idea-Passkey-Based-WebAuthn-Authentication-for-Rocket-Chat)
 
 💬 **Description:**  
  
@@ -247,6 +253,8 @@ An AI Agent that will help to onboard new users.
 
 👥 **Mentor(s):** Felipe Scuciatto,  Samad Kahn 
 
+📢 **Communication Channel:** [idea-Code-Review-Agent-for-Open-Source-projects](https://open.rocket.chat/channel/idea-Code-Review-Agent-for-Open-Source-projects)
+
 💬 **Description:**
 
 Finding reviewers for contributors' PRs on open source projects can often be difficult.  Slow response can possibly result in the loss of a communtiy contributor.  
@@ -277,6 +285,8 @@ This will streamline the review process, reduce unnecessary delays, and ensure t
 
 👥 **Mentor(s):** Zishan Ahmad
 
+📢 **Communication Channel:** [idea-Embedded-Chat-2025](https://open.rocket.chat/channel/idea-Embedded-Chat-2025)
+
 💬 **Description:**
 
 Improvement to the EmbeddedChat project this year includes:
@@ -303,6 +313,8 @@ React.Js
 ### 💡 Receipts Processor and Reporting App powered by Multi-modal LLMs 
 
 👥 **Mentor(s):** Maria Khelli, Sing Li
+
+📢 **Communication Channel:** [idea-Receipts-Processor-and-Reporting-App-powered-by-Multi-modal-LLMs](https://open.rocket.chat/channel/idea-Receipts-Processor-and-Reporting-App-powered-by-Multi-modal-LLMs)
 
 💬 **Description:**  
 
@@ -335,7 +347,9 @@ A working Rocket.Chat app that will scan and sum all the restaurant receipts upl
 
 ### 💡 Perfect AI Docs Assistant App
 
-👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv),  Jeffery Yu  
+👥 **Mentor(s):** [Dnouv](https://open.rocket.chat/direct/Dnouv),  Jeffery Yu
+
+📢 **Communication Channel:** [idea-Perfect-AI-Docs-Assistant-App](https://open.rocket.chat/channel/idea-Perfect-AI-Docs-Assistant-App)
 
 💬 **Description:**  
 
@@ -376,6 +390,8 @@ _(we like to thank our early community for helping us to fine-tune this set of d
 
 👥 **Mentor(s):**  Anjaneya Gupta
 
+📢 **Communication Channel:** [idea-Google-Summer-of-Code-Community-Hub-2025](https://open.rocket.chat/channel/idea-Google-Summer-of-Code-Community-Hub-2025)
+
 💬 **Description:**  
 
 Continuing our work on a "full stack component framework" in which a scalable website can be created by non-technical users using drag-and-drop components that not only include UI and client-side logic, but also pre-scaled server-side behaviors (or serverless impl). 
@@ -411,6 +427,8 @@ A functional community hub website that we will use for 2026; showcasing the pla
 ### 💡AI Chat Workflows Automation App with multi-step reasoning
 
 👥 **Mentor(s):**  Hardik Bhatia
+
+📢 **Communication Channel:** [idea-AI-Chat-Workflows-Automation-App-with-multi-step-reasoning](https://open.rocket.chat/channel/idea-AI-Chat-Workflows-Automation-App-with-multi-step-reasoning)
 
 💬 **Description:**  
 
@@ -457,6 +475,8 @@ Platform for generating functional automated chat workflows using LLMs.
 
 👥 **Mentor(s):** [Martin Schoeler](https://open.rocket.chat/direct/martin.schoeler)
 
+📢 **Communication Channel:** [idea-Message-Timestamp-Date-Picker-Components](https://open.rocket.chat/channel/idea-Message-Timestamp-Date-Picker-Components)
+
 💬 **Description:**
 Currently Rocket.Chat has a feature that allows users to send timestamps on messages, but not in an intuitive way. To send a timestamp you need to manually write it down with the correct date code. For example `<t:1732557600:t>`.
 This feature was added for Rocket.Chat Apps engine, but users can benefit from this too. The objective of this project is to create a new `MessageToolBar` item that displays a calendar and let the users select the date and time they would like to share, both in the desktop app and mobile apps.
@@ -496,6 +516,8 @@ The creation of tests for the new component is also expected, both end to end an
 
 👥 **Mentor(s):** Ricardo Swarovsky
 
+📢 **Communication Channel:** [idea-Message-Scheduling](https://open.rocket.chat/channel/idea-Messages-scheduling)
+
 💬 **Description:**
 
 Add a native Rocket.Chat feature that lets users schedule messages to be sent later, directly integrated with the current send button. Since we serve users across multiple time zones, this feature will make it easier to schedule messages for the right time, no matter where they are.
@@ -517,6 +539,8 @@ Add a native Rocket.Chat feature that lets users schedule messages to be sent la
 ### 💡Client-side AI Support
 
 👥 **Mentor(s):** Sing Li, Ashutosh Singh Chauhan
+
+📢 **Communication Channel:** [idea-Client-side-AI-Support](https://open.rocket.chat/channel/idea-Client-side-AI-Support)
 
 💬 **Description:**  
 
@@ -561,6 +585,8 @@ Empower the development of scalable open source AI applications running in-brows
 
 👥 **Mentor(s):** Montel Laurant,  Aaron Ogle  
 
+📢 **Communication Channel:** [idea-E2E-messages-handling-for-Ruqola](https://open.rocket.chat/channel/idea-E2E-messages-handling-for-Ruqola)
+
 💬 **Description:**  
 
 Add end to end encrypted message feature to the Ruqola client from KDE.  Ruqola is the de-facto standard Rocket.Chat client running on KDE.   This project will be co-mentored by an expert mentor from the KDE progject.
@@ -591,6 +617,8 @@ Add support for E2E Encrypted messages in Ruqola.
 ### 💡 AI Google Forms / Typeform Survey Integration App
 
 👥 **Mentor(s):** Abhinav kumar
+
+📢 **Communication Channel:** [idea-AI-Google-Forms-Typeform-Survey-Integration-App](https://open.rocket.chat/channel/idea-AI-Google-Forms-Typeform-Survey-Integration-App)
 
 💬 **Description:**  
 This app integrates any one of the popular survey tools (Google Forms, Typeform etc.) into Rocket.Chat to allow teams to create, distribute, and analyze quick polls or feedback forms without leaving the chat. Users can launch surveys, receive immediate notifications when responses are submitted, and have summary reports automatically posted to designated channels.
@@ -625,6 +653,8 @@ Enables teams to capture immediate feedback and conduct internal polls seamlessl
 ### 💡Trip Helper App 
 
 👥 **Mentor(s):** Aman Negi
+
+📢 **Communication Channel:** [idea-Trip-Helper-App](https://open.rocket.chat/channel/idea-Trip-Helper-App)
 
 💬 **Description:**  
 
@@ -661,6 +691,8 @@ Details:
 
 👥 **Mentor(s):** Dhurv Jain, Abhinav Kumar
 
+📢 **Communication Channel:** [idea-AI-Transcription-and-Translation-for-Voice-Messages-App](https://open.rocket.chat/channel/idea-AI-Transcription-and-Translation-for-Voice-Messages-App)
+
 💬 **Description:**  
 Rocket.Chat already supports sending voice messages. This project enhances that feature by providing on-demand or real-time transcription and translation of voice messages. Users can choose to transcribe voice messages to text and optionally translate into their preferred language, thereby boosting accessibility and making communication more inclusive.
 
@@ -694,6 +726,8 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 👥 **Mentor(s):** John Crisp
 
+📢 **Communication Channel:** [idea-Private-Teams-and-Private-Channels-Adminitration-Improvements](https://open.rocket.chat/channel/idea-Private-Teams-and-Private-Channels-Adminitration-Improvements)
+
 💬 **Description:**  
 
 While it is possible to create private team and private channels in Rocket.Chat, the ability for the server's administrator to perform administrative tasks on them are currently very limited  (unless the server admin is part of the private channel or private team).  This was done by the original "team designer" to afford some local privacy for these these users.
@@ -706,7 +740,7 @@ This should include minimally the following abilities:
 * assign and change the roles of private channel users
 * add/remove/rename private team channels
 * add/remove/modify the members of private teams
-* assign and change the rolse of private team users  
+* assign and change the roles of private team users  
 * access private channels and private teams in the Directory
 
 
