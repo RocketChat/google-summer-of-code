@@ -296,7 +296,6 @@ Improvement to the EmbeddedChat project this year includes:
 - Making the EmbeddedChat fully mobile-responsive for a seamless experience across all devices.
 - Improving the UI and adding more customization options to enhance the user experience.
 - Aligning the design and features of the EmbeddedChat Web Client with the React Native Client, which is already built but needs updates for complete consistency.  
-- Any other creative ideas are welcome 
 - Welcoming any other creative ideas that improve the project.
 
 💪 **Desired Skills:**
