@@ -652,6 +652,8 @@ Enables teams to capture immediate feedback and conduct internal polls seamlessl
 
 👥 **Mentor(s):** Aman Negi
 
+📢 **Communication Channel:** [idea-Trip-Helper-App](https://open.rocket.chat/channel/idea-Trip-Helper-App)
+
 💬 **Description:**  
 
 This LLM-powered app will suggest interesting events and happenings for users during their trip.   
