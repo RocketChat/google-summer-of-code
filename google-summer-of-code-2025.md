@@ -338,9 +338,9 @@ Key Features:
 - Intelligent summarization and prediction module.  
 - Fail-proof mechanism to avoid incorrect or misleading AI responses.  
 
-⏳ **Project Duration:** 90 hours (Intermediate)  
+⏳ **Project Duration:** 90 hours (Small)  
 
-📈 **Difficulty:** Intermediate  
+📈 **Difficulty:** Easy/Intermediate  
 
 -----
 
