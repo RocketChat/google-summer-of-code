@@ -390,6 +390,8 @@ _(we like to thank our early community for helping us to fine-tune this set of d
 
 👥 **Mentor(s):**  Anjaneya Gupta
 
+📢 **Communication Channel:** [idea-Google-Summer-of-Code-Community-Hub-2025](https://open.rocket.chat/channel/idea-Google-Summer-of-Code-Community-Hub-2025)
+
 💬 **Description:**  
 
 Continuing our work on a "full stack component framework" in which a scalable website can be created by non-technical users using drag-and-drop components that not only include UI and client-side logic, but also pre-scaled server-side behaviors (or serverless impl). 
