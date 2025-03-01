@@ -597,6 +597,7 @@ Details:
     - how does the user get the key?  what happens when he/she loses the key?  
     - what UI is needed to support re-generation of key?
     - how does one display a channel with messages that may be encrypted by different keys? 
+- see [End to End Encryption Specification](https://docs.rocket.chat/docs/end-to-end-encryption-specifications)
 
 💪 **Desired Skills:**  
 - Rocket.Chat API programming (REST and DDP) 
