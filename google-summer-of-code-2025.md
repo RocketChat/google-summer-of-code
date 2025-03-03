@@ -80,6 +80,7 @@ Considerations:
 💪 **Desired Skills:**  
 
 - Rocket.Chat Apps Development (Typescript)
+- Github/Gitlab webhooks development
 - Advanced prompt engineering
 - Passion for creating LLM driven assistive applications
 
