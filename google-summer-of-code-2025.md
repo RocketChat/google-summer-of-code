@@ -50,8 +50,48 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 
 ## 📂 Project Ideas
 
-> This is an early draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes during the application period - as mentors and potential contributors discuss and evolve the project descriptions.
+> This is a fast moving draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes as mentors and potential contributors discuss and evolve the project descriptions.
 > 
+
+### 💡 Frequently Asked Questions (FAQ) Detection Assistant
+
+👥 **Mentor(s):** Aman Negi
+
+💬 **Description:**  
+
+New contributors to open source often ask very similar questions.  Answering similar questions repeatedly can be a tiring and tedious task for maintainers (or mentors).  
+
+This LLM powered assistant will solve the problem by:
+
+1. monitoring Github webhooks or a set of specified Rocket.Chat channels for questions
+1. determine if the incoming question is similar to one in a set of configured FAQ
+1. if a match is found, do one of the following configurable action:
+      1.  notify one or more configured users of the incoming question
+      1.  notify one or more configured users of the incoming question via DM, providing a summarized answer as a suggestion 
+      1.  notify one or more configured downstream LLM driven agents
+      1.  same as b., but provide the capability for the notified users to "approve" the automated reply of the summarized answer; some final editing before reply should be possible
+      1.  answer the incoming question with a summarized answer; then notify one of the configured users in DM
+
+Considerations:
+- the assistant must be designed to be 100% fail safe; it should never answer unrelated question or answer with hallucinations (nor answer with harmful content)
+- the assistant should be designed to be functional in all FAQ/templated answers/Quick-reply situations, increasing its utility
+- this project will involve very clever prompting and optimized prompt chaining (instead of tedious volumous Typescript code) 
+
+💪 **Desired Skills:**  
+
+- Rocket.Chat Apps Development (Typescript)
+- Advanced prompt engineering
+- Passion for creating LLM driven assistive applications
+
+🎯 **Goals/Deliverables:**  
+
+A useful assistant in many automated public group chat/forum context with configurable abilities to help in handling frequently asked questions.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Easy/Intermediate
+
+----
 
 ### 💡Server Setup Agent
 
@@ -694,7 +734,7 @@ Enables teams to capture immediate feedback and conduct internal polls seamlessl
 
 ### 💡Trip Helper App 
 
-👥 **Mentor(s):** Aman Negi
+👥 **Mentor(s):** TBD
 
 📢 **Communication Channel:** [idea-Trip-Helper-App](https://open.rocket.chat/channel/idea-Trip-Helper-App)
 
