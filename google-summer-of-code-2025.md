@@ -69,7 +69,7 @@ This LLM powered assistant will solve the problem by:
       1.  notify one or more configured users of the incoming question
       1.  notify one or more configured users of the incoming question via DM, providing a summarized answer as a suggestion 
       1.  notify one or more configured downstream LLM driven agents
-      1.  same as b., but provide the capability for the notified users to "approve" the automated reply of the summarized answer; some final editing before reply should be possible
+      1.  same as ii., but provide the capability for the notified users to "approve" the automated reply of the summarized answer; some final editing before reply should be possible
       1.  answer the incoming question with a summarized answer; then notify one of the configured users in DM
 
 Considerations:
