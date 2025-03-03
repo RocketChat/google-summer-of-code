@@ -290,23 +290,30 @@ This will streamline the review process, reduce unnecessary delays, and ensure t
 💬 **Description:**
 
 Improvement to the EmbeddedChat project this year includes:
-- Upgrading the current API and auth packages to use the latest Rocket.Chat SDK packages like `ddp-client`, and aligning other components to use other abstraction provided by Rocket.Chat, ensuring these packages will be managed internally moving forward.
+- Upgrading the current API and authentication packages to the latest Rocket.Chat SDKs, such as [`ddp-client`](https://www.npmjs.com/package/@rocket.chat/ddp-client). Other components will be aligned with updated abstractions and SDKs. For reference, see [this link](https://github.com/RocketChat/Rocket.Chat/blob/4c6e6d6cac40a20683d47290f6c5b29e09b242fb/apps/meteor/client/providers/ServerProvider.tsx#L39). These packages will be managed internally by Rocket.Chat moving forward.  
+- Ensuring compatibility with the latest Rocket.Chat API versions to keep the integration updated and error-free.  
+- Upgrading to the latest stable versions of React, Node.js, and other libraries for long-term maintainability.  
 - Making the EmbeddedChat fully mobile-responsive for a seamless experience across all devices.
 - Improving the UI and adding more customization options to enhance the user experience.
+- Aligning the design and features of the EmbeddedChat Web Client with the React Native Client, which is already built but needs updates for complete consistency.  
+- Welcoming any other creative ideas that improve the project.
 
 💪 **Desired Skills:**
-
-React.Js
+- Strong understanding of Rocket.Chat APIs and SDKs
+- Love for coding and UI design 
+- React.Js
 
 🎯 **Goals/Deliverables:**
 
 - Integration of the latest Rocket.Chat SDK packages
 - Fully mobile-responsive EmbeddedChat
 - Improved UI with more customization options
+- Native app development  
+- Increased stability and maintainability
 
 ⏳ **Project Duration:** 90 hours (Small)
 
-📈 **Difficulty:** Easy/Intermediate
+📈 **Difficulty:** Intermediate
 
 -----
 
