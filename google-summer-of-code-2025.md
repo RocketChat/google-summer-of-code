@@ -317,6 +317,40 @@ Improvement to the EmbeddedChat project this year includes:
 
 -----
 
+### 💡 Smart Market Bot for Rocket.Chat
+
+👥 **Mentor(s):** Zishan Ahmad, TBD
+
+💬 **Description:**  
+
+An interactive Rocket.Chat app that fetches real-time prices for cryptocurrencies, stocks, and forex using **open-source APIs**. It provides insights, summaries, and predictions while ensuring **fail-proof accuracy**—if the bot is unsure, it withholds speculative responses.  
+
+Key Features:  
+- Live Price Updates – Fetch real-time data for crypto, stocks, and forex using free and open APIs.
+- Market Alerts – Get notifications on significant price movements, trends, or unusual activities.  
+- Smart Insights & Summaries – Summarize asset trends, news, and market behavior.  
+- Predictive Analysis – Provide data-backed forecasts and trends (without unreliable speculations).  
+- Fail-Safe AI Responses – Ensures that if the LLM is uncertain, it explicitly avoids misinformation.  
+- Custom Asset Watchlists – Users can create personalized lists to track selected assets.  
+- Interactive Commands – Users can request price comparisons, asset history, and more via Rocket.Chat commands.  
+
+💪 **Desired Skills:**  
+- JavaScript / TypeScript  
+- Rocket.Chat App Development  
+- API Integration (REST/WebSockets)  
+
+🎯 **Goals/Deliverables:**  
+- Functional Rocket.Chat app with real-time asset tracking.  
+- Market alert system for price fluctuations and significant events.  
+- Intelligent summarization and prediction module.  
+- Fail-proof mechanism to avoid incorrect or misleading AI responses.  
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Easy/Intermediate  
+
+-----
+
 ### 💡 Receipts Processor and Reporting App powered by Multi-modal LLMs 
 
 👥 **Mentor(s):** Maria Khelli, Sing Li
