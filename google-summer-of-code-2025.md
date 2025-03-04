@@ -6,6 +6,8 @@
 
 Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to user in a new generation of open source contributors and enthusiasts.
 
+Join out our  [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) and introduce yourself to the community of 500+ right now!   See [all the exciting projects](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2025.md#-project-ideas) we are working on this year.
+
 For timeline, see [Official Google Summer of Code 2025](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.
 
 Almost anyone in the world [over 18 years of age](https://opensource.googleblog.com/2021/11/expanding-google-summer-of-code-in-2022.html) who loves coding and wants to explore the incredible world of open source can join us as a GSoC 2025 contributor.
@@ -18,7 +20,7 @@ For details and rules of Google Summer of Code 2025, please see the [GSoC 2025 O
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2025 : [https://open.rocket.chat/channel/gsoc2025](https://open.rocket.chat/channel/gsoc2025)
 
-Join our [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) today, introduce yourself to the friendly community, and interact with over **210 like-minded** contributors/mentors (as of Feb 10th, 2025)  and meet the team in the [30+ team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
+Join our [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) today, introduce yourself to the friendly community, and interact with over **495 like-minded** contributors/mentors (as of March 3rd, 2025)  and meet the team in the [40+ team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
 
 If you have ideas and proposals that are not on our idea list, or if a mentor is not available, you can also email to:
 
@@ -40,18 +42,61 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
-As of **Feb 24th 2025**, we are evolving project ideas with our engaged community members as well as returning community mentors, and guest mentors from other friendly open source projects.  We are super grateful to have **12 contributors from the 2024 season** returning to help us **as 2025 mentors**; and to bring on some exciting new project ideas.   Currently we have over 380 contributors and mentors active in our [30 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). And over [100 active contributors](https://gsoc.rocket.chat/) have contributed 14 Merged PRs, 88 Open PRs, and 206 issues to our open source projects.
+As of **March 3rd 2025**, we are developing project ideas with our engaged community members. Currently we have **over 495 contributors** and mentors active in our [40 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025  Contributors Leaderboard](https://gsoc.rocket.chat/) where **over 131 active contributors** have contributed 25 Merged PRs, 104 Open PRs, and 233 issues to our open source projects.
 
-As of **Feb 9th 2025**, we are intensely discussing project ideas with our returning community mentors, and guest mentors from other friendly open source projects.  This year, we are thankful to already have **9 contributors from the 2024 season** returning to help us **as 2025 mentors** to bring on some exciting projects.   Currently we have over 210 contributors and mentors active in our [30 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
+As of **Feb 24th 2025**, we are evolving project ideas with our engaged community members as well as returning community mentors, and guest mentors from other friendly open source projects.  We are super grateful to have **12 contributors from the 2024 season** returning to help us **as 2025 mentors**; and to bring on some exciting new project ideas.   Currently we have **over 380 contributors and mentors** active in our [30 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025  Contributors Leaderboard](https://gsoc.rocket.chat/) where over **100 active contributors** have contributed 14 Merged PRs, 88 Open PRs, and 206 issues to our open source projects.
+
+As of **Feb 9th 2025**, we are intensely discussing project ideas with our returning community mentors, and guest mentors from other friendly open source projects.  This year, we are thankful to already have **9 contributors from the 2024 season** returning to help us **as 2025 mentors** to bring on some exciting projects.   Currently we have **over 210 contributors** and mentors active in our [30 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
 
 
-As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2025 community: we already have over 100 contributors and mentors ready to join us for this season, active in our [team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
+As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](https://gsoc.rocket.chat/), to see the amazing contributions by our GSoC 2025 community: we already have **over 100 contributors** and mentors ready to join us for this season, active in our [team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
 
 
 ## 📂 Project Ideas
 
-> This is an early draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes during the application period - as mentors and potential contributors discuss and evolve the project descriptions.
+> This is a fast moving draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes as mentors and potential contributors discuss and evolve the project descriptions.
 > 
+
+### 💡 Frequently Asked Questions (FAQ) Detection Assistant
+
+👥 **Mentor(s):** Aman Negi
+
+💬 **Description:**  
+
+New contributors to open source often ask very similar questions.  Answering similar questions repeatedly can be a tiring and tedious task for maintainers (or mentors).  
+
+This LLM powered assistant will solve the problem by:
+
+1. monitoring Github webhooks or a set of specified Rocket.Chat channels for questions
+1. determine if the incoming question is similar to one in a set of configured FAQ
+1. if a match is found, do one of the following configurable action:
+      1.  notify one or more configured users of the incoming question
+      1.  notify one or more configured users of the incoming question via DM, providing a summarized answer as a suggestion 
+      1.  notify one or more configured downstream LLM driven agents
+      1.  same as ii., but provide the capability for the notified users to "approve" the automated reply of the summarized answer; some final editing before reply should be possible
+      1.  answer the incoming question with a summarized answer; then notify one of the configured users in DM
+
+Considerations:
+- the assistant must be designed to be 100% fail safe; it should never answer unrelated question or answer with hallucinations (nor answer with harmful content)
+- the assistant should be designed to be functional in all FAQ/templated answers/Quick-reply situations, increasing its utility
+- this project will involve very clever prompting and optimized prompt chaining (instead of tedious volumous Typescript code) 
+
+💪 **Desired Skills:**  
+
+- Rocket.Chat Apps Development (Typescript)
+- Github/Gitlab webhooks development
+- Advanced prompt engineering
+- Passion for creating LLM driven assistive applications
+
+🎯 **Goals/Deliverables:**  
+
+A useful assistant in many automated public group chat/forum context with configurable abilities to help in handling frequently asked questions.
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Easy/Intermediate
+
+----
 
 ### 💡Server Setup Agent
 
@@ -294,23 +339,64 @@ This will streamline the review process, reduce unnecessary delays, and ensure t
 💬 **Description:**
 
 Improvement to the EmbeddedChat project this year includes:
-- Upgrading the current API and auth packages to use the latest Rocket.Chat SDK packages like `ddp-client`, and aligning other components to use other abstraction provided by Rocket.Chat, ensuring these packages will be managed internally moving forward.
+- Upgrading the current API and authentication packages to the latest Rocket.Chat SDKs, such as [`ddp-client`](https://www.npmjs.com/package/@rocket.chat/ddp-client). Other components will be aligned with updated abstractions and SDKs. For reference, see [this link](https://github.com/RocketChat/Rocket.Chat/blob/4c6e6d6cac40a20683d47290f6c5b29e09b242fb/apps/meteor/client/providers/ServerProvider.tsx#L39). These packages will be managed internally by Rocket.Chat moving forward.  
+- Ensuring compatibility with the latest Rocket.Chat API versions to keep the integration updated and error-free.  
+- Upgrading to the latest stable versions of React, Node.js, and other libraries for long-term maintainability.  
 - Making the EmbeddedChat fully mobile-responsive for a seamless experience across all devices.
 - Improving the UI and adding more customization options to enhance the user experience.
+- Aligning the design and features of the EmbeddedChat Web Client with the React Native Client, which is already built but needs updates for complete consistency.  
+- Welcoming any other creative ideas that improve the project.
 
 💪 **Desired Skills:**
-
-React.Js
+- Strong understanding of Rocket.Chat APIs and SDKs
+- Love for coding and UI design 
+- React.Js
 
 🎯 **Goals/Deliverables:**
 
 - Integration of the latest Rocket.Chat SDK packages
 - Fully mobile-responsive EmbeddedChat
 - Improved UI with more customization options
+- Native app development  
+- Increased stability and maintainability
 
 ⏳ **Project Duration:** 90 hours (Small)
 
-📈 **Difficulty:** Easy/Intermediate
+📈 **Difficulty:** Intermediate
+
+-----
+
+### 💡 Smart Market Bot for Rocket.Chat
+
+👥 **Mentor(s):** Zishan Ahmad, TBD
+
+💬 **Description:**  
+
+An interactive Rocket.Chat app that fetches real-time prices for cryptocurrencies, stocks, and forex using **open-source APIs**. It provides insights, summaries, and predictions while ensuring **fail-proof accuracy**—if the bot is unsure, it withholds speculative responses.  
+
+Key Features:  
+- Live Price Updates – Fetch real-time data for crypto, stocks, and forex using free and open APIs.
+- Market Alerts – Get notifications on significant price movements, trends, or unusual activities.  
+- Smart Insights & Summaries – Summarize asset trends, news, and market behavior.  
+- Predictive Analysis – Provide data-backed forecasts and trends (without unreliable speculations).  
+- Fail-Safe AI Responses – Ensures that if the LLM is uncertain, it explicitly avoids misinformation.  
+- Custom Asset Watchlists – Users can create personalized lists to track selected assets.  
+- Interactive Commands – Users can request price comparisons, asset history, and more via Rocket.Chat commands.  
+
+💪 **Desired Skills:**  
+- JavaScript / TypeScript  
+- Rocket.Chat App Development  
+- API Integration (REST/WebSockets)  
+
+🎯 **Goals/Deliverables:**  
+- Functional Rocket.Chat app with real-time asset tracking.  
+- Market alert system for price fluctuations and significant events.  
+- Intelligent summarization and prediction module.  
+- Fail-proof mechanism to avoid incorrect or misleading AI responses.  
+
+⏳ **Project Duration:** 90 hours (Small)  
+
+📈 **Difficulty:** Easy/Intermediate  
 
 -----
 
@@ -657,7 +743,7 @@ Enables teams to capture immediate feedback and conduct internal polls seamlessl
 
 ### 💡Trip Helper App 
 
-👥 **Mentor(s):** Aman Negi
+👥 **Mentor(s):** TBD
 
 📢 **Communication Channel:** [idea-Trip-Helper-App](https://open.rocket.chat/channel/idea-Trip-Helper-App)
 
