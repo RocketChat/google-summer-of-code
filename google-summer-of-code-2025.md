@@ -4,7 +4,7 @@
 
 ## How to apply
 
-Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to usher in a new generation of open source contributors and enthusiasts.
+Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to user in a new generation of open source contributors and enthusiasts.
 
 Join out our  [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) and introduce yourself to the community of 500+ right now!   See [all the exciting projects](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2025.md#-project-ideas) we are working on this year.
 
@@ -60,6 +60,8 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 ### 💡 Frequently Asked Questions (FAQ) Detection Assistant
 
 👥 **Mentor(s):** Aman Negi
+
+📢 **Communication Channel:** [idea-Frequently-Asked-Questions-Detection-Assistant](https://open.rocket.chat/channel/idea-Frequently-Asked-Questions-Detection-Assistant)
 
 💬 **Description:**  
 
@@ -138,6 +140,8 @@ A Rocket.Chat App "agent" that can help setup servers (or for QA or demo or trai
 ### 💡 AI Enhanced Message Composer Component
 
 👥 **Mentor(s):**  Gabriel Engel, Ashutosh Singh Chauhan
+
+📢 **Communication Channel:** [idea-AI-Enhanced-Message-Composer-Component](https://open.rocket.chat/channel/idea-AI-Enhanced-Message-Composer-Component)
 
 💬 **Description:**  
 
@@ -253,6 +257,8 @@ The WebAuthn standard, now widely available on modern Android and iOS devices, e
 ### Server Guide Agent 
 
 👥 **Mentor(s):** Gabriel Casals, Jeffery Yu
+
+📢 **Communication Channel:** [idea-Server-Guide-AI-Agent](https://open.rocket.chat/channel/idea-Server-Guide-AI-Agent)
 
 💬 **Description:**
 
