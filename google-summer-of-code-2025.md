@@ -61,6 +61,8 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 
 👥 **Mentor(s):** Aman Negi
 
+📢 **Communication Channel:** [idea-Frequently-Asked-Questions-Detection-Assistant](https://open.rocket.chat/channel/idea-Frequently-Asked-Questions-Detection-Assistant)
+
 💬 **Description:**  
 
 New contributors to open source often ask very similar questions.  Answering similar questions repeatedly can be a tiring and tedious task for maintainers (or mentors).  
