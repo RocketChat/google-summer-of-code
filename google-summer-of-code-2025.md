@@ -118,6 +118,8 @@ The language needs to incorporate basic variables, and be able to handle simple 
 
 The agent should be tested to handle very large scripts that may involve the creation of thousands of objects and messages.  
 
+DSL will be checked for LLM-generation suitability; although AI generation of the script is outside the scope of this project.
+
 
 💪 **Desired Skills:**  
 
