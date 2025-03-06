@@ -226,7 +226,7 @@ Integrate [Asana](https://asana.com/) with Rocket.Chat to boost team collaborati
 
 💬 **Description:**  
  
-The WebAuthn standard, now widely available on modern Android and iOS devices, enable convenient passwordless authentication satisfying 2FA (biometrics and "have device").  This project aims to integrate WebAuthn in Rocket.Chat authentication to offer a passwordless, secure login experience. The implementation needs to be aligned with Rocket.Chat’s existing authentication system while ensuring backward compatibility with all existing login methods.  
+The WebAuthn standard, now widely available on modern Android and iOS devices, enable convenient passwordless authentication satisfying 2FA (biometrics and "have device").  Frequently this involves scanning a QR code followed by unintrusive biometrics such as FaceID on iOS.  This project aims to integrate WebAuthn in Rocket.Chat authentication to offer a passwordless, secure login experience. The implementation needs to be aligned with Rocket.Chat’s existing authentication system while ensuring backward compatibility with all existing login methods.  
 
 💪 **Desired Skills:**  
 
@@ -240,12 +240,12 @@ The WebAuthn standard, now widely available on modern Android and iOS devices, e
 🎯 **Goals/Deliverables:**  
 
 - Implement passkey-based authentication using WebAuthn  
+- Support QR Codes and Bluetooth [hybrid transport](https://www.w3.org/TR/webauthn-3/#dom-authenticatortransport-hybrid) 
 - Modify authentication modules to support passkey registration and login  
 - Update the frontend for seamless passkey interactions  
 - Ensure secure storage of public keys in the user database  
 - Conduct extensive testing across different devices and browsers  
-- Provide detailed documentation and community engagement
-- Support [hybrid transport](https://www.w3.org/TR/webauthn-3/#dom-authenticatortransport-hybrid) with the help of QR codes and Bluetooth 
+- Provide detailed documentation and promote community awareness
 
 ⏳ **Project Duration:** 175 hours (Medium)  
 
