@@ -244,7 +244,8 @@ The WebAuthn standard, now widely available on modern Android and iOS devices, e
 - Update the frontend for seamless passkey interactions  
 - Ensure secure storage of public keys in the user database  
 - Conduct extensive testing across different devices and browsers  
-- Provide detailed documentation and community engagement  
+- Provide detailed documentation and community engagement
+- Support [hybrid transport](https://www.w3.org/TR/webauthn-3/#dom-authenticatortransport-hybrid) with the help of QR codes and Bluetooth 
 
 ⏳ **Project Duration:** 175 hours (Medium)  
 
