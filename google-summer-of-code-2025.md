@@ -80,7 +80,7 @@ All emojis rendered in-line while a message is being composed.
 
 ⏳ **Project Duration:** 90 hours (Small)  
 
-📈 **Difficulty:** Easy  
+📈 **Difficulty:** Intermediate/Advanced  
 
 ---
 
