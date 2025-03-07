@@ -145,7 +145,7 @@ A Rocket.Chat App "agent" that can help setup servers (or for QA or demo or trai
 
 Messaging systems such as Rocket.Chat were supposed to be replacing legacy email for communications and collaboration since the early nineteen nineties.   But even after three decades of evolution and struggle, half the world still hangs onto legacy email worldwide despite most have grown up with SMS and asynchronous messaging.
 
-This projects bridges the great divide most naturally with a Rocket.Chat App that responds to natural language instructions and brings the legacy email world right into every Rocket.Chat conversation for every user. 
+This project bridges the great divide most naturally with a Rocket.Chat App that responds to natural language instructions and brings the legacy email world right into every Rocket.Chat conversation for every user. 
 
 The app will respond to command such as:
 
