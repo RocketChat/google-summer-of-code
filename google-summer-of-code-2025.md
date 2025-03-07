@@ -143,6 +143,8 @@ A Rocket.Chat App "agent" that can help setup servers (or for QA or demo or trai
 
 👥 **Mentor(s):**  Vipin Chaudhary
 
+📢 **Communication Channel:** [idea-Natural-Language-Bridge-to-Legacy-Email](https://open.rocket.chat/channel/idea-Natural-Language-Bridge-to-Legacy-Email)
+
 💬 **Description:**  
 
 Messaging systems such as Rocket.Chat were supposed to be replacing legacy email for communications and collaboration since the early nineteen nineties.   But even after three decades of evolution and struggle, half the world still hangs onto legacy email worldwide despite most have grown up with SMS and asynchronous messaging.
@@ -426,6 +428,8 @@ Improvement to the EmbeddedChat project this year includes:
 ### 💡 Smart Market Bot for Rocket.Chat
 
 👥 **Mentor(s):** Zishan Ahmad, TBD
+
+📢 **Communication Channel:** [idea-Smart-Market-Bot-for-Rocket-Chat](https://open.rocket.chat/channel/idea-Smart-Market-Bot-for-Rocket-Chat)
 
 💬 **Description:**  
 
