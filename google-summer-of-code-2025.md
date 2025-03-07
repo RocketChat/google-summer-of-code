@@ -57,28 +57,31 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 > This is a fast moving draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes as mentors and potential contributors discuss and evolve the project descriptions.
 > 
 
-### 💡Composer support for in-line emoji rendering
+### 💡Real Time Message Rendering in Message Composer
 
 👥 **Mentor(s):** [Martin Schoeler](https://open.rocket.chat/direct/martin.schoeler)
 
 💬 **Description:**  
 
-Emojis are rendered in its text form - `:grin:` instead of 😬 - while  composing a message using Rocket.Chat.
+Any rich text content is rendered in its text form - for example emojis will be rendered as `:grin:` instead of 😬, **Bold** markdown highlight will be rendered as ` **Bold**` while composing a message using Rocket.Chat.
 
-This project should upgrade the composer to support in-line in-message rendering of emjois while editing.    The implementation should be able to handle any custom emojis that might be installed on the server. 
+This project should upgrade the composer to support real-time in-message rendering of rich content while editing.
+
+Most of the complexity of this project comes from properly converting the existing Message Composer to display rich content, while integrating with **ALL** existing functionality of the Composer component
 
 💪 **Desired Skills:**  
 
 - Understanding of the composer component
+- Understanding of Rocket.Chat's message rendering pipeline
 - Advanced Typescript
-- Interest in UI/Ux design and implementation
+- Good understandng of DOM elements and it's intricacies 
 - Desire to work on high impact projects (benefiting every single RC user)
 
 🎯 **Goals/Deliverables:**  
 
-All emojis rendered in-line while a message is being composed.
+Having a working MVP of real time message rendering in the message composer
 
-⏳ **Project Duration:** 90 hours (Small)  
+⏳ **Project Duration:** 175 hours (Medium)  
 
 📈 **Difficulty:** Intermediate/Advanced  
 
