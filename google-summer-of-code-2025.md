@@ -4,7 +4,7 @@
 
 ## How to apply
 
-Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to user in a new generation of open source contributors and enthusiasts.
+Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to usher in a new generation of open source contributors and enthusiasts.
 
 Join out our  [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) and introduce yourself to the community of 500+ right now!   See [all the exciting projects](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2025.md#-project-ideas) we are working on this year.
 
