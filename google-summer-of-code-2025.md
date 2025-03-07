@@ -139,6 +139,58 @@ A Rocket.Chat App "agent" that can help setup servers (or for QA or demo or trai
 
 ---
 
+### 💡Natural Language Bridge to Legacy Email (powered by Generative AI)
+
+👥 **Mentor(s):**  Vipin Chaudhary
+
+💬 **Description:**  
+
+Messaging systems such as Rocket.Chat were supposed to be replacing legacy email for communications and collaboration since the early nineteen nineties.   But even after three decades of evolution and struggle, half the world still hangs onto legacy email worldwide despite most have grown up with SMS and asynchronous messaging.
+
+This project bridges the great divide most naturally with a Rocket.Chat App that responds to natural language instructions and brings the legacy email world right into every Rocket.Chat conversation for every user. 
+
+The app will respond to command such as:
+
+```
+/xuebot summarize this thread and send it as email to my boss who refuses to use chat
+```
+
+OR:
+
+```
+/xuebot post in the channel for everyone the budget for 2025 email pdf received between 11/1/2024 and 12/24/2024
+```
+
+Details:
+
+You will be using the function calling/tools capabilities of modern LLMs, plus some extremely clever prompting, as well as some hardcore Typescript coding to realize this app.
+
+The agent must be able to perform the following **reliably** as a minimum:
+
+* summarize thread/channel/discussion and send as email to specified recipient(s)
+* search emails by date range and keywords and present in-channel as message and/or extract attachment and upload to channel
+* report on daily email statistics
+* secured per-user email connection over TLS 
+
+💪 **Desired Skills:**  
+
+* Rocket.Chat Apps (Typescript) Development
+* Advanced prompt engineering skills
+* Familiarity with Gmail and other mail provider APIs
+* Familiarity with LLM function calling / tools capabilities
+  
+Note: This project is inspired by the prior work of our 2025 contributor _ZilongXue_  ->   [claude-post](https://github.com/ZilongXue/claude-post)
+
+🎯 **Goals/Deliverables:**  
+
+A natural language bridge to legacy email system that every single Rocket.Chat user can use.
+
+⏳ **Project Duration:** 90 hours (short)  
+
+📈 **Difficulty:** Easy/Intermediate 
+
+-----
+
 ### 💡 AI Enhanced Message Composer Component
 
 👥 **Mentor(s):**  Gabriel Engel, Ashutosh Singh Chauhan
