@@ -91,6 +91,8 @@ Having a working MVP of real time message rendering in the message composer
 
 👥 **Mentor(s):** Aman Negi
 
+📢 **Communication Channel:** [idea-Frequently-Asked-Questions-Detection-Assistant](https://open.rocket.chat/channel/idea-Frequently-Asked-Questions-Detection-Assistant)
+
 💬 **Description:**  
 
 New contributors to open source often ask very similar questions.  Answering similar questions repeatedly can be a tiring and tedious task for maintainers (or mentors).  
@@ -171,6 +173,8 @@ A Rocket.Chat App "agent" that can help setup servers (or for QA or demo or trai
 
 👥 **Mentor(s):**  Vipin Chaudhary
 
+📢 **Communication Channel:** [idea-Natural-Language-Bridge-to-Legacy-Email](https://open.rocket.chat/channel/idea-Natural-Language-Bridge-to-Legacy-Email)
+
 💬 **Description:**  
 
 Messaging systems such as Rocket.Chat were supposed to be replacing legacy email for communications and collaboration since the early nineteen nineties.   But even after three decades of evolution and struggle, half the world still hangs onto legacy email worldwide despite most have grown up with SMS and asynchronous messaging.
@@ -222,6 +226,8 @@ A natural language bridge to legacy email system that every single Rocket.Chat u
 ### 💡 AI Enhanced Message Composer Component
 
 👥 **Mentor(s):**  Gabriel Engel, Ashutosh Singh Chauhan
+
+📢 **Communication Channel:** [idea-AI-Enhanced-Message-Composer-Component](https://open.rocket.chat/channel/idea-AI-Enhanced-Message-Composer-Component)
 
 💬 **Description:**  
 
@@ -339,6 +345,8 @@ The WebAuthn standard, now widely available on modern Android and iOS devices, e
 
 👥 **Mentor(s):** Gabriel Casals, Jeffery Yu
 
+📢 **Communication Channel:** [idea-Server-Guide-AI-Agent](https://open.rocket.chat/channel/idea-Server-Guide-AI-Agent)
+
 💬 **Description:**
 
 As a new user joins a Rocket.Chat server there is not much guidance on what to do or where to go.   
@@ -450,6 +458,8 @@ Improvement to the EmbeddedChat project this year includes:
 ### 💡 Smart Market Bot for Rocket.Chat
 
 👥 **Mentor(s):** Zishan Ahmad, TBD
+
+📢 **Communication Channel:** [idea-Smart-Market-Bot-for-Rocket-Chat](https://open.rocket.chat/channel/idea-Smart-Market-Bot-for-Rocket-Chat)
 
 💬 **Description:**  
 
