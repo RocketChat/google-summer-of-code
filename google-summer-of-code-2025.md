@@ -42,6 +42,8 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
+As of **March 10th 2025**, mentors are starting to help contributors to work on and refine the project ideas.  We are running a weekly "How to write an AI Rocket.Chat App in One Hour" workshop to help everyone to ramp-up with our code.  As well, we are conducting a weekly tea (cha/chai) time to encourage networking between community members.   Currently we have **over 600 contributors** and mentors active in our [43 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025  Contributors Leaderboard](https://gsoc.rocket.chat/) where **over 160 active contributors** have contributed 39 Merged PRs, 104 Open PRs, and 256 Issues to our open source projects.
+
 As of **March 3rd 2025**, we are developing project ideas with our engaged community members. Currently we have **over 495 contributors** and mentors active in our [40 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025  Contributors Leaderboard](https://gsoc.rocket.chat/) where **over 131 active contributors** have contributed 25 Merged PRs, 104 Open PRs, and 233 issues to our open source projects.
 
 As of **Feb 24th 2025**, we are evolving project ideas with our engaged community members as well as returning community mentors, and guest mentors from other friendly open source projects.  We are super grateful to have **12 contributors from the 2024 season** returning to help us **as 2025 mentors**; and to bring on some exciting new project ideas.   Currently we have **over 380 contributors and mentors** active in our [30 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025  Contributors Leaderboard](https://gsoc.rocket.chat/) where over **100 active contributors** have contributed 14 Merged PRs, 88 Open PRs, and 206 issues to our open source projects.
@@ -834,7 +836,7 @@ Enables teams to capture immediate feedback and conduct internal polls seamlessl
 
 ### 💡Trip Helper App 
 
-👥 **Mentor(s):** TBD
+👥 **Mentor(s):**  Yuriko Kikuchi, Sing Li	
 
 📢 **Communication Channel:** [idea-Trip-Helper-App](https://open.rocket.chat/channel/idea-Trip-Helper-App)
 
