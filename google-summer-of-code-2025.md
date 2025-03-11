@@ -275,7 +275,7 @@ This high impact project upgrades the Rocket.Chat message composer component to 
 
 👥 **Mentor(s):** Gustavo Bauer
 
-📢 **Communication Channel:** [idea-Project-Management-via-Asana-Integration](https://open.rocket.chat/channel/idea-Project-Management-via-Asana-Integration)
+📢 **Communication Channel:** [Asana-Integration-idea](https://open.rocket.chat/channel/Asana-Integration-idea)
 
 💬 **Description:**  
 Integrate [Asana](https://asana.com/) with Rocket.Chat to boost team collaboration. Instead of duplicating Asana’s complex task creation, focus on contextual notifications and quick access to task updates. Rocket.Chat project management users can stay informed collaborating within Rocket.Chat, while complex workflows that are better handled by Asana's rich UI remains in Asana.  The transition to and from Asana should be seamless. 
