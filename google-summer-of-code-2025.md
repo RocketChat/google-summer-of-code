@@ -59,6 +59,46 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 > This is a fast moving draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes as mentors and potential contributors discuss and evolve the project descriptions.
 > 
 
+### 💡Maestro as Mobile UI Testing Framework 
+
+👥 **Mentor(s):** Diego Mello
+
+💬 **Description:**  
+
+Migrate Rocket.Chat Mobile app's UI testing framework from Detox to Maestro. Maestro is a modern mobile UI testing framework that offers several advantages over Detox:
+
+- More reliable test execution with fewer flaky tests
+- Better debugging capabilities with detailed test reports and video recordings
+- Simpler test writing syntax using YAML
+- Cross-platform support for both iOS and Android
+- Active community and development
+
+This migration will help improve the reliability and maintainability of our mobile app testing suite while reducing the time spent debugging flaky tests.
+
+💪 **Desired Skills:**  
+
+- Experience with mobile app testing
+- Knowledge of React Native
+- Familiarity with YAML syntax
+- Understanding of CI/CD concepts
+- Basic knowledge of iOS and Android development
+- Good problem-solving skills
+- Experience with Git and GitHub
+
+🎯 **Goals/Deliverables:**  
+
+- Setting up Maestro testing infrastructure in the mobile repo
+- Converting existing Detox tests to Maestro format
+- Creating new tests to improve coverage
+- Implementing CI/CD pipeline integration on Github Actions
+- Documentation of testing practices and guidelines
+
+⏳ **Project Duration:** 175 hours (Medium)    
+
+📈 **Difficulty:** Intermediate  
+
+---
+
 
 ### 🚀 Hugging Face Management Assistant for Rocket.Chat  
 👥 Mentor(s): Prisha Gupta
@@ -1033,42 +1073,3 @@ Ability for administrators to control the upload/download capability per user, i
 
 ---
 
-### 💡Maestro as Mobile UI Testing Framework 
-
-👥 **Mentor(s):** Diego Mello
-
-💬 **Description:**  
-
-Migrate Rocket.Chat Mobile app's UI testing framework from Detox to Maestro. Maestro is a modern mobile UI testing framework that offers several advantages over Detox:
-
-- More reliable test execution with fewer flaky tests
-- Better debugging capabilities with detailed test reports and video recordings
-- Simpler test writing syntax using YAML
-- Cross-platform support for both iOS and Android
-- Active community and development
-
-This migration will help improve the reliability and maintainability of our mobile app testing suite while reducing the time spent debugging flaky tests.
-
-💪 **Desired Skills:**  
-
-- Experience with mobile app testing
-- Knowledge of React Native
-- Familiarity with YAML syntax
-- Understanding of CI/CD concepts
-- Basic knowledge of iOS and Android development
-- Good problem-solving skills
-- Experience with Git and GitHub
-
-🎯 **Goals/Deliverables:**  
-
-- Setting up Maestro testing infrastructure in the mobile repo
-- Converting existing Detox tests to Maestro format
-- Creating new tests to improve coverage
-- Implementing CI/CD pipeline integration on Github Actions
-- Documentation of testing practices and guidelines
-
-⏳ **Project Duration:** 175 hours (Medium)    
-
-📈 **Difficulty:** Intermediate  
-
----
