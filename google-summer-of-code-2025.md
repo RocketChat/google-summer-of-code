@@ -59,6 +59,38 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 > This is a fast moving draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes as mentors and potential contributors discuss and evolve the project descriptions.
 > 
 
+
+### 🚀 Hugging Face Management Assistant for Rocket.Chat  
+👥 Mentor(s): [TBD]  
+
+📢 **Communication Channel:** idea-HuggingFace-Management-Agent  
+
+💬 **Description:  **
+
+Managing models, datasets, and Spaces on Hugging Face can be challenging, especially within teams. This Rocket.Chat app will integrate with Hugging Face Hub APIs to allow users to list, update, and monitor HF resources directly from Rocket.Chat.  
+
+The App will enable:  
+- Viewing available models, datasets, and Spaces  
+- Updating model metadata (e.g., descriptions, tags)  
+- Managing repository settings (private/public, visibility)  
+- Get updates on Space build status  
+- Manage PRs
+- Real-time notifications for updates on Repos
+
+By integrating management functionalities directly into Rocket.Chat, teams can streamline collaboration and reduce the need to switch between multiple platforms.  
+
+💪 **Desired Skills:**  
+- Rocket.Chat Apps Engine and TypeScript  
+- Hugging Face Hub API
+- API authentication and security  
+
+🎯 **Goals/Deliverables:**  
+A Rocket.Chat App that allows users to manage Hugging Face repositories, models, datasets, and Spaces efficiently through chat commands. It will provide an intuitive interface for listing, updating, and tracking resources with real-time notifications.  
+
+⏳ **Project Duration:** 90 hours (Small) 
+
+---
+
 ### 💡Real Time Message Rendering in Message Composer
 
 👥 **Mentor(s):** [Martin Schoeler](https://open.rocket.chat/direct/martin.schoeler)
