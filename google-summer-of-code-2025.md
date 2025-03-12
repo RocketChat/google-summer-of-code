@@ -61,7 +61,7 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 
 
 ### 🚀 Hugging Face Management Assistant for Rocket.Chat  
-👥 Mentor(s): [TBD]  
+👥 Mentor(s): Prisha Gupta
 
 📢 **Communication Channel:** idea-HuggingFace-Management-Agent  
 
@@ -78,6 +78,8 @@ The App will enable:
 - Real-time notifications for updates on Repos
 
 By integrating management functionalities directly into Rocket.Chat, teams can streamline collaboration and reduce the need to switch between multiple platforms.  
+
+Bonus nice to have are any additional innovative features that leverage generative AI (LLMs) to fascilitate in-channel interactions with Hugging Face. 
 
 💪 **Desired Skills:**  
 - Rocket.Chat Apps Engine and TypeScript  
