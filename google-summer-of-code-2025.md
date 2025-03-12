@@ -79,7 +79,7 @@ The App will enable:
 
 By integrating management functionalities directly into Rocket.Chat, teams can streamline collaboration and reduce the need to switch between multiple platforms.  
 
-Bonus nice to have are any additional innovative features that leverage generative AI (LLMs) to fascilitate in-channel interactions with Hugging Face. 
+Bonus nice-to-haves are any additional innovative features that leverage generative AI (LLMs) to facilitate in-channel interactions with Hugging Face. 
 
 💪 **Desired Skills:**  
 - Rocket.Chat Apps Engine and TypeScript  
