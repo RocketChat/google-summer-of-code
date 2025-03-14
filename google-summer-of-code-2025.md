@@ -1073,3 +1073,25 @@ Ability for administrators to control the upload/download capability per user, i
 
 ---
 
+### 💡 Log in via QR code using mobile app
+
+👥 **Mentor(s):** Diego Sampaio
+
+📢 **Communication Channel:** _missing_
+
+💬 **Description:**
+The idea is to provide an easy way to log in to Rocket.Chat on desktop if you're already logged in on your mobile app. Just pick up your mobile phone and point to the screen to be logged in.
+
+💪 **Desired Skills:**  
+- Mobile app development (React Native/TypeScript)  
+- Backend developement (NodeJS/Typescript)
+- Frontend developemtn (React/Typescript)
+
+🎯 **Goals/Deliverables:**  
+- Display a qr-code on Rocket.Chat login scren on the web
+- Scan the qr-code on Rocket.Chat's mobile app
+
+⏳ **Project Duration:** 90 hours (Small)  
+📈 **Difficulty:** Intermediate/Advanced
+
+---
