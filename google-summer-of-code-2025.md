@@ -701,10 +701,10 @@ Some examples:
 
 Recommended approach:
 
-1. Create a streamlined manual workflow for users to make certain actions (trigger, process, response) (~40 hours)
+1. Create a streamlined manual workflow for users to make/edit/delete actions (trigger, process, response) (~40 hours)
 2. Leverage the latest open source specialized multi-step reasoning LLMs to automate this workflow further such that these commands can be issued in plain English. (~10 hours) 
 3. Make intelligent use of tools/function-calling and structured inference to achieve complete automation (~20 hours)
-4. Be sure to built in safety to offset erraneous output and/or hallucinations (~10 hours)
+4. Be sure to have built in safety mechanisms to offset erraneous output and/or hallucinations (~10 hours)
 
 💪 **Desired Skills:**  
 
