@@ -693,11 +693,11 @@ Build a Rocket.Chat app that will monitor messages in specified channels (possib
 
 Some examples:
 
-    "whenever @sing.li posts any welcome messages in #gsoc2025, immediately DM him with a thank-you note"
+    "whenever @sing.li posts any welcome messages in #gsoc2025, immediately DM them with a thank-you note"
 
     "whenever a message is posted that contains a four letter word beginning with letter F, delete that message immediately"
 
-    "if my wife messaged with 'arrived' before I do, DM her sorry I will be late after 1 minute" 
+    "if my Alexa messages me with asking where I am, DM her sorry I will be late" 
 
 Recommended approach:
 
