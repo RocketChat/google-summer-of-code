@@ -689,30 +689,28 @@ A functional community hub website that we will use for 2026; showcasing the pla
 
 💬 **Description:**  
 
-Build a Rocket.Chat app that will monitor messages in specified channels (possibly sent by specified individuals, possibly within certain specified time period, and so on... )  and then (as a second step) perform additional messaging operations based on those messages.  Command should be issued in simple English. Bonus point for more than 2 steps in the reasoning.
+Build a Rocket.Chat app that will monitor messages in specified channels (possibly sent by specified individuals) and then, perform additional messaging operations based on those messages.  Command should be issued in simple English. Bonus point for more than 2 steps in the reasoning.
 
 Some examples:
 
-    "whenever @sing.li posts any welcome messages in #gsoc2025, immediately DM him with a thank-you note"
-
-    "if any picture is uploaded to the #pets channel, send a message that says meow! if the pet is a cat, and a woof! otherwise"
+    "whenever @sing.li posts any welcome messages in #gsoc2025, immediately DM them with a thank-you note"
 
     "whenever a message is posted that contains a four letter word beginning with letter F, delete that message immediately"
 
-    "if my wife messaged with 'arrived' before I do, DM her sorry I will be late after 1 minute" 
+    "if my Alexa messages me with asking where I am, DM her sorry I will be late" 
 
 Recommended approach:
 
-- leverage the latest open source specialized multi-step reasoning LLMs such as the DeepSeek distilled models 
-- make intelligent use of tools/function-calling and structured inference    
-- be sure to built in safety to offset erraneous output and/or hallucinations 
+1. Create a streamlined manual workflow for users to make/edit/delete actions (trigger, process, response) (~40 hours)
+2. Leverage the latest open source specialized multi-step reasoning LLMs to automate this workflow further such that these commands can be issued in plain English. (~10 hours) 
+3. Make intelligent use of tools/function-calling and structured inference to achieve complete automation (~20 hours)
+4. Be sure to have built in safety mechanisms to offset erraneous output and/or hallucinations (~10 hours)
 
 💪 **Desired Skills:**  
 
 - Rocket.Chat Apps Engine (TypeScript)  
 - Rocket.Chat messaging APIs
-- Advanced prompt engineering Skills   
-- Experience with image reasoning capabilities of available open source multi-modal LLMs
+- Advanced prompt engineering skills   
 - Experience working with multi-step reasoning LLMs
 - Experience with tools/function-calling capabilities of modern LLMs
 - Expereince with code generation and code completion LLMs
@@ -720,7 +718,7 @@ Recommended approach:
 
 🎯 **Goals/Deliverables:**  
 
-Platform for generating functional automated chat workflows using LLMs.
+Rocket.Chat App for generating functional automated chat workflows using LLMs.
 
 ⏳ **Project Duration:** 90 hours (Small)  
 
