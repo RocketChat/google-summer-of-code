@@ -57,15 +57,41 @@ As of **January 27th 2025**  checkout our [GSoC 2025  Contributors Leaderboard](
 ## 📂 Project Ideas
 
 > This is a fast moving draft of the GSoC 2025 project ideas list for Rocket.Chat,  the projects are expected to go through constant rapid changes as mentors and potential contributors discuss and evolve the project descriptions.
+>
 > 
+
+### 💡 Log in via QR code using mobile app
+
+👥 **Mentor(s):** Diego Sampaio
+
+📢 **Communication Channel:** [idea-Log-in-via-QR-code-using-mobile-app](https://open.rocket.chat/channel/idea-Log-in-via-QR-code-using-mobile-app)
+
+💬 **Description:**
+The idea is to provide an easy way to log in to Rocket.Chat on desktop if you're already logged in on your mobile app. Just pick up your mobile phone and point to the screen to be logged in.
+
+💪 **Desired Skills:**  
+- Mobile app development (React Native/TypeScript)  
+- Backend developement (NodeJS/Typescript)
+- Frontend developemtn (React/Typescript)
+
+🎯 **Goals/Deliverables:**  
+- Display a qr-code on Rocket.Chat login scren on the web
+- Scan the qr-code on Rocket.Chat's mobile app
+
+⏳ **Project Duration:** 90 hours (Small)  
+📈 **Difficulty:** Intermediate/Advanced
+
+---
 
 ### 💡Maestro as Mobile UI Testing Framework 
 
 👥 **Mentor(s):** Diego Mello
 
+📢 **Communication Channel:**  [idea-Maestro-as-Mobile-UI-Testing-Framework](https://open.rocket.chat/channel/idea-Maestro-as-Mobile-UI-Testing-Framework)
+
 💬 **Description:**  
 
-Migrate Rocket.Chat Mobile app's UI testing framework from Detox to Maestro. Maestro is a modern mobile UI testing framework that offers several advantages over Detox:
+Migrate Rocket.Chat Mobile app's UI testing framework from [Detox](https://github.com/wix/Detox)  to Maestro. [Maestro](https://github.com/mobile-dev-inc/Maestro) is a modern mobile UI testing framework that offers several advantages over Detox:
 
 - More reliable test execution with fewer flaky tests
 - Better debugging capabilities with detailed test reports and video recordings
@@ -101,9 +127,10 @@ This migration will help improve the reliability and maintainability of our mobi
 
 
 ### 🚀 Hugging Face Management Assistant for Rocket.Chat  
+
 👥 Mentor(s): Prisha Gupta
 
-📢 **Communication Channel:** idea-HuggingFace-Management-Agent  
+📢 **Communication Channel:**  [idea-Hugging-Face-Management-Agent](https://open.rocket.chat/channel/idea-Hugging-Face-Management-Agent)
 
 💬 **Description:  **
 
@@ -136,6 +163,8 @@ A Rocket.Chat App that allows users to manage Hugging Face repositories, models,
 ### 💡Real Time Message Rendering in Message Composer
 
 👥 **Mentor(s):** [Martin Schoeler](https://open.rocket.chat/direct/martin.schoeler)
+
+📢 **Communication Channel:** [idea-Real-Time-Message-Rendering-in-Message-Composer](https://open.rocket.chat/channel/idea-Real-Time-Message-Rendering-in-Message-Composer)
 
 💬 **Description:**  
 
@@ -1071,25 +1100,4 @@ Ability for administrators to control the upload/download capability per user, i
 
 ---
 
-### 💡 Log in via QR code using mobile app
 
-👥 **Mentor(s):** Diego Sampaio
-
-📢 **Communication Channel:** _missing_
-
-💬 **Description:**
-The idea is to provide an easy way to log in to Rocket.Chat on desktop if you're already logged in on your mobile app. Just pick up your mobile phone and point to the screen to be logged in.
-
-💪 **Desired Skills:**  
-- Mobile app development (React Native/TypeScript)  
-- Backend developement (NodeJS/Typescript)
-- Frontend developemtn (React/Typescript)
-
-🎯 **Goals/Deliverables:**  
-- Display a qr-code on Rocket.Chat login scren on the web
-- Scan the qr-code on Rocket.Chat's mobile app
-
-⏳ **Project Duration:** 90 hours (Small)  
-📈 **Difficulty:** Intermediate/Advanced
-
----
