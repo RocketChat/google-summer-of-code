@@ -1171,3 +1171,28 @@ Visual regression testing is a technique that allows us to test the visual appea
 📈 **Difficulty:** Intermediate
 
 ---
+
+### 💡 Convert endpoints to new Pattern
+
+👥 **Mentor(s):** TBD, Guilherme Gazzo (Co-mentor)
+
+💬 **Description:**
+
+We have a new pattern for develop endpoints. This pattern is more organized and easier to maintain, improves the type definitions and also allow us to
+generate the OpenAPI documentation automatically.
+
+💪 **Desired Skills:**
+
+- Node.js
+- TypeScript
+- Rocket.Chat Core
+
+🎯 **Goals/Deliverables:**
+
+- Convert all the current documented endpoints to the new pattern
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Intermediate
+
+---
