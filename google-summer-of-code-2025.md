@@ -1132,13 +1132,39 @@ Using the tamagui as a base, we can components that are compatible with both pla
 - React/React Native
 - Tamagui
 - Rocket.Chat Fuselage
-  🎯 **Goals/Deliverables:**
+
+🎯 **Goals/Deliverables:**
 
 - New package containing all the fuselage tokens
 - New package containing subset of the fuselage components
 - Size comparison between the two implementations
   - Expected to reduce bundle size, but also to increase performance
 - React Native compatibility
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Intermediate
+
+---
+
+### 💡 Implement visual regression testing
+
+👥 **Mentor(s):** Douglas Fabris, Guilherme Gazzo
+
+💬 **Description:**
+
+Visual regression testing is a technique that allows us to test the visual appearance of our components. It is important to ensure that our components look and behave as expected across different devices and screen sizes.
+
+💪 **Desired Skills:**
+
+- React
+- CI/CD
+- Loki - https://loki.js.org
+
+🎯 **Goals/Deliverables:**
+
+- Implement visual regression pipeline for Fuselage components
+- Implement visual regression pipeline for Rocket.Chat Screens
 
 ⏳ **Project Duration:** 175 hours (Medium)
 
