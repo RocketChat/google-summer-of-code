@@ -6,7 +6,7 @@
 
 Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2025](https://summerofcode.withgoogle.com/), helping to usher in a new generation of open source contributors and enthusiasts.
 
-Join out our [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) and introduce yourself to the community of 500+ right now! See [all the exciting projects](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2025.md#-project-ideas) we are working on this year.
+Join out our [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) and introduce yourself to the community of 710+ right now! See [all the exciting projects](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2025.md#-project-ideas) we are working on this year.
 
 For timeline, see [Official Google Summer of Code 2025](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.
 
@@ -20,7 +20,7 @@ For details and rules of Google Summer of Code 2025, please see the [GSoC 2025 O
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2025 : [https://open.rocket.chat/channel/gsoc2025](https://open.rocket.chat/channel/gsoc2025)
 
-Join our [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) today, introduce yourself to the friendly community, and interact with over **495 like-minded** contributors/mentors (as of March 3rd, 2025) and meet the team in the [40+ team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
+Join our [Google Summer of Code 2025 Team ](https://open.rocket.chat/channel/gsoc2025) today, introduce yourself to the friendly community, and interact with over **710 like-minded** contributors/mentors (as of March 18th, 2025) and meet the team in the [50+ team channels](https://open.rocket.chat/channel/gsoc2025/team-channels).
 
 If you have ideas and proposals that are not on our idea list, or if a mentor is not available, you can also email to:
 
@@ -42,7 +42,7 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
-As of **March 18th 2025**, mentors are help contributors to explore project details in preparation for proposal crafting. We are iteratively refining the weekly "How to write an AI Rocket.Chat App in One Hour" workshop to focus on the art of prompt-engineering. As well, our weekly tea (cha/chai) time continues to be well supported by our growing community. Currently we have **over 710 contributors** and mentors active in our [43 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025 Contributors Leaderboard](https://gsoc.rocket.chat/) where **over 186 active contributors** have contributed **51 Merged PRs, 119 Open PRs, and 270 Issues** to our open source projects.
+As of **March 18th 2025**, mentors are help contributors to explore project details in preparation for proposal crafting. We are iteratively refining the weekly "How to write an AI Rocket.Chat App in One Hour" workshop to focus on the art of prompt-engineering. As well, our weekly tea (cha/chai) time continues to be well supported by our growing community. Currently we have **over 710 contributors** and mentors active in our [52 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025 Contributors Leaderboard](https://gsoc.rocket.chat/) where **over 186 active contributors** have contributed **51 Merged PRs, 119 Open PRs, and 270 Issues** to our open source projects.
 
 As of **March 10th 2025**, mentors are starting to help contributors to work on and refine the project ideas. We are running a weekly "How to write an AI Rocket.Chat App in One Hour" workshop to help everyone to ramp-up with our code. As well, we are conducting a weekly tea (cha/chai) time to encourage networking between community members. Currently we have **over 600 contributors** and mentors active in our [43 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025 Contributors Leaderboard](https://gsoc.rocket.chat/) where **over 160 active contributors** have contributed 39 Merged PRs, 104 Open PRs, and 256 Issues to our open source projects.
 
