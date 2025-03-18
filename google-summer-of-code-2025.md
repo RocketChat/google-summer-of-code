@@ -56,6 +56,93 @@ As of **January 27th 2025** checkout our [GSoC 2025 Contributors Leaderboard](ht
 
 > This is a fast moving draft of the GSoC 2025 project ideas list for Rocket.Chat, the projects are expected to go through constant rapid changes as mentors and potential contributors discuss and evolve the project descriptions.
 
+
+
+### 💡 Fuselage React Native compatibility (tamagui)
+
+👥 **Mentor(s):** Julia Foresti, Guilherme Gazzo
+
+📢 **Communication Channel:** [Fuselage React Native compatibility (tamagui)](https://open.rocket.chat/channel/idea-Fuselage-React-Native-compatibility-tamagui)
+
+💬 **Description:**
+There are many secondary goals for this project, but the main goal is to make the fuselage compatible with React Native.
+But also, we have figthing against the bundle size of the fuselage, and of course performance which is always a concern.
+Using the tamagui as a base, we can components that are compatible with both platforms, and in a efficient way.
+
+💪 **Desired Skills:**
+
+- React/React Native
+- Tamagui
+- Rocket.Chat Fuselage
+
+🎯 **Goals/Deliverables:**
+
+- New package containing all the fuselage tokens
+- New package containing subset of the fuselage components
+- Size comparison between the two implementations
+  - Expected to reduce bundle size, but also to increase performance
+- React Native compatibility
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Intermediate
+
+---
+
+### 💡 Implement visual regression testing
+
+👥 **Mentor(s):** Douglas Fabris, Guilherme Gazzo
+
+📢 **Communication Channel:** [Implement visual regression testing](https://open.rocket.chat/channel/idea-Implement-visual-regression-testing)
+
+💬 **Description:**
+
+Visual regression testing is a technique that allows us to test the visual appearance of our components. It is important to ensure that our components look and behave as expected across different devices and screen sizes.
+
+💪 **Desired Skills:**
+
+- React
+- CI/CD
+- Loki - https://loki.js.org
+
+🎯 **Goals/Deliverables:**
+
+- Implement visual regression pipeline for Fuselage components
+- Implement visual regression pipeline for Rocket.Chat Screens
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Intermediate
+
+---
+
+### 💡 Convert endpoints to new Pattern
+
+👥 **Mentor(s):** TBD, Guilherme Gazzo (Co-mentor)
+
+📢 **Communication Channel:**  [Convert endpoints to new Pattern](https://open.rocket.chat/channel/idea-Convert-endpoints-to-new-Pattern)
+
+💬 **Description:**
+
+We have a new pattern for develop endpoints. This pattern is more organized and easier to maintain, improves the type definitions and also allow us to
+generate the OpenAPI documentation automatically.
+
+💪 **Desired Skills:**
+
+- Node.js
+- TypeScript
+- Rocket.Chat Core
+
+🎯 **Goals/Deliverables:**
+
+- Convert all the current documented endpoints to the new pattern
+
+⏳ **Project Duration:** 175 hours (Medium)
+
+📈 **Difficulty:** Intermediate
+
+---
+
 ### 💡 Log in via QR code using mobile app
 
 👥 **Mentor(s):** Diego Sampaio
@@ -1113,85 +1200,6 @@ Add and implement permissions to make possible the fine-grained control of who c
 Ability for administrators to control the upload/download capability per user, in combination with access client type.
 
 ⏳ **Project Duration:** 90 hours (Small)
-
-📈 **Difficulty:** Intermediate
-
----
-
-### 💡 Fuselage React Native compatibility (tamagui)
-
-👥 **Mentor(s):** Julia Foresti, Guilherme Gazzo
-
-💬 **Description:**
-There are many secondary goals for this project, but the main goal is to make the fuselage compatible with React Native.
-But also, we have figthing against the bundle size of the fuselage, and of course performance which is always a concern.
-Using the tamagui as a base, we can components that are compatible with both platforms, and in a efficient way.
-
-💪 **Desired Skills:**
-
-- React/React Native
-- Tamagui
-- Rocket.Chat Fuselage
-
-🎯 **Goals/Deliverables:**
-
-- New package containing all the fuselage tokens
-- New package containing subset of the fuselage components
-- Size comparison between the two implementations
-  - Expected to reduce bundle size, but also to increase performance
-- React Native compatibility
-
-⏳ **Project Duration:** 175 hours (Medium)
-
-📈 **Difficulty:** Intermediate
-
----
-
-### 💡 Implement visual regression testing
-
-👥 **Mentor(s):** Douglas Fabris, Guilherme Gazzo
-
-💬 **Description:**
-
-Visual regression testing is a technique that allows us to test the visual appearance of our components. It is important to ensure that our components look and behave as expected across different devices and screen sizes.
-
-💪 **Desired Skills:**
-
-- React
-- CI/CD
-- Loki - https://loki.js.org
-
-🎯 **Goals/Deliverables:**
-
-- Implement visual regression pipeline for Fuselage components
-- Implement visual regression pipeline for Rocket.Chat Screens
-
-⏳ **Project Duration:** 175 hours (Medium)
-
-📈 **Difficulty:** Intermediate
-
----
-
-### 💡 Convert endpoints to new Pattern
-
-👥 **Mentor(s):** TBD, Guilherme Gazzo (Co-mentor)
-
-💬 **Description:**
-
-We have a new pattern for develop endpoints. This pattern is more organized and easier to maintain, improves the type definitions and also allow us to
-generate the OpenAPI documentation automatically.
-
-💪 **Desired Skills:**
-
-- Node.js
-- TypeScript
-- Rocket.Chat Core
-
-🎯 **Goals/Deliverables:**
-
-- Convert all the current documented endpoints to the new pattern
-
-⏳ **Project Duration:** 175 hours (Medium)
 
 📈 **Difficulty:** Intermediate
 
