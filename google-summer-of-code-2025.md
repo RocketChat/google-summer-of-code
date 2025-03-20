@@ -662,7 +662,7 @@ Improvement to the EmbeddedChat project this year includes:
 
 ### 💡 Smart Market Bot for Rocket.Chat
 
-👥 **Mentor(s):** Zishan Ahmad, TBD
+👥 **Mentor(s):** Zishan Ahmad, Maria Khelli
 
 📢 **Communication Channel:** [idea-Smart-Market-Bot-for-Rocket-Chat](https://open.rocket.chat/channel/idea-Smart-Market-Bot-for-Rocket-Chat)
 
