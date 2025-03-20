@@ -120,7 +120,7 @@ Visual regression testing is a technique that allows us to test the visual appea
 
 ### 💡 Convert endpoints to new Pattern
 
-👥 **Mentor(s):** TBD, Guilherme Gazzo (Co-mentor)
+👥 **Mentor(s):** Martheus Cardoso, Guilherme Gazzo (Co-mentor)
 
 📢 **Communication Channel:**  [Convert endpoints to new Pattern](https://open.rocket.chat/channel/idea-Convert-endpoints-to-new-Pattern)
 
@@ -1117,7 +1117,7 @@ Rocket.Chat already supports sending voice messages. This project enhances that 
 
 ### 💡Improve Private Team and Private Channel Administration
 
-👥 **Mentor(s):** John Crisp
+👥 **Mentor(s):** John Crisp, Matheus Cardoso
 
 📢 **Communication Channel:** [idea-Private-Teams-and-Private-Channels-Adminitration-Improvements](https://open.rocket.chat/channel/idea-Private-Teams-and-Private-Channels-Adminitration-Improvements)
 
