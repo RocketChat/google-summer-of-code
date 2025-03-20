@@ -593,7 +593,7 @@ An AI Agent that will help to onboard new users.
 
 ### 💡 Code Review Assistant for Open Source projects
 
-👥 **Mentor(s):** Felipe Scuciatto, Samad Kahn
+👥 **Mentor(s):** Felipe Scuciatto, Dnouv
 
 📢 **Communication Channel:** [idea-Code-Review-Agent-for-Open-Source-projects](https://open.rocket.chat/channel/idea-Code-Review-Agent-for-Open-Source-projects)
 
