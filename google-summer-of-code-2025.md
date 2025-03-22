@@ -258,6 +258,10 @@ A Rocket.Chat App that allows users to manage Hugging Face repositories, models,
 
 Any rich text content is rendered in its text form - for example emojis will be rendered as `:grin:` instead of 😬, **Bold** markdown highlight will be rendered as ` **Bold**` while composing a message using Rocket.Chat.
 
+As we are looking to migrate from the emojiOne library to native emojis, one of the requirements of this project is that default emojis (those that are not custom emojis, added by an admin) are rendered as native emojis (the actual emoji character like 😬 instead of the ones from the emojiOne lib that is being used on Rocket.Chat)
+
+We will also ask for a proof of concept of how a migration from emojiOne to native would work in the message renderer, basically an experimentation to understand what challenges the migration encompasses and the possible ways we could do it (The migration does not need to be delivered, just the study on it). 
+
 This project should upgrade the composer to support real-time in-message rendering of rich content while editing.
 
 Most of the complexity of this project comes from properly converting the existing Message Composer to display rich content, while integrating with **ALL** existing functionality of the Composer component
