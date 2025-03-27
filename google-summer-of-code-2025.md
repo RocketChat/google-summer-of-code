@@ -1212,3 +1212,26 @@ Ability for administrators to control the upload/download capability per user, i
 📈 **Difficulty:** Intermediate
 
 ---
+
+### 💡 Location Sharing
+
+👥 **Mentor(s):** TBD
+
+💬 **Description:**
+
+Fix and implement buttons on the message box of desktop and mobile app to share current and live locaiton of the user. Create componente to render the location with action buttons to open the locaiton on 3rd party apps for navigation.
+
+💪 **Desired Skills:**
+
+- Understanding of Rocket.Chat core
+- Advanced Typescript
+- React and React Native
+
+🎯 **Goals/Deliverables:**  
+Ability for users to share their current location or live location for specified period of time.
+
+⏳ **Project Duration:** TBD
+
+📈 **Difficulty:** Advanced
+
+---
