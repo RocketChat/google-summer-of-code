@@ -62,7 +62,7 @@ As of **January 27th 2025** checkout our [GSoC 2025 Contributors Leaderboard](ht
 
 ### 💡 Integration of high performance open source purecpp RAG Pipeline 
 
-👥 **Mentor(s):** Bruno Zaffari
+👥 **Mentor(s):** Bruno Zaffari, Matheus Cardoso
 
 📢 **Communication Channel:** [idea-integration-of-purecpp-open-source-rag-pipeline](https://open.rocket.chat/channel/idea-ntegration-of-high-performance-open-source-purecpp-RAG-Pipeline)
 
