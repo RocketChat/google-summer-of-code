@@ -60,7 +60,34 @@ As of **January 27th 2025** checkout our [GSoC 2025 Contributors Leaderboard](ht
 
 > This is a fast moving draft of the GSoC 2025 project ideas list for Rocket.Chat, the projects are expected to go through constant rapid changes as mentors and potential contributors discuss and evolve the project descriptions.
 
+### 💡 Integration of high performance open source purecpp RAG Pipeline 
 
+👥 **Mentor(s):** Bruno Zaffari
+
+📢 **Communication Channel:** [idea-integration-of-purecpp-open-source-rag-pipeline](https://open.rocket.chat/channel/idea-ntegration-of-high-performance-open-source-purecpp-RAG-Pipeline)
+
+💬 **Description:**
+
+This project integrates [the world's fastest open source RAG pipeline](https://github.com/pureai-ecosystem/purecpp/tree/main) within a Rocket.Chat App, powering countless future AI App possibilities. 
+
+The project must include the scheduled ingestion of all chat history in a channel as input to the pipeline's vectorDB component. 
+
+💪 **Desired Skills:**
+
+- interest in high impact AI projects
+- Rocket.Chat App (Typescript) development
+- understanding of RAG based agentic systems
+- ideally rust and/or C++ development experience 
+
+🎯 **Goals/Deliverables:**
+
+- Purecpp integrated as RAG pipeline foundation; upon which any Rocket.Chat users can build new AI apps.
+
+⏳ **Project Duration:** 90 hours (Small)
+
+📈 **Difficulty:** Intermediate
+
+---
 
 ### 💡 Fuselage React Native compatibility (tamagui)
 
