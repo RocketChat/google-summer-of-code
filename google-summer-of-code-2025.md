@@ -71,7 +71,7 @@ Mentors of selected projects has start welcoming the contributors officially and
 | Ishan Mitra|Real Time Message Rendering in Message Composer |Sing Li, Martin Schoeler   |
 | Jannat Khan |Code Review AI Assistant App for Rocket.Chat   | Felipe Scuciatto , Mustafa Hasan Khan, Dnouv    |
 | Lexie Huang	| Private Teams and Private Channels Administration Improvements | John Crisp, Matheus Cardoso       |
-| Rohit3523 | Maestro as Mobile UI Testing Framework | Diego Mello|
+| Rohit.Bansal | Maestro as Mobile UI Testing Framework | Diego Mello|
 | Thanisha Dewangan  | Fuselage React Native compatibility (tamagui) | 	Guilherme Gazzo, juliaf |
 | William Liu	|  	Receipts Processor and Reporting App powered by Multi-modal LLMs |   Maria Khelli, Aditya.Signh |
 
