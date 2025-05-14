@@ -44,7 +44,40 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
-As of **April 8th 2025**, on proposal submission deadline we have received a record **427 proposals** across our projects (quite evenly distributed, with the more active mentors and/or project communitieies receiving a few more).  Mentors are now busy sorting through the proposals and reviewing them for selection.  We held the  [2025 Rocket.Chat GSoC Alumni Summit](https://www.youtube.com/playlist?list=PLee3gqXJQrFUWTMesLh82HtHEcwaFXuCW) on March 27th; a day when **15  former contributors from as far back as 2018 returned to help our new contirbutors** with informative and entertaining presentations sharing from their own open source journey.   We finally concluded the last weekly session (7th instance) on "How to write an AI Rocket.Chat App in One Hour" workshop to fast-track new contributors. But we are continuing our weekly tea (cha/chai) community time (like an informal weekly office hour)  as it is well received/supported by our growing community.  Currently we have **over 1026 contributors** and mentors active in our [53 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025 Contributors Leaderboard](https://gsoc.rocket.chat/) where **over 249 active contributors have contributed 59 Merged PRs, 152 Open PRs, and 299 Issues** to our open source projects.
+
+Results for 2025 has just been announced on **May 8th, 2025**.  This is a record breaking year for GSoC at Rocket.Chat. Thanks to the enthusiastic support from new contributors and the continued strong support of returning community mentors, Google has graciously selected **NINETEEN** Rocket.Chat projects.      
+
+Mentors of selected projects has start welcoming the contributors officially and bringing them into our community bonding activities immediately; many are already refining their upcoming schedule together since they are already active in our community.   An incredible **15 mentors this year are returning GSoC contributors from prior years**;  we sincerely thank them for their continued support for open source.  
+
+
+#### 2025 Projects
+
+
+| Contributor      | Project                                 | Mentors                                        |
+| ---------------- | --------------------------------------- | ---------------------------------------------- |
+| Daniel Akinola | Google Summer of Code Community Hub 2025  | Dhruv Jain, Anjaneya Gupta |
+| Dhairyashil Shinde   | AI Chat Workflows Automation App with multi-step reasoning | 	Hardik Bhatia, Prisha Gupta  |
+|Jinendra Jain   | 	Log in via QR code using mobile app   | Jean Brito, Diego Sampaio   |
+| Jinghan Yu	 | Message Timestamp Date Picker Components    |Martin Schoeler         |
+| Piyush Bhatt  | Trip Helper App | Zishan_Ahmad, Yuriko Kikuchi        |
+| Priyanshu Harshbodhi   | Natural Language Bridge to Legacy Email         | Aman-Negi, Vipin Chaudhary         |
+| Thotsem Jajo| Messages Scheduling | abhinavkrin, Ricardo Garim      |
+| Abir Chakraborty| Server Guide Agent |Gabriel Casals, Jeffrey Yu               |
+| Ahmed Nasser | Convert endpoints to new Pattern | Guilherme Gazzo, Matheus Cardoso        |
+| Andro Ranogajec|End to End Encrypted Message Handling for Ruqola   | Aaron Ogle, montel laurent   |
+| Anxhul10 | Implement visual regression testing | 	Douglas Fabris, Guilherme Gazzo   |
+|Ayush Jitendra Kumar |AI Enhanced Message Composer Component| Gabriel Engel, Ashutosh Singh Chauhan    |
+| Fang Zihao  | Passkey-Based WebAuthn Authentication for Rocket.Chat    | Dnouv, Julio Araujo |
+| Ishan Mitra|Real Time Message Rendering in Message Composer |Sing Li, Martin Schoeler   |
+| Jannat Khan |Code Review AI Assistant App for Rocket.Chat   | Felipe Scuciatto , Mustafa Hasan Khan, Dnouv    |
+| Lexie Huang	| Private Teams and Private Channels Administration Improvements | John Crisp, Matheus Cardoso       |
+| Rohit3523 | Maestro as Mobile UI Testing Framework | Diego Mello|
+| Thanisha Dewangan  | Fuselage React Native compatibility (tamagui) | 	Guilherme Gazzo, juliaf |
+| William Liu	|  	Receipts Processor and Reporting App powered by Multi-modal LLMs |  AdityaSingh-02, Maria Khelli |
+
+In addition, we have several non-selected projects that will continue this term because both the contributors and mentors involved have agreed to collaborate on.  We will have more information on these project in a future update.
+
+As of **April 8th 2025**, on proposal submission deadline we have received a record **472 proposals** across our projects (quite evenly distributed, with the more active mentors and/or project communitieies receiving a few more).  Mentors are now busy sorting through the proposals and reviewing them for selection.  We held the  [2025 Rocket.Chat GSoC Alumni Summit](https://www.youtube.com/playlist?list=PLee3gqXJQrFUWTMesLh82HtHEcwaFXuCW) on March 27th; a day when **15  former contributors from as far back as 2018 returned to help our new contirbutors** with informative and entertaining presentations sharing from their own open source journey.   We finally concluded the last weekly session (7th instance) on "How to write an AI Rocket.Chat App in One Hour" workshop to fast-track new contributors. But we are continuing our weekly tea (cha/chai) community time (like an informal weekly office hour)  as it is well received/supported by our growing community.  Currently we have **over 1026 contributors** and mentors active in our [53 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025 Contributors Leaderboard](https://gsoc.rocket.chat/) where **over 249 active contributors have contributed 59 Merged PRs, 152 Open PRs, and 299 Issues** to our open source projects.
 
 As of **March 26th 2025**, propsoal submission has opened and many of our mentors are giving reviews of submitted draft proposals upon request, and some of them are video meeting contributors to verify identity. We are holding an [Alumni Summit](https://gsoc.rocket.chat/community/conferences/c/190299)  where former contributors from as far back as 2018 are returning to help our new contirbutors this season.   We are still running the weekly "How to write an AI Rocket.Chat App in One Hour" workshop to help to ramp up new contributors. As well, our weekly tea (cha/chai) time continues to be well supported by our growing community. Currently we have **over 825 contributors** and mentors active in our [52 GSoC 2025 team channels](https://open.rocket.chat/channel/gsoc2025/team-channels). Checkout our [GSoC 2025 Contributors Leaderboard](https://gsoc.rocket.chat/) where **over 214 active contributors** have contributed **57 Merged PRs, 137 Open PRs, and 281 Issues.** to our open source projects.
 
