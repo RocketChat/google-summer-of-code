@@ -61,7 +61,7 @@ Mentors of selected projects has start welcoming the contributors officially and
 | Jinghan Yu	 | Message Timestamp Date Picker Components    |Martin Schoeler         |
 | Piyush Bhatt  | Trip Helper App | Zishan_Ahmad, Yuriko Kikuchi        |
 | Priyanshu Harshbodhi   | Natural Language Bridge to Legacy Email         | Aman-Negi, Vipin Chaudhary         |
-| Thotsem Jajo| Messages Scheduling | abhinavkrin, Ricardo Garim      |
+| Thotsem Jajo| Messages Scheduling | Abhinav.Kumar, Ricardo Garim      |
 | Abir Chakraborty| Server Guide Agent |Gabriel Casals, Jeffrey Yu               |
 | Ahmed Nasser | Convert endpoints to new Pattern | Guilherme Gazzo, Matheus Cardoso        |
 | Andro Ranogajec|End to End Encrypted Message Handling for Ruqola   | Aaron Ogle, montel laurent   |
@@ -73,7 +73,7 @@ Mentors of selected projects has start welcoming the contributors officially and
 | Lexie Huang	| Private Teams and Private Channels Administration Improvements | John Crisp, Matheus Cardoso       |
 | Rohit3523 | Maestro as Mobile UI Testing Framework | Diego Mello|
 | Thanisha Dewangan  | Fuselage React Native compatibility (tamagui) | 	Guilherme Gazzo, juliaf |
-| William Liu	|  	Receipts Processor and Reporting App powered by Multi-modal LLMs |  AdityaSingh-02, Maria Khelli |
+| William Liu	|  	Receipts Processor and Reporting App powered by Multi-modal LLMs |   Maria Khelli, Aditya.Signh |
 
 In addition, we have several non-selected projects that will continue this term because both the contributors and mentors involved have agreed to collaborate on.  We will have more information on these project in a future update.
 
