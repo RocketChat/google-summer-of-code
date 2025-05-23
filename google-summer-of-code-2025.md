@@ -66,9 +66,9 @@ Mentors of selected projects has start welcoming the contributors officially and
 | Ahmed Nasser | Convert endpoints to new Pattern | Guilherme Gazzo, Matheus Cardoso        |
 | Andro Ranogajec|End to End Encrypted Message Handling for Ruqola   | Aaron Ogle, montel laurent   |
 | Anxhul10 | Implement visual regression testing | 	Douglas Fabris, Guilherme Gazzo   |
-|Ayush Jitendra Kumar |AI Enhanced Message Composer Component| Gabriel Engel, Ashutosh Singh Chauhan    |
+|Ayush Jitendra Kumar |AI Enhanced Message Composer Component| Gabriel Engel,  Zishan_Ahmad, Martin Schoeler |
 | Fang Zihao  | Passkey-Based WebAuthn Authentication for Rocket.Chat    | Dnouv, Julio Araujo |
-| Ishan Mitra|Real Time Message Rendering in Message Composer |Sing Li, Martin Schoeler   |
+| Ishan Mitra|Real Time Message Rendering in Message Composer | Sing Li, Martin Schoeler |
 | Jannat Khan |Code Review AI Assistant App for Rocket.Chat   | Felipe Scuciatto , Mustafa Hasan Khan, Dnouv    |
 | Lexie Huang	| Private Teams and Private Channels Administration Improvements | John Crisp, Matheus Cardoso       |
 | Rohit.Bansal | Maestro as Mobile UI Testing Framework | Diego Mello|
