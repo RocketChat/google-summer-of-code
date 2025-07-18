@@ -44,6 +44,7 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
+Update **July 18, 2025** we are just about to complete the mid-term evaluations for all of the projects. All of the projects are now deep into coding.  Please click the links on the project list below if you'd like to contribute to these open source projects.  All mentors have selected to pass their contributors this midterm with two projects that are conditionally passing (has scheduling and communications issue and are looking to improve in the second term).   Preparations for our Demo Day 2025, where every contributor gets to present their proud creation to our community.  Please stay tune for the announcement and date.
 
 Results for 2025 has just been announced on **May 8th, 2025**.  This is a record breaking year for GSoC at Rocket.Chat. Thanks to the enthusiastic support from new contributors and the continued strong support of returning community mentors, Google has graciously selected **NINETEEN** Rocket.Chat projects.      
 
