@@ -65,16 +65,16 @@ Mentors of selected projects has start welcoming the contributors officially and
 | Thotsem Jajo| Messages Scheduling | Abhinav.Kumar, Ricardo Garim      |
 | Abir Chakraborty| [Server Guide Agent](https://github.com/RocketChat/AI_Server_Guide) |Gabriel Casals, Jeffrey Yu               |
 | Ahmed Nasser | Convert endpoints to new Pattern | Guilherme Gazzo, Matheus Cardoso        |
-| Andro Ranogajec|End to End Encrypted Message Handling for Ruqola   | Aaron Ogle, montel laurent   |
+| Andro Ranogajec|[End to End Encrypted Message Handling for Ruqola](https://github.com/RocketChat/ruqola)| Aaron Ogle, montel laurent   |
 | Anxhul10 | Implement visual regression testing | 	Douglas Fabris, Guilherme Gazzo   |
 |Ayush Jitendra Kumar |AI Enhanced Message Composer Component| Gabriel Engel,  Zishan_Ahmad, Martin Schoeler |
 | Fang Zihao  | Passkey-Based WebAuthn Authentication for Rocket.Chat    | Dnouv, Julio Araujo |
 | Ishan Mitra|Real Time Message Rendering in Message Composer | Sing Li, Martin Schoeler |
-| Jannat Khan |Code Review AI Assistant App for Rocket.Chat   | Felipe Scuciatto , Mustafa Hasan Khan, Dnouv    |
+| Jannat Khan | [Code Review AI Assistant App for Rocket.Chat](https://github.com/RocketChat/CodeReviewAgent_GSoC2025)| Felipe Scuciatto , Mustafa Hasan Khan, Dnouv    |
 | Lexie Huang	| Private Teams and Private Channels Administration Improvements | John Crisp, Matheus Cardoso       |
 | Rohit.Bansal | Maestro as Mobile UI Testing Framework | Diego Mello|
 | Thanisha Dewangan  | Fuselage React Native compatibility (tamagui) | 	Guilherme Gazzo, juliaf |
-| William Liu	|  	Receipts Processor and Reporting App powered by Multi-modal LLMs |   Maria Khelli, Aditya.Signh |
+| William Liu	|  	[Receipts Processor and Reporting App powered by Multi-modal LLMs](https://github.com/RocketChat/Apps.Receipts.Processor)|   Maria Khelli, Aditya.Signh |
 
 In addition, we have several non-selected projects that will continue this term because both the contributors and mentors involved have agreed to collaborate on.  We will have more information on these project in a future update.
 
