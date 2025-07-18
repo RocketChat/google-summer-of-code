@@ -44,7 +44,7 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
-Update **July 18, 2025** we are just about to complete the mid-term evaluations for all of the projects. All of the projects are now deep into coding.  Please click the links on the project list below if you'd like to contribute to these open source projects.  All mentors have selected to pass their contributors this midterm with two projects that are conditionally passing (has scheduling and communications issue and are looking to improve in the second term).   Preparations for our Demo Day 2025, where every contributor gets to present their proud creation to our community.  Please stay tune for the announcement and date.
+Update **July 18, 2025** we are just about to complete the mid-term evaluations for all of the projects. All of the projects are now deep into coding.  Please click the links on the project list below if you'd like to contribute to these open source projects.  All mentors have selected to pass their contributors this midterm with two projects that are conditionally passing (has scheduling and communications issue and are looking to improve in the second term).   Preparations for our Demo Day 2025, where every contributor gets to present their proud creation to our community, is well under way.  Please stay tune for the announcement and date.
 
 Results for 2025 has just been announced on **May 8th, 2025**.  This is a record breaking year for GSoC at Rocket.Chat. Thanks to the enthusiastic support from new contributors and the continued strong support of returning community mentors, Google has graciously selected **NINETEEN** Rocket.Chat projects.      
 
@@ -56,14 +56,14 @@ Mentors of selected projects has start welcoming the contributors officially and
 
 | Contributor      | Project                                 | Mentors                                        |
 | ---------------- | --------------------------------------- | ---------------------------------------------- |
-| Daniel Akinola | Google Summer of Code Community Hub 2025  | Dhruv Jain, Anjaneya Gupta |
-| Dhairyashil Shinde   | AI Chat Workflows Automation App with multi-step reasoning | 	Hardik Bhatia, Prisha Gupta  |
+| Daniel Akinola | [Google Summer of Code Community Hub 2025](https://github.com/RocketChat/GSoC-Community-Hub)  | Dhruv Jain, Anjaneya Gupta |
+| Dhairyashil Shinde   | [AI Chat Workflows Automation App with multi-step reasoning](https://github.com/RocketChat/Apps.AutomatedChatWorkflows) |	Hardik Bhatia, Prisha Gupta  |
 |Jinendra Jain   | 	Log in via QR code using mobile app   | Jean Brito, Diego Sampaio   |
 | Jinghan Yu	 | Message Timestamp Date Picker Components    |Martin Schoeler         |
-| Piyush Bhatt  | Trip Helper App | Zishan_Ahmad, Yuriko Kikuchi        |
-| Priyanshu Harshbodhi   | Natural Language Bridge to Legacy Email         | Aman-Negi, Vipin Chaudhary         |
+| Piyush Bhatt  | [Trip Helper App](https://github.com/RocketChat/Apps.Trip.Helper) | Zishan_Ahmad, Yuriko Kikuchi        |
+| Priyanshu Harshbodhi   | [Natural Language Bridge to Legacy Email](https://github.com/RocketChat/Apps.EmailBridgeNLP)         | Aman-Negi, Vipin Chaudhary         |
 | Thotsem Jajo| Messages Scheduling | Abhinav.Kumar, Ricardo Garim      |
-| Abir Chakraborty| Server Guide Agent |Gabriel Casals, Jeffrey Yu               |
+| Abir Chakraborty| [Server Guide Agent](https://github.com/RocketChat/AI_Server_Guide) |Gabriel Casals, Jeffrey Yu               |
 | Ahmed Nasser | Convert endpoints to new Pattern | Guilherme Gazzo, Matheus Cardoso        |
 | Andro Ranogajec|End to End Encrypted Message Handling for Ruqola   | Aaron Ogle, montel laurent   |
 | Anxhul10 | Implement visual regression testing | 	Douglas Fabris, Guilherme Gazzo   |
