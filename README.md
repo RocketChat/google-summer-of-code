@@ -2,7 +2,7 @@
 
 [![Google Summer of Code 2017](https://github.com/Sing-Li/bbug/raw/master/images/gsoclogo.jpg)](https://developers.google.com/open-source/gsoc/)
 
-Rocket.Chat is proud to be a mentoring organization in the [ Google Summer of Code ](https://summerofcode.withgoogle.com/) (GSoC) program for the past eight years. We are excited to have you join our community of contributors.
+Rocket.Chat is proud to be a mentoring organization in the [ Google Summer of Code ](https://summerofcode.withgoogle.com/) (GSoC) program for the past nine years. We are excited to have you join our community of contributors.
 
 As a Rocket.Chat community contributor, you will have an opportunity to work on exciting projects, fixes, or features of your own choosing with expert guidance and support from our ethusiastic community mentor(s). You'll also be networking with global open source developers and contributors and possibly learn new skills and technologies.
 
@@ -14,8 +14,9 @@ If you are looking for specific information for a particular Google Summer of Co
 
 | GSoC Season  |  Information |
 |-------|--------------|
-| 2025 | [Google Summer of Code 2025](google-summer-of-code-2025.md) |
-| 2024 | [Google Summer of Code 2024](google-summer-of-code-2024.md) |
+| 2026| [Google Summer of Code 2026](google-summer-of-code-2026.md) |
+| 2025| [Google Summer of Code 2025](google-summer-of-code-2025.md) |
+| 2024| [Google Summer of Code 2024](google-summer-of-code-2024.md) |
 | 2023|  [Google Summer of Code 2023](google-summer-of-code-2023.md) |
 | 2022|  [Google Summer of Code 2022](google-summer-of-code-2022.md) |
 | 2021|  [Google Summer of Code 2021](google-summer-of-code-2021.md) |
