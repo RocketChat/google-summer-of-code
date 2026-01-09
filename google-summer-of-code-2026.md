@@ -38,6 +38,10 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 
 ### **Latest update**
 
+
+As of **January 8, 2026**  we have welcomed *470* open source contributors from all over the world, new to Rocket.Chat, to join us for preparation of GSoC 2026 in our [community channel](https://open.rocket.chat/channel/opensource2026).  We want to thank everyone for their interest and ethusiasm on open source, and looking forward to meet everyone at our tea time on Fridays.
+
+
 As of **December 7, 2025**  we started to welcome open source contributors from all over the world, new to Rocket.Chat, to join us for preparation of GSoC 2026 in our [community channel](https://open.rocket.chat/channel/opensource2026).
 
 ## 📂 Project Ideas   (place holders only at this time)
