@@ -22,7 +22,7 @@ For details and rules of Google Summer of Code 2026, please see the [GSoC 2026 O
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2026 : [https://open.rocket.chat/channel/opensource2026](https://open.rocket.chat/channel/opensource2026)
 
-Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) today, introduce yourself to the friendly community, and interact with over **20 like-minded** contributors/mentors (as of December 7, 2025) and meet the team in the [12+ team channels](https://open.rocket.chat/channel/opensource2026/team-channels).
+Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) today, introduce yourself to the friendly community, and interact with over **470 like-minded** contributors/mentors (as of December 7, 2025) and meet the team in the [12+ team channels](https://open.rocket.chat/channel/opensource2026/team-channels).
 
 Interested contributors are also encouraged to interact directly with our team and community on the team channels:
 
