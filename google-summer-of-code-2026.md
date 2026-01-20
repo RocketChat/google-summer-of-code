@@ -4,7 +4,7 @@
 
 ## How to apply
 
-Rocket.Chat intends to apply as a mentoring open source organization for Google Summer of Code 2026.  See [official Google Summer of Code site](https://summerofcode.withgoogle.com/).
+Rocket.Chat applied as a mentoring open source organization for Google Summer of Code 2026.  See [official Google Summer of Code site](https://summerofcode.withgoogle.com/).
 
 Rocket.Chat is always proud to be involved with the Google Summer of Code program, helping to usher in a new generation of global open source contributors and enthusiasts.
 
@@ -44,7 +44,9 @@ As of **January 8, 2026**  we have welcomed *470* open source contributors from 
 
 As of **December 7, 2025**  we started to welcome open source contributors from all over the world, new to Rocket.Chat, to join us for preparation of GSoC 2026 in our [community channel](https://open.rocket.chat/channel/opensource2026).
 
-## 📂 Project Ideas   (place holders only at this time)
+## 📂 Project Ideas   
+
+(place holders only at this time and will be updated shortly)
 
 ### 💡 Integration of high performance open source purecpp RAG Pipeline 
 
