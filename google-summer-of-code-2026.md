@@ -37,7 +37,7 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 ---
 
 ### **Latest update**
-As of **January 27, 2026**  we have welcomed *638* open source contributors from all over the world, new to Rocket.Chat, to join us for preparation of GSoC 2026 in our [community channel](https://open.rocket.chat/channel/opensource2026).  We have released an initial 2026 idea lists and are now talking with mentors (many returning former GSoC participants) on expanding the list with interesting projects   Thanks to everyone for their interest and ethusiasm on open source, and looking forward to meet everyone at our tea time on Fridays.
+As of **January 27, 2026**  we have welcomed *638* open source contributors from all over the world, new to Rocket.Chat, to join us for preparation of GSoC 2026 in our [community channel](https://open.rocket.chat/channel/opensource2026).  We have released an initial [2026 ideas list](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2026.md#-project-ideas) and are now talking with mentors (many returning former GSoC participants) on expanding the list with interesting projects   Thanks to everyone for their interest and ethusiasm on open source, and looking forward to meet everyone at our tea time on Fridays.
 
 As of **January 8, 2026**  we have welcomed *470* open source contributors from all over the world, new to Rocket.Chat, to join us for preparation of GSoC 2026 in our [community channel](https://open.rocket.chat/channel/opensource2026).  We want to thank everyone for their interest and ethusiasm on open source, and looking forward to meet everyone at our tea time on Fridays.
 
