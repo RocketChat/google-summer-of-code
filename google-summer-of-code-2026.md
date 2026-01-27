@@ -102,3 +102,332 @@ Visual regression testing is a technique that allows us to test the visual appea
 📈 **Difficulty:** Intermediate
 
 ---
+
+### Project name: Activity Hub
+Mentor: Pierre Lehnen + Milton
+Overview: Build a new screen on the rocket.chat client  where users can see a history of their recent notifications and mentions, with options to manually remove items from this history or to clear the whole history at any time. Additionally, show a list of all of the user’s starred messages from every channel.
+
+Goal: Make it easier for users to keep track of recent messages or messages that they have already read but still want to keep a reference to for quick access in the near future.
+Desired Skills: React, Typescript (Backend and Frontend)
+Project Estimate Duration: 175 hours
+Difficulty: Medium
+
+---
+
+### AI-Based Regression Test Selector
+Mentor: Harmeet Kour + Felipe Scuciatto
+Overview: Build an AI-powered system that automatically selects the most relevant and effective regression test cases for each release, instead of running the entire regression suite every time.
+Goal: This helps teams reduce execution time, lower CI load, and still maintain high confidence in product quality.
+
+---
+## 📂 Project Ideas
+
+(place holders only at this time and will be updated shortly)
+
+---
+
+### 💡 Room Header Buttons Ordering
+
+👥 **Mentor(s):** Milton + TBD  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Implement a configurable layout engine for the room header that allows administrators to explicitly define the display order of action buttons. This enables pinning high priority actions directly in the main toolbar while organizing secondary actions in the overflow (ellipsis) menu based on organizational needs.
+
+💪 **Desired Skills:**  
+- React  
+- TypeScript  
+- UI layout systems  
+
+🎯 **Goals/Deliverables:**  
+- Reduce UI clutter in room headers  
+- Surface high priority actions more effectively  
+- Improve user efficiency  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Ephemeral Messages
+
+👥 **Mentor(s):** Milton + TBD  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+A feature enabling users to send self destructing messages that automatically and permanently delete themselves from chat history and the server after a specified duration or once viewed by the recipient.
+
+💪 **Desired Skills:**  
+- Node.js  
+- Message lifecycle management  
+- Security and privacy concepts  
+
+🎯 **Goals/Deliverables:**  
+- Time based and view based message expiration  
+- Improved privacy for sensitive data sharing  
+- Reduced long term chat clutter  
+
+⏳ **Project Duration:**  
+350 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Sidebar Custom Grouping
+
+👥 **Mentor(s):** Milton + TBD  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Allow users to create custom, collapsible folders or sections in the sidebar to manually organize channels, direct messages, and other conversations.
+
+💪 **Desired Skills:**  
+- React  
+- TypeScript  
+- UX focused feature design  
+
+🎯 **Goals/Deliverables:**  
+- Better workspace navigation  
+- Reduced information overload  
+- User controlled prioritization  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Personal Calendar
+
+👥 **Mentor(s):** Pierre Lehnen + TBD  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Create a new interface that allows users to view and manage their personal Rocket.Chat calendar directly within the product, expanding and integrating the existing backend calendar system.
+
+💪 **Desired Skills:**  
+- React  
+- TypeScript  
+- Frontend focused development  
+
+🎯 **Goals/Deliverables:**  
+- Manage calendar events inside Rocket.Chat  
+- Support internal and optional external calendars  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Desktop App: Multiple Conversation Tabs
+
+👥 **Mentor(s):** Felipe Scuciatto, Jean Brito  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Enhance the Rocket.Chat Electron desktop app by introducing multi conversation tab support, allowing users to open and manage multiple channels, DMs, or threads simultaneously.
+
+💪 **Desired Skills:**  
+- React  
+- TypeScript  
+- Electron  
+
+🎯 **Goals/Deliverables:**  
+- Tabbed conversation interface  
+- Improved productivity for power users  
+- Reduced friction when switching contexts  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Rebuilding the Jira Integration App for Rocket.Chat
+
+👥 **Mentor(s):** Felipe Scuciatto + TBD  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Rebuild and modernize the Jira integration app for Rocket.Chat, restoring a critical productivity feature that enables users to work with Jira issues directly from chat.
+
+💪 **Desired Skills:**  
+- Rocket.Chat Apps Engine  
+- TypeScript  
+
+🎯 **Goals/Deliverables:**  
+- Fully functional Jira Marketplace app  
+- Issue interaction inside Rocket.Chat  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Agenda Jobs Admin Page
+
+👥 **Mentor(s):** Douglas Gubert, Kevin Aleman  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Create an admin interface to visualize and manage all Agenda scheduled jobs, including execution history, failures, and administrative actions.
+
+💪 **Desired Skills:**  
+- React  
+- TypeScript  
+- Node.js  
+- MongoDB  
+
+🎯 **Goals/Deliverables:**  
+- Admin UI for scheduled jobs  
+- Failure visibility and execution history  
+- Quick administrative actions  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Apps Engine Test Framework for Apps
+
+👥 **Mentor(s):** Douglas Gubert  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Introduce a test framework for Rocket.Chat Apps Engine to simplify unit and integration testing by providing standardized mocks and scaffolding.
+
+💪 **Desired Skills:**  
+- TypeScript  
+- Node.js  
+
+🎯 **Goals/Deliverables:**  
+- Improved testing experience for app developers  
+- Standardized testing utilities  
+- Support for integration tests  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Refactor Virtualized Lists to Use TanStack Virtual
+
+👥 **Mentor(s):** Martin Bicca Schoeler, Douglas Fabris  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Replace existing Virtuoso based virtual lists with a standardized implementation using TanStack Virtual, ensuring consistent behavior and performance.
+
+💪 **Desired Skills:**  
+- React  
+- TypeScript  
+- Jest or Playwright  
+
+🎯 **Goals/Deliverables:**  
+- Refactor all virtual list implementations  
+- Maintain feature parity with tests  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Warning and Reporting for Login Attempts from Inactive or Deactivated Users
+
+👥 **Mentor(s):** Gabriel Casals + TBD  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Detect and report authentication attempts from inactive (180+ days) or deactivated user accounts, generating real time alerts and periodic risk reports for administrators.
+
+💪 **Desired Skills:**  
+- Node.js  
+- Authentication and authorization systems  
+- Security and audit logging  
+
+🎯 **Goals/Deliverables:**  
+- Detection of suspicious login attempts  
+- Admin alerts and risk reports  
+- Audit and compliance support  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 New Users Anti Spammer System
+
+👥 **Mentor(s):** Gabriel Casals + TBD  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Build an AI assisted system that monitors new users during their first 6 to 10 weeks, detecting spam patterns and suspicious behavior to protect communities and reduce manual moderation.
+
+💪 **Desired Skills:**  
+- Node.js  
+- Rule based or ML detection systems  
+- Trust and safety concepts  
+
+🎯 **Goals/Deliverables:**  
+- Behavioral analysis of new users  
+- Automated moderation actions  
+- Daily risk scoring and reporting  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Required Role per Channel for Membership Control
+
+👥 **Mentor(s):** Gabriel Casals + TBD  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Introduce channel level RBAC by allowing admins or channel leads to define a required role for channel membership. Users without the role cannot be added and receive a clear error message.
+
+💪 **Desired Skills:**  
+- Node.js  
+- MongoDB  
+- Authorization and RBAC concepts  
+
+🎯 **Goals/Deliverables:**  
+- Channel level required role configuration  
+- Enforcement on membership flows  
+- Audit logs and admin UI  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
