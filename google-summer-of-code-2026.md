@@ -355,19 +355,36 @@ Introduce channel level RBAC by allowing admins or channel leads to define a req
 Medium  
 
 ---
+### 💡 Activity Hub
 
-### Project name: Activity Hub
-Mentor: Pierre Lehnen + Milton
-Overview: Build a new screen on the rocket.chat client  where users can see a history of their recent notifications and mentions, with options to manually remove items from this history or to clear the whole history at any time. Additionally, show a list of all of the user’s starred messages from every channel.
+👥 **Mentor(s):** Pierre Lehnen + Milton 
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
-Goal: Make it easier for users to keep track of recent messages or messages that they have already read but still want to keep a reference to for quick access in the near future.
-Desired Skills: React, Typescript (Backend and Frontend)
-Project Estimate Duration: 175 hours
-Difficulty: Medium
+💬 **Description:**  
+Build a new screen on the rocket.chat client  where users can see a history of their recent notifications and mentions, with options to manually remove items from this history or to clear the whole history at any time. Additionally, show a list of all of the user’s starred messages from every channel.
+
+💪 **Desired Skills:**  
+- React
+- Typescript (Backend and Frontend)
+
+🎯 **Goals/Deliverables:**  
+Make it easier for users to keep track of recent messages or messages that they have already read but still want to keep a reference to for quick access in the near future.
+
+⏳ **Project Duration:**  
+175 hours
+
+📈 **Difficulty:** 
+Medium
 
 ---
 
-### AI-Based Regression Test Selector
-Mentor: Harmeet Kour + Felipe Scuciatto
-Overview: Build an AI-powered system that automatically selects the most relevant and effective regression test cases for each release, instead of running the entire regression suite every time.
-Goal: This helps teams reduce execution time, lower CI load, and still maintain high confidence in product quality.
+### 💡 (Draft in-progress) AI-Based Regression Test Selector
+
+👥 **Mentor(s):** Harmeet Kour + Felipe Scuciatto
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**   
+Build an AI-powered system that automatically selects the most relevant and effective regression test cases for each release, instead of running the entire regression suite every time.
+
+🎯 **Goals/Deliverables:** 
+This helps teams reduce execution time, lower CI load, and still maintain high confidence in product quality.
