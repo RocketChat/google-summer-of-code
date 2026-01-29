@@ -74,6 +74,32 @@ Medium
 
 ---
 
+### 💡 AI Generated Regression Test Suite for Desktop (Electron) App
+
+👥 **Mentor(s):**  Harmeet Kour,  Jessica Souza
+
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**   
+In this project, the contributor will build a full coverage test suite for our Desktop (Electron) App with the help of the latest available open source mainstream AI code generation tooling (Gemini cli or OpenCode). Mentors will help in scoping the coverage and enumeration of the essential cases, as well as guiding for best practices in test suite creation, CI integration, and QA in general. 
+
+🎯 **Goals/Deliverables:** 
+Our Desktop App (Electron) project is currently in need of a full coverage test suite.  This will add the essential test suite to ensure the project's maintainability and long term stability. 
+
+💪 **Desired Skills:**  
+- Electron and JavaScript
+- Familiarity with our Desktop App and TypeScript development
+- Must already be experienced with mainstream open source (AI) code generation technology
+
+⏳ **Project Duration:**  
+175 hours
+
+📈 **Difficulty:** 
+Medium
+
+-----
+
+
 ### 💡 Desktop App: Multiple Conversation Tabs
 
 👥 **Mentor(s):** Felipe Scuciatto, Jean Brito  
@@ -378,14 +404,3 @@ Make it easier for users to keep track of recent messages or messages that they 
 Medium
 
 ---
-
-### 💡 (Draft in-progress) AI-Based Regression Test Selector
-
-👥 **Mentor(s):** Harmeet Kour + Felipe Scuciatto
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**   
-Build an AI-powered system that automatically selects the most relevant and effective regression test cases for each release, instead of running the entire regression suite every time.
-
-🎯 **Goals/Deliverables:** 
-This helps teams reduce execution time, lower CI load, and still maintain high confidence in product quality.
