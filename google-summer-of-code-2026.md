@@ -48,6 +48,135 @@ As of **December 7, 2025**  we started to welcome open source contributors from 
 
 (This list is going through some rapid changes as mentors and community members discuss content and approaches to realize them within the GSoC timeframe.)
 
+
+### 💡 Refactor Virtualized Lists to Use TanStack Virtual
+
+👥 **Mentor(s):** Martin Bicca Schoeler, Douglas Fabris  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Replace existing Virtuoso based virtual lists with a standardized implementation using TanStack Virtual, ensuring consistent behavior and performance.
+
+💪 **Desired Skills:**  
+- React  
+- TypeScript  
+- Jest or Playwright  
+
+🎯 **Goals/Deliverables:**  
+- Refactor all virtual list implementations  
+- Maintain feature parity with tests  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Desktop App: Multiple Conversation Tabs
+
+👥 **Mentor(s):** Felipe Scuciatto, Jean Brito  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Enhance the Rocket.Chat Electron desktop app by introducing multi conversation tab support, allowing users to open and manage multiple channels, DMs, or threads simultaneously.
+
+💪 **Desired Skills:**  
+- React  
+- TypeScript  
+- Electron  
+
+🎯 **Goals/Deliverables:**  
+- Tabbed conversation interface  
+- Improved productivity for power users  
+- Reduced friction when switching contexts  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Agenda Jobs Admin Page
+
+👥 **Mentor(s):**  Kevin Aleman, Douglas Gubert
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Create an admin interface to visualize and manage all Agenda scheduled jobs, including execution history, failures, and administrative actions.
+
+💪 **Desired Skills:**  
+- React  
+- TypeScript  
+- Node.js  
+- MongoDB  
+
+🎯 **Goals/Deliverables:**  
+- Admin UI for scheduled jobs  
+- Failure visibility and execution history  
+- Quick administrative actions  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Personal Calendar
+
+👥 **Mentor(s):** Pierre Lehnen
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Create a new interface that allows users to view and manage their personal Rocket.Chat calendar directly within the product, expanding and integrating the existing backend calendar system.
+
+💪 **Desired Skills:**  
+- React  
+- TypeScript  
+- Frontend focused development  
+
+🎯 **Goals/Deliverables:**  
+- Manage calendar events inside Rocket.Chat  
+- Support internal and optional external calendars  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Apps Engine Test Framework for Apps
+
+👥 **Mentor(s):** Douglas Gubert  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Introduce a test framework for Rocket.Chat Apps Engine to simplify unit and integration testing by providing standardized mocks and scaffolding.
+
+💪 **Desired Skills:**  
+- TypeScript  
+- Node.js  
+
+🎯 **Goals/Deliverables:**  
+- Improved testing experience for app developers  
+- Standardized testing utilities  
+- Support for integration tests  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
 ### 💡 Room Header Buttons Ordering
 
 👥 **Mentor(s):** Milton + TBD  
@@ -126,57 +255,6 @@ Medium
 
 ---
 
-### 💡 Personal Calendar
-
-👥 **Mentor(s):** Pierre Lehnen + TBD  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-Create a new interface that allows users to view and manage their personal Rocket.Chat calendar directly within the product, expanding and integrating the existing backend calendar system.
-
-💪 **Desired Skills:**  
-- React  
-- TypeScript  
-- Frontend focused development  
-
-🎯 **Goals/Deliverables:**  
-- Manage calendar events inside Rocket.Chat  
-- Support internal and optional external calendars  
-
-⏳ **Project Duration:**  
-175 hours  
-
-📈 **Difficulty:**  
-Medium  
-
----
-
-### 💡 Desktop App: Multiple Conversation Tabs
-
-👥 **Mentor(s):** Felipe Scuciatto, Jean Brito  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-Enhance the Rocket.Chat Electron desktop app by introducing multi conversation tab support, allowing users to open and manage multiple channels, DMs, or threads simultaneously.
-
-💪 **Desired Skills:**  
-- React  
-- TypeScript  
-- Electron  
-
-🎯 **Goals/Deliverables:**  
-- Tabbed conversation interface  
-- Improved productivity for power users  
-- Reduced friction when switching contexts  
-
-⏳ **Project Duration:**  
-175 hours  
-
-📈 **Difficulty:**  
-Medium  
-
----
-
 ### 💡 Rebuilding the Jira Integration App for Rocket.Chat
 
 👥 **Mentor(s):** Felipe Scuciatto + TBD  
@@ -192,83 +270,6 @@ Rebuild and modernize the Jira integration app for Rocket.Chat, restoring a crit
 🎯 **Goals/Deliverables:**  
 - Fully functional Jira Marketplace app  
 - Issue interaction inside Rocket.Chat  
-
-⏳ **Project Duration:**  
-175 hours  
-
-📈 **Difficulty:**  
-Medium  
-
----
-
-### 💡 Agenda Jobs Admin Page
-
-👥 **Mentor(s):** Douglas Gubert, Kevin Aleman  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-Create an admin interface to visualize and manage all Agenda scheduled jobs, including execution history, failures, and administrative actions.
-
-💪 **Desired Skills:**  
-- React  
-- TypeScript  
-- Node.js  
-- MongoDB  
-
-🎯 **Goals/Deliverables:**  
-- Admin UI for scheduled jobs  
-- Failure visibility and execution history  
-- Quick administrative actions  
-
-⏳ **Project Duration:**  
-175 hours  
-
-📈 **Difficulty:**  
-Medium  
-
----
-
-### 💡 Apps Engine Test Framework for Apps
-
-👥 **Mentor(s):** Douglas Gubert  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-Introduce a test framework for Rocket.Chat Apps Engine to simplify unit and integration testing by providing standardized mocks and scaffolding.
-
-💪 **Desired Skills:**  
-- TypeScript  
-- Node.js  
-
-🎯 **Goals/Deliverables:**  
-- Improved testing experience for app developers  
-- Standardized testing utilities  
-- Support for integration tests  
-
-⏳ **Project Duration:**  
-175 hours  
-
-📈 **Difficulty:**  
-Medium  
-
----
-
-### 💡 Refactor Virtualized Lists to Use TanStack Virtual
-
-👥 **Mentor(s):** Martin Bicca Schoeler, Douglas Fabris  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-Replace existing Virtuoso based virtual lists with a standardized implementation using TanStack Virtual, ensuring consistent behavior and performance.
-
-💪 **Desired Skills:**  
-- React  
-- TypeScript  
-- Jest or Playwright  
-
-🎯 **Goals/Deliverables:**  
-- Refactor all virtual list implementations  
-- Maintain feature parity with tests  
 
 ⏳ **Project Duration:**  
 175 hours  
