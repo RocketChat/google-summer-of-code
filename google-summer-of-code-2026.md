@@ -436,38 +436,6 @@ Medium
 
 ---
 
-### 💡 Apple Watch Quick Replies
-
-👥 **Mentor(s):** TBD  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-Introduce support for configurable quick replies for the Apple Watch app to enable faster message responses.
-
-💪 **Desired Skills:**  
-- React Native
-- TypeScript
-- Native iOS modules
-- watchOS (Swift / SwiftUI)
-
-🎯 **Goals/Deliverables:**  
-- Add Apple Watch section under Admin → Mobile
-- Add Quick replies admin setting
-- Provide default predefined replies
-- Create iOS screen for managing quick replies
-- Allow add / edit / delete / reorder actions
-- Sync quick replies to Apple Watch
-- Display replies below Watch message composer
-- Enable instant one-tap replies
-
-⏳ **Project Duration:**  
-90 hours  
-
-📈 **Difficulty:**  
-Small
-
----
-
 💡 Notifications Improvements
 
 👥 **Mentor(s):** TBD  
