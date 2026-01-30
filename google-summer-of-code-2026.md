@@ -404,35 +404,6 @@ Make it easier for users to keep track of recent messages or messages that they 
 Medium
 
 ---
-Yes, there are a few high-value improvements you can make to the proposal to ensure it attracts high-quality candidates and results in a production-ready artifact.
-
-### Recommended Improvements
-
-1. **Add Fuzz Testing (Property-Based Testing):**
-Parsers are notorious for crashing on edge-case inputs (e.g., deeply nested emoji, malformed URLs). Standard unit tests often miss these. Requiring **fuzz testing** (using tools like `fast-check`) ensures the new parser is robust and won't crash the UI.
-2. **Focus on Extensibility:**
-One of the biggest pain points with the current `grammar.pegjs` is how difficult it is to add new syntax (e.g., adding a new type of mention). Explicitly asking for an architecture that is **modular or extensible** will save the team headaches in the future.
-3. **Bundle Size Metric:**
-Generated parsers (like those from Peggy) can be quite large in bundle size. A hand-written parser is often much smaller. Adding **bundle size reduction** as a goal makes the project even more valuable for the frontend performance.
-
-Here is the fully polished version with these improvements incorporated:
-
----
-
-Yes, there are a few high-value improvements you can make to the proposal to ensure it attracts high-quality candidates and results in a production-ready artifact.
-
-### Recommended Improvements
-
-1. **Add Fuzz Testing (Property-Based Testing):**
-Parsers are notorious for crashing on edge-case inputs (e.g., deeply nested emoji, malformed URLs). Standard unit tests often miss these. Requiring **fuzz testing** (using tools like `fast-check`) ensures the new parser is robust and won't crash the UI.
-2. **Focus on Extensibility:**
-One of the biggest pain points with the current `grammar.pegjs` is how difficult it is to add new syntax (e.g., adding a new type of mention). Explicitly asking for an architecture that is **modular or extensible** will save the team headaches in the future.
-3. **Bundle Size Metric:**
-Generated parsers (like those from Peggy) can be quite large in bundle size. A hand-written parser is often much smaller. Adding **bundle size reduction** as a goal makes the project even more valuable for the frontend performance.
-
-Here is the fully polished version with these improvements incorporated:
-
----
 
 ### 💡 High-Performance Message Parser Rewrite
 
