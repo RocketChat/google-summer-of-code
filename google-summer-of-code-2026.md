@@ -404,3 +404,63 @@ Make it easier for users to keep track of recent messages or messages that they 
 Medium
 
 ---
+Yes, there are a few high-value improvements you can make to the proposal to ensure it attracts high-quality candidates and results in a production-ready artifact.
+
+### Recommended Improvements
+
+1. **Add Fuzz Testing (Property-Based Testing):**
+Parsers are notorious for crashing on edge-case inputs (e.g., deeply nested emoji, malformed URLs). Standard unit tests often miss these. Requiring **fuzz testing** (using tools like `fast-check`) ensures the new parser is robust and won't crash the UI.
+2. **Focus on Extensibility:**
+One of the biggest pain points with the current `grammar.pegjs` is how difficult it is to add new syntax (e.g., adding a new type of mention). Explicitly asking for an architecture that is **modular or extensible** will save the team headaches in the future.
+3. **Bundle Size Metric:**
+Generated parsers (like those from Peggy) can be quite large in bundle size. A hand-written parser is often much smaller. Adding **bundle size reduction** as a goal makes the project even more valuable for the frontend performance.
+
+Here is the fully polished version with these improvements incorporated:
+
+---
+
+Yes, there are a few high-value improvements you can make to the proposal to ensure it attracts high-quality candidates and results in a production-ready artifact.
+
+### Recommended Improvements
+
+1. **Add Fuzz Testing (Property-Based Testing):**
+Parsers are notorious for crashing on edge-case inputs (e.g., deeply nested emoji, malformed URLs). Standard unit tests often miss these. Requiring **fuzz testing** (using tools like `fast-check`) ensures the new parser is robust and won't crash the UI.
+2. **Focus on Extensibility:**
+One of the biggest pain points with the current `grammar.pegjs` is how difficult it is to add new syntax (e.g., adding a new type of mention). Explicitly asking for an architecture that is **modular or extensible** will save the team headaches in the future.
+3. **Bundle Size Metric:**
+Generated parsers (like those from Peggy) can be quite large in bundle size. A hand-written parser is often much smaller. Adding **bundle size reduction** as a goal makes the project even more valuable for the frontend performance.
+
+Here is the fully polished version with these improvements incorporated:
+
+---
+
+### 💡 High-Performance Message Parser Rewrite
+
+👥 **Mentor(s):** Matheus Cardoso
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace
+
+💬 **Description:**
+The current Rocket.Chat [message parser](https://github.com/RocketChat/Rocket.Chat/tree/develop/packages/message-parser) relies on [PeggyJS](https://github.com/peggyjs/peggy) (formerly [PEG.js](https://github.com/pegjs/pegjs)). While effective, the generated parser creates performance bottlenecks and adds significant bundle size overhead.
+The goal of this project is to replace the PeggyJS-generated parser with a highly optimized, hand-written TypeScript implementation (or using a toolkit like [Chevrotain](https://github.com/Chevrotain/chevrotain). The new implementation must produce the exact same Abstract Syntax Tree (AST) structure as the current one but with a focus on **speed**, **type safety**, and **modularity**.
+
+💪 **Desired Skills:**
+
+* TypeScript
+* Algorithms & Data Structures (Context-Free Grammars, Recursive Descent)
+* Performance Profiling & Benchmarking
+* Property-based Testing (e.g., fast-check)
+
+🎯 **Goals/Deliverables:**
+
+* **Core Implementation:** A functional, drop-in replacement parser in pure TypeScript.
+* **100% Parity:** Pass all existing unit tests (`message-parser/tests/*.test.ts`) to guarantee backward compatibility.
+* **Robustness:** Implement **Fuzz Testing** (property-based testing) to ensure the parser handles edge cases and malformed inputs without crashing.
+* **Performance:** Create a benchmark suite demonstrating significant improvements in **ops/sec** and a reduction in **bundle size**.
+
+⏳ **Project Duration:**
+175 hours
+
+📈 **Difficulty:**
+Medium
+
+---
