@@ -404,3 +404,34 @@ Make it easier for users to keep track of recent messages or messages that they 
 Medium
 
 ---
+
+### 💡 High-Performance Message Parser Rewrite
+
+👥 **Mentor(s):** Matheus Cardoso
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace
+
+💬 **Description:**
+The current Rocket.Chat [message parser](https://github.com/RocketChat/Rocket.Chat/tree/develop/packages/message-parser) relies on [PeggyJS](https://github.com/peggyjs/peggy) (formerly [PEG.js](https://github.com/pegjs/pegjs)). While effective, the generated parser creates performance bottlenecks and adds significant bundle size overhead.
+The goal of this project is to replace the PeggyJS-generated parser with a highly optimized, hand-written TypeScript implementation (or using a toolkit like [Chevrotain](https://github.com/Chevrotain/chevrotain). The new implementation must produce the exact same Abstract Syntax Tree (AST) structure as the current one but with a focus on **speed**, **type safety**, and **modularity**.
+
+💪 **Desired Skills:**
+
+* TypeScript
+* Algorithms & Data Structures (Context-Free Grammars, Recursive Descent)
+* Performance Profiling & Benchmarking
+* Property-based Testing (e.g., fast-check)
+
+🎯 **Goals/Deliverables:**
+
+* **Core Implementation:** A functional, drop-in replacement parser in pure TypeScript.
+* **100% Parity:** Pass all existing unit tests (`message-parser/tests/*.test.ts`) to guarantee backward compatibility.
+* **Robustness:** Implement **Fuzz Testing** (property-based testing) to ensure the parser handles edge cases and malformed inputs without crashing.
+* **Performance:** Create a benchmark suite demonstrating significant improvements in **ops/sec** and a reduction in **bundle size**.
+
+⏳ **Project Duration:**
+175 hours
+
+📈 **Difficulty:**
+Medium
+
+---
