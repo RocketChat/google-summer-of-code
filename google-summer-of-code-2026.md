@@ -131,7 +131,7 @@ Medium
 
 ### 💡 Activity Hub
 
-👥 **Mentor(s):** Pierre Lehnen, Milton Rucks 
+👥 **Mentor(s):** Pierre Lehnen, Milton Rucks  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
 💬 **Description:**  
@@ -154,7 +154,7 @@ Medium
 
 ### 💡 Desktop App: Multiple Conversation Tabs
 
-👥 **Mentor(s):** Jean Brito, Felipe Scuciatto 
+👥 **Mentor(s):** Jean Brito, Felipe Scuciatto  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
 💬 **Description:**  
@@ -207,7 +207,7 @@ Medium
 
 ### 💡 Required Role per Channel for Membership Control
 
-👥 **Mentor(s):** Gabriel Casals + TBD  
+👥 **Mentor(s):** Gabriel Casals  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
 💬 **Description:**  
@@ -308,7 +308,7 @@ Medium
 
 ### 💡 Room Header Buttons Ordering
 
-👥 **Mentor(s):** Milton Rucks, Martin Schoeler
+👥 **Mentor(s):** Milton Rucks, Martin Schoeler  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
 💬 **Description:**  
