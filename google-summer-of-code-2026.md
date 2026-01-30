@@ -436,3 +436,64 @@ Medium
 
 ---
 
+### 💡 Apple Watch Quick Replies
+
+👥 **Mentor(s):** TBD  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Introduce support for configurable quick replies for the Apple Watch app to enable faster message responses.
+
+💪 **Desired Skills:**  
+- React Native
+- TypeScript
+- Native iOS modules
+- watchOS (Swift / SwiftUI)
+
+🎯 **Goals/Deliverables:**  
+- Add Apple Watch section under Admin → Mobile
+- Add Quick replies admin setting
+- Provide default predefined replies
+- Create iOS screen for managing quick replies
+- Allow add / edit / delete / reorder actions
+- Sync quick replies to Apple Watch
+- Display replies below Watch message composer
+- Enable instant one-tap replies
+
+⏳ **Project Duration:**  
+90 hours  
+
+📈 **Difficulty:**  
+Small
+
+---
+
+💡 Notifications Improvements
+
+👥 **Mentor(s):** TBD  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Improve the overall push notification experience on mobile by enhancing notification content, reducing noise, and ensuring outdated notifications are automatically removed from the system Notification Center.
+
+The project focuses on improving clarity, usability, and correctness of notifications across iOS and Android platforms.
+
+💪 **Desired Skills:**  
+- React Native
+- TypeScript
+- Native iOS & Android notification handling
+- Backend API design
+
+🎯 **Goals/Deliverables:**  
+- Display attachments in push notifications where supported
+- Trim reply and quote content in notifications to improve readability
+- Support replying in threads directly from notifications
+- Display thread context in push notification content
+- Reduce notification clutter in the system Notification Center
+- Implement a backend endpoint that receives message IDs, determines their read/unread state and integrates this logic to automatically clear read notifications from the Notification Center
+
+⏳ **Project Duration:**
+175 hours
+
+📈 **Difficulty:**  
+Medium
