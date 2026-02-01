@@ -18,6 +18,8 @@ Most exciting news for the 2026 season is continued focus on ML/AI projects, and
 
 For details and rules of Google Summer of Code 2026, please see the [GSoC 2026 Official Website](https://summerofcode.withgoogle.com/). For timeline, see [Official Google Summer of Code 2026 Timeline](https://developers.google.com/open-source/gsoc/timeline) for more details.
 
+If you intend to use AI to assist you in the creation of your project proposal, please be aware that we will not be accepting any proposals that is directly created by an LLM or Agentic AI tooling.   The proposal must be crafted by you personally (OK to use AI for research, translation, and so on) and you must be ready to defend every line of its content when/if we contact you for a meeting.  You should also be engaged within our community (active on our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026), attend our weekly tea time, take our live workshops, and so on) and have auditable Github activity to increase the probability of your proposal being considered for GSoC 2026.   See [Google's Contributors Guide on using AI tooling in GSoC 2026](https://docs.google.com/document/d/1t9GcIBnNXPNO6klRQvU8pL8-uV6afzLo6JUAM299suA/edit?tab=t.0#heading=h.tgbr0z4x9eg5) for some suggestions.
+
 ### **Contacting Rocket.Chat**
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2026 : [https://open.rocket.chat/channel/opensource2026](https://open.rocket.chat/channel/opensource2026)
@@ -122,7 +124,7 @@ Our Desktop App (Electron) project is currently in need of a full coverage test 
 - Must already be experienced with mainstream open source (AI) code generation technology
 
 ⏳ **Project Duration:**  
-175 hours
+90 hours
 
 📈 **Difficulty:** 
 Medium
@@ -203,7 +205,7 @@ Enhance the Rocket.Chat Electron desktop app by introducing multi conversation t
 - Reduced friction when switching contexts  
 
 ⏳ **Project Duration:**  
-175 hours  
+90 hours  
 
 📈 **Difficulty:**  
 Medium  
@@ -256,7 +258,7 @@ Introduce channel level RBAC by allowing admins or channel leads to define a req
 - Audit logs and admin UI  
 
 ⏳ **Project Duration:**  
-175 hours  
+90 hours  
 
 📈 **Difficulty:**  
 Medium  
@@ -305,7 +307,7 @@ Rebuild and modernize the Jira integration app for Rocket.Chat, restoring a crit
 - Issue interaction inside Rocket.Chat  
 
 ⏳ **Project Duration:**  
-175 hours  
+90 hours  
 
 📈 **Difficulty:**  
 Medium  
@@ -357,7 +359,7 @@ Implement a configurable layout engine for the room header that allows administr
 - Improve user efficiency  
 
 ⏳ **Project Duration:**  
-175 hours  
+90 hours  
 
 📈 **Difficulty:**  
 Medium  
