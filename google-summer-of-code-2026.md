@@ -470,4 +470,36 @@ Medium
 
 ---
 
+### 💡 Embedded Chat 2026
+
+👥 **Mentor(s):** Zishan Ahmad
+
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace
+
+💬 **Description:**
+This project improves EmbeddedChat by keeping it compatible with the latest Rocket.Chat releases, adding support for homeserver and federation features, and introducing a pluggable AI adapter layer. It also focuses on better mobile usability, improved accessibility, and welcoming practical improvements to the overall experience.
+
+💪 **Desired Skills:**
+
+- Strong understanding of Rocket.Chat APIs and SDKs
+- Experience with React.js and Node.js
+- Familiarity with UI design and responsive layouts
+- Interest in accessibility standards and best practices
+- Understanding of AI integrations is a plus
+
+🎯 **Goals/Deliverables:**
+
+
+- Update Rocket.Chat APIs and SDKs, then update React, Node, and related packages to the latest versions so EmbeddedChat works with current Rocket.Chat releases.
+- Upgrade EmbeddedChat for compatibility with Rocket.Chat homeserver capabilities, including Matrix federation and bridged rooms.
+- Add a pluggable adapter to connect EmbeddedChat with local or external AI through an integrator-controlled layer, enabling smart widget features beyond core.
+- Improve EmbeddedChat UI and the native app to achieve better mobile responsiveness.
+- Add WCAG compliance, keyboard navigation, and automated accessibility testing across all components.
+- Welcoming any other creative ideas that improve the project.
+
+⏳ **Project Duration:** 175 hours
+
+📈 **Difficulty:** Medium
+
+---
 
