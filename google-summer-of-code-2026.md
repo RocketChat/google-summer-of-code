@@ -82,6 +82,38 @@ Medium
 
 ---
 
+### 💡 AI Rocket.Chat Apps Generator 
+
+👥 **Mentor(s):**   Dnouv    
+📢 **Communication Channel:**   Rocket.Chat Contributors Workspace   
+
+💬 **Description:**  
+This is a set of extension (or a fork) of open source `gemini-cli` that will facilitate anyone to create/generate their own  Rocket.Chat app with ease. 
+
+The tool must have built-in internal knowledge of the architecture of a Rocket.Chat App, how to build and test an App,  and how to generate ALL the elements that an App can use to interface with the Apps Engine/server (bridged APIs, web hooks, persistence, per-user state management and so on).     
+
+The tool should also be able to generate and maintain tests for the created App.
+
+💪 **Desired Skills:**  
+- Experience with modern code generation cli (Claude Code, OpenCode, OpenAI Codex, gemini-cli and so on )  
+— A passion for creating tooling for AI coding  
+— Familiarity with Rocket.Chat App creation and Apps Engine operation
+- TypeScript development 
+— gemini-cli architecture and extension mechanisms 
+— Prompt engineering
+
+🎯 **Goals/Deliverables:**  
+A very easy to use and understand CLI tool that anyone can use to create, test, and deploy their own custom Rocket.Chat apps. 
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+
 ### 💡 Refactor Virtualized Lists to Use TanStack Virtual
 
 👥 **Mentor(s):** Martin Schoeler, Douglas Fabris  
@@ -98,6 +130,39 @@ Replace existing Virtuoso based virtual lists with a standardized implementation
 🎯 **Goals/Deliverables:**  
 - Refactor all virtual list implementations  
 - Maintain feature parity with tests  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
+### 💡 Rocket.Chat Code Analyzer: agentic inference context reduction mechanics 
+👥 **Mentor(s):**   William Liu  
+📢 **Communication Channel:**   Rocket.Chat Contributors Workspace   
+
+💬 **Description:**  
+Most production codebases are stored in huge revision control repositories (similar to Rocket.Chat) and  are often monorepos that combines the source code of a large number of related subprojects.  
+
+When AI agentic tooling is unleashed on these huge code repositories, it quickly reveals the primitive and wasteful (unoptimized) nature of early tools.    Because LLM inferences are being performed inside a loop where the context of the queries are being built; and the context is constantly increasing in size, query after query.    
+
+This means that repositories as large as Rocket.Chat is often out of reach (of the token/AI-inference budget) for many open source developers.  Even though some AI service providers offer per-session caching and compression (llmlinqua and so on), these are O(n) optimizations that have only nominal impact on the overall project/session cost when large repositories are involved.  
+
+This project explores and implements a class of “domain specific context reduction mechanisms” that can  have exponential impact when working with large code repositories.  These scoping mechanisms are specific to (works only with)  the domain of “code analysis/generation”.  
+
+The project’s code will be an extension or fork of `gemini-cli`,  with the context reduction mechanism added.   It will enable users of `gemini-cli`  to work with (analyze, or generate code based on ) the (known to be huge) Rocket.Chat’s monorepo, all within the budget of the “free tier” inference currently offered by Google.       
+Ideally, the mechanics should be implemented in a re-usable manner, extending its utility to other large codebases and the contributor can contribute it back upstream to `gemini-cli`. 
+
+💪 **Desired Skills:**   
+— A passion for innovations on open source tooling for the age of open source AI  (vibe) coding 
+- Experience with modern code generation cli - Claude Code, OpenCode, OpenAI Codex, gemini-cli and so on
+- Intimate understanding of how  gemini-cli works  — Familiarity with Rocket.Chat’s codebase in our monorepo
+- TypeScript development — Coding with gemini-cli extension mechanisms  — Prompt engineering — Theoretical understanding of agentic systems and LLM inference 
+
+🎯 **Goals/Deliverables:**   
+Tooling that enables open source AI developers to work with huge production code repositories, within industry provider’s free-tier limits; opening access of these great tools to an exponentially larger population of users.    
 
 ⏳ **Project Duration:**  
 175 hours  
@@ -137,6 +202,29 @@ This project improves EmbeddedChat by keeping it compatible with the latest Rock
 ⏳ **Project Duration:** 175 hours
 
 📈 **Difficulty:** Medium
+
+---
+
+### 💡 Replace old Rest Api definitions over the new API
+
+👥 **Mentor(s):**  @diego.sampaio @guilherme.gazzo  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+
+💬 **Description:**  
+The goal of this project is to continue the migration of our REST typings to the new API format.
+This new format not only standardizes API definitions, but also enables automatic generation of OpenAPI documentation directly from the type definitions.
+
+In addition to the typings migration, the project also includes architectural adaptations to support like: A clear separation between route definitions and their corresponding actions/handlers
+
+💪 **Desired Skills:**  
+- Typescript
+
+⏳ **Project Duration:**  
+350 hours  
+
+📈 **Difficulty:**  
+Medium  
 
 ---
 
@@ -500,30 +588,6 @@ Build an AI assisted system that monitors new users during their first 6 to 10 w
 
 📈 **Difficulty:**  
 Medium  
-
----
-
-### 💡 Replace old Rest Api definitions over the new API
-
-👥 **Mentor(s):**  @diego.sampaio @guilherme.gazzo  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-
-💬 **Description:**  
-The goal of this project is to continue the migration of our REST typings to the new API format.
-This new format not only standardizes API definitions, but also enables automatic generation of OpenAPI documentation directly from the type definitions.
-
-In addition to the typings migration, the project also includes architectural adaptations to support like: A clear separation between route definitions and their corresponding actions/handlers
-
-💪 **Desired Skills:**  
-- Typescript
-
-⏳ **Project Duration:**  
-350 hours  
-
-📈 **Difficulty:**  
-Medium  
-
 
 ---
 
