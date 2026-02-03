@@ -523,3 +523,32 @@ In addition to the typings migration, the project also includes architectural ad
 
 📈 **Difficulty:**  
 Medium  
+
+
+---
+
+### 💡 Tamagui-Based Refactor of Fuselage Components: Bundle Size and Performance Analysis
+
+👥 **Mentor(s):** TBD
+
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+
+This project focuses on refactoring the core Fuselage components to be built on top of the Tamagui library.
+Once the Tamagui-based components are implemented, a comparative evaluation will be conducted against the current implementation, taking into account:
+
+- Generated bundle size
+- Runtime performance
+
+From a visual standpoint, the components should not present any discrepancies, preserving the same appearance and behavior as the existing components.
+Additionally, the Tamagui implementation must continue to use the existing design tokens, ensuring visual consistency and alignment with the current design system.
+
+💪 **Desired Skills:**  
+- Typescript
+
+⏳ **Project Duration:**  
+350 hours  
+
+📈 **Difficulty:**  
+Medium  
