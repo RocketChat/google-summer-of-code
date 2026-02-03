@@ -48,7 +48,7 @@ As of **December 7, 2025**  we started to welcome open source contributors from 
 
 ## 📂 Project Ideas   
 
-(This list is going through some rapid changes as mentors and community members discuss content and approaches to realize them within the GSoC timeframe.)
+(This list is going through some rapid changes as we work with mentors to fully flesh out the project ideas.)
 
 
 ### 💡 High-Performance Message Parser Rewrite
