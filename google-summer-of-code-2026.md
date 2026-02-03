@@ -503,3 +503,23 @@ Medium
 
 ---
 
+### 💡 Replace old Rest Api definitions over the new API
+
+👥 **Mentor(s):**  @diego.sampaio @guilherme.gazzo  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+
+💬 **Description:**  
+The goal of this project is to continue the migration of our REST typings to the new API format.
+This new format not only standardizes API definitions, but also enables automatic generation of OpenAPI documentation directly from the type definitions.
+
+In addition to the typings migration, the project also includes architectural adaptations to support like: A clear separation between route definitions and their corresponding actions/handlers
+
+💪 **Desired Skills:**  
+- Typescript
+
+⏳ **Project Duration:**  
+350 hours  
+
+📈 **Difficulty:**  
+Medium  
