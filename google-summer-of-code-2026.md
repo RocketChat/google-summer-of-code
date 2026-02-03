@@ -252,7 +252,7 @@ Medium
 
 -----
 
-💡 Mobile Apps: Notifications Improvements
+### 💡 Mobile Apps: Notifications Improvements
 
 👥 **Mentor(s):** Rohit Bansal  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
