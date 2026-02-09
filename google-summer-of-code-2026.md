@@ -321,7 +321,7 @@ Medium
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
 💬 **Description:**  
-Allow the creation new mentions targetting a specific set of users on admin panel.
+Allow the creation of new mentions targetting a specific set of users.
 This is very useful when you need to notify a group of people, but don't want to use `@all` or `@here`.
 While this can be technically achieved using teams feature, it's a little bit too much work for a simple communication win.
 
