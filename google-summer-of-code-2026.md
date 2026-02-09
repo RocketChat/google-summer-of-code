@@ -254,7 +254,7 @@ Medium
 
 ### 💡 Mobile Apps: Notifications Improvements
 
-👥 **Mentor(s):** Rohit Bansal  
+👥 **Mentor(s):** Diego Mello, Rohit Bansal  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
 💬 **Description:**  
@@ -275,6 +275,69 @@ The project focuses on improving clarity, usability, and correctness of notifica
 - Display thread context in push notification content
 - Reduce notification clutter in the system Notification Center
 - Implement a backend endpoint that receives message IDs, determines their read/unread state and integrates this logic to automatically clear read notifications from the Notification Center
+
+⏳ **Project Duration:**
+175 hours
+
+📈 **Difficulty:**  
+Medium
+
+-----
+
+### 💡 Mobile Apps: Use bottom tabs navigation
+
+👥 **Mentor(s):** Diego Mello
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+We're currently using sidebar navigation on the app, but we have plans to apply bottom tabs navigation to improve UX.
+
+💪 **Desired Skills:**  
+- React Native
+- TypeScript
+
+🎯 **Goals/Deliverables:**  
+We'll have to iterate around which tabs works best, a first execution of this would consider:
+- Home tab: List of all channels except discussions and DMs
+- Discussions tab: Only discussions
+- DMs: Only DMs
+- More: Display everything that's on Settings currently
+- Search: We would move search to the tabs, so it follows new pattern of iOS 26
+
+Currently the workspace selection is done by tapping the workspace name on the main screen.
+We should move it to the sidebar.
+
+⏳ **Project Duration:**
+175 hours
+
+📈 **Difficulty:**  
+Medium
+
+-----
+
+### 💡 Custom mentions
+
+👥 **Mentor(s):** Diego Mello
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+
+💬 **Description:**  
+Allow the creation new mentions targetting a specific set of users on admin panel.
+This is very useful when you need to notify a group of people, but don't want to use `@all` or `@here`.
+While this can be technically achieved using teams feature, it's a little bit too much work for a simple communication win.
+
+A room with engineers could have custom mentions for `@backend`, `@frontend`, `@sre`, `@mobile`, `@em`, etc.
+A group of people that was involved on a project could have `@project-abc`.
+
+💪 **Desired Skills:**  
+- React
+- React Native
+- TypeScript
+
+🎯 **Goals/Deliverables:**  
+- Allow custom mentions on web
+- Allow custom mentions on mobile
+- Display a list of people that belonged to the team when the message was sent
+- Add `Custom mentions` to admin panel
 
 ⏳ **Project Duration:**
 175 hours
