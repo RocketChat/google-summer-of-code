@@ -254,7 +254,7 @@ Medium
 
 ### 💡 Mobile Apps: Notifications Improvements
 
-👥 **Mentor(s):** Diego Mello, Rohit Bansal  
+👥 **Mentor(s):** Rohit Bansal    
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
 💬 **Description:**  
@@ -286,7 +286,7 @@ Medium
 
 ### 💡 Mobile Apps: Use bottom tabs navigation
 
-👥 **Mentor(s):** Diego Mello
+👥 **Mentor(s):** Diego Mello  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
 💬 **Description:**  
@@ -317,7 +317,7 @@ Medium
 
 ### 💡 Custom mentions
 
-👥 **Mentor(s):** Diego Mello
+👥 **Mentor(s):** Diego Mello  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
 💬 **Description:**  
