@@ -95,12 +95,12 @@ The tool must have built-in internal knowledge of the architecture of a Rocket.C
 The tool should also be able to generate and maintain tests for the created App.
 
 💪 **Desired Skills:**  
-- Experience with modern code generation cli (Claude Code, OpenCode, OpenAI Codex, gemini-cli and so on )  
-— A passion for creating tooling for AI coding  
-— Familiarity with Rocket.Chat App creation and Apps Engine operation
-- TypeScript development 
-— gemini-cli architecture and extension mechanisms 
-— Prompt engineering
+* Experience with modern code generation cli (Claude Code, OpenCode, OpenAI Codex, `gemini-cli` and so on ) 
+* A passion for creating tooling for AI coding  
+* Familiarity with Rocket.Chat App creation and Apps Engine operation
+* TypeScript development 
+* `gemini-cli` architecture and extension mechanisms 
+* Prompt engineering
 
 🎯 **Goals/Deliverables:**  
 A very easy to use and understand CLI tool that anyone can use to create, test, and deploy their own custom Rocket.Chat apps. 
@@ -156,10 +156,13 @@ The project’s code will be an extension or fork of `gemini-cli`,  with the con
 Ideally, the mechanics should be implemented in a re-usable manner, extending its utility to other large codebases and the contributor can contribute it back upstream to `gemini-cli`. 
 
 💪 **Desired Skills:**   
-— A passion for innovations on open source tooling for the age of open source AI  (vibe) coding 
-- Experience with modern code generation cli - Claude Code, OpenCode, OpenAI Codex, gemini-cli and so on
-- Intimate understanding of how  gemini-cli works  — Familiarity with Rocket.Chat’s codebase in our monorepo
-- TypeScript development — Coding with gemini-cli extension mechanisms  — Prompt engineering — Theoretical understanding of agentic systems and LLM inference 
+* A passion for innovations on open source tooling for the age of open source AI  (vibe) coding 
+* Experience with modern code generation cli - Claude Code, OpenCode, OpenAI Codex, gemini-cli and so on
+* Intimate understanding of how  gemini-cli works  — Familiarity with Rocket.Chat’s codebase in our monorepo
+* TypeScript development 
+* Coding with `gemini-cli` extension mechanisms 
+* Prompt engineering 
+* Theoretical understanding of agentic systems and LLM inference 
 
 🎯 **Goals/Deliverables:**   
 Tooling that enables open source AI developers to work with huge production code repositories, within industry provider’s free-tier limits; opening access of these great tools to an exponentially larger population of users.    
