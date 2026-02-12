@@ -231,6 +231,42 @@ Medium
 
 ---
 
+ ### 💡 Minimal MCP Server Generator for Rocket.Chat
+
+👥 **Mentor(s):** Jeffery Yu  
+📢 **Communication Channel:** Rocket.Chat Contributors Workspace   
+
+💬 **Description:**
+
+This is an extension/customization of open source `gemini-cli` that will generate a production-ready MCP server, together with tests,  for any subset of Rocket.Chat APIs specified. 
+
+MCP is high level alternative protocol used for LLM function calling (tools calling) that Anthropic had trained their LLM to excel in.  MCP has been adopted on a viral scale by many developers transitioning to AI Code generation.  Most recently, all major frontier models providers/platformers have caught up and supported MCP;  and Anthropic has donated the protocol to the Linux Foundation.    
+
+Today, one major problem when adopting MCP is that it is originally designed to reward the inference platform provider.  Almost all MCP servers are written to support a large set of services APIs that covers the functionality of the specific service provider (usually tightly coupled with an associated platform provider).  And anyone adopting multiple MCP servers will experience “context bloat”  where most of their token budget and context-content is consumed by static MCP requirements; associated with API calls that they will never need or use within their project.  This situation is exacerbated  in agentic code generator workflows where every agent is burning token in loops unnecessarily while supporting API/tools that the project will never need.
+
+Rocket.Chat will solve this problem with this Minimal MCP Server Generator project.  With this tool, Rocket.Chat developers can generate production grade minimal MCP server for their project, covering only the subset of API required by the project.   This will significantly reduce the cost of all Rocket.Chat code generation projects involving MCP.  Since Rocket.Chat is open source, this tool can make many projects possible by fitting into the “free tier” of the platform providers.  
+
+Candidate is encouraged to solve this problem more generically while fulfilling all Rocket.Chat’s requirements.  Ideally, the tool can benefit all similar upstream projects/platforms, open source or otherwise. 
+
+💪 **Desired Skills:**  
+* A passion for creating innovative tooling for AI (Vibe 2.0) coding 
+* Experience with modern code generation cli : Claude Code, OpenCode, OpenAI Codex, gemini-cli and so on
+* Experience with creation  of (or working with) MCP servers
+* TypeScript development 
+* gemini-cli architecture and extension mechanisms 
+* Prompt engineering
+
+🎯 **Goals/Deliverables:**   
+A tool to generate a minimal-cover MCP server for anyone developing with Rocket.Chat who also needed MCP support.  This can greatly reduce the cost, while increasing the stability and reliability of agentic code generation process.
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
 ### 💡 AI Generated Regression Test Suite for Desktop (Electron) App
 
 👥 **Mentor(s):**  Harmeet Kour, Jessica Souza  
