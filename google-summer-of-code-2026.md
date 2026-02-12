@@ -221,23 +221,20 @@ This new format not only standardizes API definitions, but also enables automati
 In addition to the typings migration, the project also includes architectural adaptations to support like: A clear separation between route definitions and their corresponding actions/handlers
 
 💪 **Desired Skills:**  
-- Typescript
+* Typescript
 
-⏳ **Project Duration:**  
-350 hours  
+⏳ **Project Duration:**  350 hours  
 
-📈 **Difficulty:**  
-Medium  
+📈 **Difficulty:**  Medium  
 
 ---
 
- ### 💡 Minimal MCP Server Generator for Rocket.Chat
+### 💡 Minimal MCP Server Generator for Rocket.Chat
 
 👥 **Mentor(s):** Jeffery Yu  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace   
 
 💬 **Description:**
-
 This is an extension/customization of open source `gemini-cli` that will generate a production-ready MCP server, together with tests,  for any subset of Rocket.Chat APIs specified. 
 
 MCP is high level alternative protocol used for LLM function calling (tools calling) that Anthropic had trained their LLM to excel in.  MCP has been adopted on a viral scale by many developers transitioning to AI Code generation.  Most recently, all major frontier models providers/platformers have caught up and supported MCP;  and Anthropic has donated the protocol to the Linux Foundation.    
