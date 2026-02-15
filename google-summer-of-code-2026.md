@@ -229,9 +229,40 @@ In addition to the typings migration, the project also includes architectural ad
 
 ---
 
+### 💡 OpenClaw Integration for Rocket.Chat
+
+👥 Mentor(s): Jeffrey Yu
+
+📢 Communication Channel: ** Rocket.Chat Contributors Workspace
+
+💬 Description:  
+[OpenClaw](https://openclaw.ai/) (previously named **Clawdbot**) is a fast-growing open-source autonomous AI agent. Unlike traditional prompt-response chatbots, OpenClaw focuses on proactive, autonomous task execution — such as managing workflows, triaging inboxes, orchestrating tools, or generating code — by combining LLM reasoning with real tool integrations. This agent-driven paradigm has led to strong adoption in the open-source community.
+
+The essential interaction layer of OpenClaw allows users to control and supervise the agent conversationally through messaging apps. Currently, OpenClaw [supports](https://docs.openclaw.ai/channels/telegram) messaging platforms like Telegram and WhatsApp, while there is a surging [community demand](https://github.com/openclaw/openclaw/issues/7520) for Rocket.Chat integration.
+
+This project aims to implement Rocket.Chat integration for OpenClaw. This tool will enable users to interact with autonomous AI agents directly from Rocket.Chat DMs and channels.
+
+🛠️ Desired Skills:
+
+- TypeScript / Node.js
+- Experience building webhook-based integrations and handling realtime messaging events
+- Familiarity with OpenClaw and Rocket.Chat Apps / APIs
+- Understanding of authentication and secure token handling
+
+🎯 Goals:
+
+- Support direct messages and slash-command channel conversations for OpenClaw
+- Enable secure configuration and authentication flow with role-based access control
+
+⏳ Project Duration: 175 hours
+
+📊 Difficulty: Medium
+
+---
+
 ### 💡 Minimal MCP Server Generator for Rocket.Chat
 
-👥 **Mentor(s):** Jeffery Yu  
+👥 **Mentor(s):** TBD  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace   
 
 💬 **Description:**
