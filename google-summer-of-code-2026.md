@@ -8,7 +8,7 @@ Rocket.Chat applied as a mentoring open source organization for Google Summer of
 
 Rocket.Chat is always proud to be involved with the Google Summer of Code program, helping to usher in a new generation of global open source contributors and enthusiasts.
 
-Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) and introduce yourself to the rapidly growing community of 640+ right now! 
+Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) and introduce yourself to the rapidly growing community of 800+ right now! 
 
 For timeline, see [Official Google Summer of Code 2026](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.
 
@@ -24,7 +24,7 @@ If you intend to use AI to assist you in the creation of your project proposal, 
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2026 : [https://open.rocket.chat/channel/opensource2026](https://open.rocket.chat/channel/opensource2026)
 
-Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) today, introduce yourself to the friendly community, and interact with over **638 like-minded** contributors/mentors (as of January 27, 2025) and meet the team in the [12+ team channels](https://open.rocket.chat/channel/opensource2026/team-channels).
+Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) today, introduce yourself to the friendly community, and interact with over **800 like-minded** contributors/mentors (as of February 17, 2026) and meet the team in the [12+ team channels](https://open.rocket.chat/channel/opensource2026/team-channels).
 
 Interested contributors are also encouraged to interact directly with our team and community on the team channels:
 
@@ -39,6 +39,9 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 ---
 
 ### **Latest update**
+
+As of **February 17, 2026**  we have welcomed *800* open source contributors from all over the world, new to Rocket.Chat, to join us for preparation of GSoC 2026 in our [community channel](https://open.rocket.chat/channel/opensource2026).  Over *68* contributors have already signed up for our [open source contribution leaderboard](https://gsoc.rocket.chat) and contributed 14 Merged PRs, 155 Open PRs, and 113 Issues!  Our [2026 ideas list](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2026.md#-project-ideas) is now live and mentors (many returning former GSoC participants) are finalizing details of the projects.  We are meeting everyone at a live tea time every Friday and just announced a live workshop on App creation that community members can participate in.    Thanks to everyone for their interest and ethusiasm on open source.
+
 As of **January 27, 2026**  we have welcomed *638* open source contributors from all over the world, new to Rocket.Chat, to join us for preparation of GSoC 2026 in our [community channel](https://open.rocket.chat/channel/opensource2026).  We have released an initial [2026 ideas list](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2026.md#-project-ideas) and are now talking with mentors (many returning former GSoC participants) on expanding the list with interesting projects   Thanks to everyone for their interest and ethusiasm on open source, and looking forward to meet everyone at our tea time on Fridays.
 
 As of **January 8, 2026**  we have welcomed *470* open source contributors from all over the world, new to Rocket.Chat, to join us for preparation of GSoC 2026 in our [community channel](https://open.rocket.chat/channel/opensource2026).  We want to thank everyone for their interest and ethusiasm on open source, and looking forward to meet everyone at our tea time on Fridays.
