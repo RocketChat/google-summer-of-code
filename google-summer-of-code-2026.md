@@ -4,9 +4,7 @@
 
 ## How to apply
 
-Rocket.Chat applied as a mentoring open source organization for Google Summer of Code 2026.  See [official Google Summer of Code site](https://summerofcode.withgoogle.com/).
-
-Rocket.Chat is always proud to be involved with the Google Summer of Code program, helping to usher in a new generation of global open source contributors and enthusiasts.
+Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2026](https://summerofcode.withgoogle.com/). helping to usher in a new generation of global open source contributors and enthusiasts.
 
 Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) and introduce yourself to the rapidly growing community of 800+ right now! 
 
@@ -265,7 +263,7 @@ This project aims to implement Rocket.Chat integration for OpenClaw. This tool w
 
 ### 💡 Minimal MCP Server Generator for Rocket.Chat
 
-👥 **Mentor(s):** TBD  
+👥 **Mentor(s):**  Hardik Bhatia  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace   
 
 💬 **Description:**
