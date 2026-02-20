@@ -55,7 +55,7 @@ As of **December 7, 2025**  we started to welcome open source contributors from 
 ### 💡 High-Performance Message Parser Rewrite
 
 👥 **Mentor(s):** Matheus Cardoso  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-High-Performance-Message-Parser-Rewrite)
 
 💬 **Description:**
 The current Rocket.Chat [message parser](https://github.com/RocketChat/Rocket.Chat/tree/develop/packages/message-parser) relies on [PeggyJS](https://github.com/peggyjs/peggy) (formerly [PEG.js](https://github.com/pegjs/pegjs)). While effective, the generated parser creates performance bottlenecks and adds significant bundle size overhead.
@@ -86,7 +86,7 @@ Medium
 ### 💡 AI Rocket.Chat Apps Generator 
 
 👥 **Mentor(s):**   Dnouv    
-📢 **Communication Channel:**   Rocket.Chat Contributors Workspace   
+📢 **Communication Channel:**   [team channel](https://open.rocket.chat/channel/idea-AI-Rocket-Chat-Apps-Generator)
 
 💬 **Description:**  
 This is a set of extension (or a fork) of open source `gemini-cli` that will facilitate anyone to create/generate their own  Rocket.Chat app with ease. 
@@ -118,7 +118,7 @@ Medium
 ### 💡 Refactor Virtualized Lists to Use TanStack Virtual
 
 👥 **Mentor(s):** Martin Schoeler, Douglas Fabris  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Refactor-Virtualized-Lists-to-Use-TanStack-Virtual)  
 
 💬 **Description:**  
 Replace existing Virtuoso based virtual lists with a standardized implementation using TanStack Virtual, ensuring consistent behavior and performance.
@@ -142,7 +142,7 @@ Medium
 
 ### 💡 Rocket.Chat Code Analyzer: agentic inference context reduction mechanics 
 👥 **Mentor(s):**   William Liu  
-📢 **Communication Channel:**   Rocket.Chat Contributors Workspace   
+📢 **Communication Channel:**  [team channel](https://open.rocket.chat/channel/idea-Rocket-Chat-Code-Analyzer)   
 
 💬 **Description:**  
 Most production codebases are stored in huge revision control repositories (similar to Rocket.Chat) and  are often monorepos that combines the source code of a large number of related subprojects.  
@@ -180,7 +180,7 @@ Medium
 
 👥 **Mentor(s):** Zishan Ahmad
 
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Embedded-Chat-2026)
 
 💬 **Description:**
 This project improves EmbeddedChat by keeping it compatible with the latest Rocket.Chat releases, adding support for homeserver and federation features, and introducing a pluggable AI adapter layer. It also focuses on better mobile usability, improved accessibility, and welcoming practical improvements to the overall experience.
@@ -212,7 +212,7 @@ This project improves EmbeddedChat by keeping it compatible with the latest Rock
 ### 💡 Replace old Rest Api definitions over the new API
 
 👥 **Mentor(s):**  @diego.sampaio @guilherme.gazzo  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Replace-old-REST-API-definitions-over-the-new-API) 
 
 
 💬 **Description:**  
@@ -234,7 +234,7 @@ In addition to the typings migration, the project also includes architectural ad
 
 👥 Mentor(s): Jeffrey Yu
 
-📢 Communication Channel: ** Rocket.Chat Contributors Workspace
+📢 Communication Channel: ** [team channel](https://open.rocket.chat/channel/idea-OpenClaw-Integration-for-Rocket-Chat)
 
 💬 Description:  
 [OpenClaw](https://openclaw.ai/) (previously named **Clawdbot**) is a fast-growing open-source autonomous AI agent. Unlike traditional prompt-response chatbots, OpenClaw focuses on proactive, autonomous task execution — such as managing workflows, triaging inboxes, orchestrating tools, or generating code — by combining LLM reasoning with real tool integrations. This agent-driven paradigm has led to strong adoption in the open-source community.
@@ -264,7 +264,7 @@ This project aims to implement Rocket.Chat integration for OpenClaw. This tool w
 ### 💡 Minimal MCP Server Generator for Rocket.Chat
 
 👥 **Mentor(s):**  Hardik Bhatia  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace   
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Minimal-MCP-Server-Generator-for-Rocket-Chat)   
 
 💬 **Description:**
 This is an extension/customization of open source `gemini-cli` that will generate a production-ready MCP server, together with tests,  for any subset of Rocket.Chat APIs specified. 
@@ -299,7 +299,7 @@ Medium
 ### 💡 AI Generated Regression Test Suite for Desktop (Electron) App
 
 👥 **Mentor(s):**  Harmeet Kour, Jessica Souza  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-AI-Generated-Regression-Test-Suite-for-Desktop-Electron-App)  
 
 💬 **Description:**   
 In this project, the contributor will build a full coverage test suite for our Desktop (Electron) App with the help of the latest available open source mainstream AI code generation tooling (Gemini cli or OpenCode). Mentors will help in scoping the coverage and enumeration of the essential cases, as well as guiding for best practices in test suite creation, CI integration, and QA in general. 
@@ -323,7 +323,7 @@ Medium
 ### 💡 Mobile Apps: Notifications Improvements
 
 👥 **Mentor(s):** Rohit Bansal    
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Mobile-Apps-Notifications-Improvements) 
 
 💬 **Description:**  
 Improve the overall push notification experience on mobile by enhancing notification content, reducing noise, and ensuring outdated notifications are automatically removed from the system Notification Center.
@@ -355,7 +355,7 @@ Medium
 ### 💡 Mobile Apps: Use bottom tabs navigation
 
 👥 **Mentor(s):** Diego Mello  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Mobile-Apps-Use-bottom-tabs-navigation)
 
 💬 **Description:**  
 We're currently using sidebar navigation on the app, but we have plans to apply bottom tabs navigation to improve UX.
@@ -386,7 +386,7 @@ Medium
 ### 💡 Custom mentions
 
 👥 **Mentor(s):** Diego Mello  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Custom-mentions)  
 
 💬 **Description:**  
 Allow the creation of new mentions targetting a specific set of users.
@@ -418,7 +418,7 @@ Medium
 ### 💡 Activity Hub
 
 👥 **Mentor(s):** Pierre Lehnen, Milton Rucks  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Activity-Hub)  
 
 💬 **Description:**  
 Build a new screen on the rocket.chat client  where users can see a history of their recent notifications and mentions, with options to manually remove items from this history or to clear the whole history at any time. Additionally, show a list of all of the user’s starred messages from every channel.
@@ -441,7 +441,7 @@ Medium
 ### 💡 Desktop App: Multiple Conversation Tabs
 
 👥 **Mentor(s):** Jean Brito, Felipe Scuciatto  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Desktop-App-Multiple-Conversation-Tabs) 
 
 💬 **Description:**  
 Enhance the Rocket.Chat Electron desktop app by introducing multi conversation tab support, allowing users to open and manage multiple channels, DMs, or threads simultaneously.
@@ -467,7 +467,7 @@ Medium
 ### 💡 Agenda Jobs Admin Page
 
 👥 **Mentor(s):**  Kevin Aleman, Douglas Gubert  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Agenda-Jobs-Admin-Page)  
 
 💬 **Description:**  
 Create an admin interface to visualize and manage all Agenda scheduled jobs, including execution history, failures, and administrative actions.
@@ -494,7 +494,7 @@ Medium
 ### 💡 Required Role per Channel for Membership Control
 
 👥 **Mentor(s):** Gabriel Casals  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Required-Role-per-Channel-for-Membership-Control) 
 
 💬 **Description:**  
 Introduce channel level RBAC by allowing admins or channel leads to define a required role for channel membership. Users without the role cannot be added and receive a clear error message.
@@ -520,7 +520,7 @@ Medium
 ### 💡 Personal Calendar
 
 👥 **Mentor(s):** Pierre Lehnen  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Personal-Calendar)
 
 💬 **Description:**  
 Create a new interface that allows users to view and manage their personal Rocket.Chat calendar directly within the product, expanding and integrating the existing backend calendar system.
@@ -545,7 +545,7 @@ Medium
 ### 💡 Rebuilding the Jira Integration App for Rocket.Chat
 
 👥 **Mentor(s):** Felipe Scuciatto  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Rebuilding-the-Jira-Integration-App-for-Rocket-Chat) 
 
 💬 **Description:**  
 Rebuild and modernize the Jira integration app for Rocket.Chat, restoring a critical productivity feature that enables users to work with Jira issues directly from chat.
@@ -570,7 +570,7 @@ Medium
 ### 💡 Apps Engine Test Framework for Apps
 
 👥 **Mentor(s):** Douglas Gubert    
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-App-Engine-Test-Framework-for-Apps)
 
 💬 **Description:**  
 Introduce a test framework for Rocket.Chat Apps Engine to simplify unit and integration testing by providing standardized mocks and scaffolding.
@@ -595,7 +595,7 @@ Medium
 ### 💡 Room Header Buttons Ordering
 
 👥 **Mentor(s):** Milton Rucks, Martin Schoeler  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
+📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Room-Header-Buttons-Ordering)  
 
 💬 **Description:**  
 Implement a configurable layout engine for the room header that allows administrators to explicitly define the display order of action buttons. This enables pinning high priority actions directly in the main toolbar while organizing secondary actions in the overflow (ellipsis) menu based on organizational needs.
