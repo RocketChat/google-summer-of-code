@@ -672,21 +672,25 @@ Medium
 
 ### 💡 Warning and Reporting for Login Attempts from Inactive or Deactivated Users
 
-👥 **Mentor(s):** TBD  
+👥 **Mentor(s):** Abhinav Kumar  
 📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
 
 💬 **Description:**  
-Detect and report authentication attempts from inactive (180+ days) or deactivated user accounts, generating real time alerts and periodic risk reports for administrators.
+Detect and report authentication attempts from inactive (180+ days) or deactivated user accounts. Generate real-time alerts and periodic risk reports for administrators, including notifications for failed login attempts.
 
 💪 **Desired Skills:**  
-- Node.js  
-- Authentication and authorization systems  
-- Security and audit logging  
+- Node.js/TypeScript
+- Authentication & authorization systems
+- Security & audit logging
+- MongoDB & React  
 
 🎯 **Goals/Deliverables:**  
-- Detection of suspicious login attempts  
-- Admin alerts and risk reports  
-- Audit and compliance support  
+- Suspicious Login Detection: Monitor logins from inactive/deactivated accounts
+- Real-time Alerts: DM and email notifications to admins
+- Admin Dashboard: Visual metrics, attempt history, quick actions
+- Audit Logging: Comprehensive security logs for compliance
+- Periodic Reports: Automated weekly/monthly risk reports
+- Failed Attempt Tracking (Bonus): Log failed logins, detect brute force patterns
 
 ⏳ **Project Duration:**  
 175 hours  
