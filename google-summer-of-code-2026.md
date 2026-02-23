@@ -592,6 +592,36 @@ Medium
 
 ---
 
+### 💡 Warning and Reporting for Login Attempts from Inactive or Deactivated Users
+
+👥 **Mentor(s):** Abhinav Kumar  
+📢 **Communication Channel:** [Team Channel](https://open.rocket.chat/channel/idea-Warning-and-Reporting-for-Login-Attempts-from-Inactive-or-Deactivated-Users) 
+
+💬 **Description:**  
+Detect and report authentication attempts from inactive (180+ days) or deactivated user accounts. Generate real-time alerts and periodic risk reports for administrators, including notifications for failed login attempts.
+
+💪 **Desired Skills:**  
+- Node.js/TypeScript
+- Authentication & authorization systems
+- Security & audit logging
+- MongoDB & React  
+
+🎯 **Goals/Deliverables:**  
+- Suspicious Login Detection: Monitor logins from inactive/deactivated accounts
+- Real-time Alerts: DM and email notifications to admins
+- Admin Dashboard: Visual metrics, attempt history, quick actions
+- Audit Logging: Comprehensive security logs for compliance
+- Periodic Reports: Automated weekly/monthly risk reports
+- Failed Attempt Tracking (Bonus): Log failed logins, detect brute force patterns
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+---
+
 ### 💡 Room Header Buttons Ordering
 
 👥 **Mentor(s):** Milton Rucks, Martin Schoeler  
@@ -661,36 +691,6 @@ Allow users to create custom, collapsible folders or sections in the sidebar to 
 - Better workspace navigation  
 - Reduced information overload  
 - User controlled prioritization  
-
-⏳ **Project Duration:**  
-175 hours  
-
-📈 **Difficulty:**  
-Medium  
-
----
-
-### 💡 Warning and Reporting for Login Attempts from Inactive or Deactivated Users
-
-👥 **Mentor(s):** Abhinav Kumar  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-Detect and report authentication attempts from inactive (180+ days) or deactivated user accounts. Generate real-time alerts and periodic risk reports for administrators, including notifications for failed login attempts.
-
-💪 **Desired Skills:**  
-- Node.js/TypeScript
-- Authentication & authorization systems
-- Security & audit logging
-- MongoDB & React  
-
-🎯 **Goals/Deliverables:**  
-- Suspicious Login Detection: Monitor logins from inactive/deactivated accounts
-- Real-time Alerts: DM and email notifications to admins
-- Admin Dashboard: Visual metrics, attempt history, quick actions
-- Audit Logging: Comprehensive security logs for compliance
-- Periodic Reports: Automated weekly/monthly risk reports
-- Failed Attempt Tracking (Bonus): Log failed logins, detect brute force patterns
 
 ⏳ **Project Duration:**  
 175 hours  
