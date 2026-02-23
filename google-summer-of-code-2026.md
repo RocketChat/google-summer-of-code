@@ -686,7 +686,7 @@ Detect and report authentication attempts from inactive (180+ days) or deactivat
 
 🎯 **Goals/Deliverables:**  
 - Suspicious Login Detection: Monitor logins from inactive/deactivated accounts
-- Real-time Alerts: Instant in-app and email notifications to admins
+- Real-time Alerts: DM and email notifications to admins
 - Admin Dashboard: Visual metrics, attempt history, quick actions
 - Audit Logging: Comprehensive security logs for compliance
 - Periodic Reports: Automated weekly/monthly risk reports
