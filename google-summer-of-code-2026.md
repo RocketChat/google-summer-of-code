@@ -107,10 +107,10 @@ The tool should also be able to generate and maintain tests for the created App.
 A very easy to use and understand CLI tool that anyone can use to create, test, and deploy their own custom Rocket.Chat apps. 
 
 ⏳ **Project Duration:**  
-175 hours  
+90 hours  
 
 📈 **Difficulty:**  
-Medium  
+Easy  
 
 ---
 
