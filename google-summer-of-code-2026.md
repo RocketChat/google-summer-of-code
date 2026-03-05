@@ -85,7 +85,7 @@ Medium
 
 ### 💡 AI Rocket.Chat Apps Generator 
 
-👥 **Mentor(s):**   Dnouv    
+👥 **Mentor(s):**   Dnouv, Gabriel Casals    
 📢 **Communication Channel:**   [team channel](https://open.rocket.chat/channel/idea-AI-Rocket-Chat-Apps-Generator)
 
 💬 **Description:**  
@@ -485,32 +485,6 @@ Create an admin interface to visualize and manage all Agenda scheduled jobs, inc
 
 ⏳ **Project Duration:**  
 175 hours  
-
-📈 **Difficulty:**  
-Medium  
-
----
-
-### 💡 Required Role per Channel for Membership Control
-
-👥 **Mentor(s):** Gabriel Casals  
-📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Required-Role-per-Channel-for-Membership-Control) 
-
-💬 **Description:**  
-Introduce channel level RBAC by allowing admins or channel leads to define a required role for channel membership. Users without the role cannot be added and receive a clear error message.
-
-💪 **Desired Skills:**  
-- Node.js  
-- MongoDB  
-- Authorization and RBAC concepts  
-
-🎯 **Goals/Deliverables:**  
-- Channel level required role configuration  
-- Enforcement on membership flows  
-- Audit logs and admin UI  
-
-⏳ **Project Duration:**  
-90 hours  
 
 📈 **Difficulty:**  
 Medium  
