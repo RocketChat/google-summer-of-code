@@ -6,7 +6,7 @@
 
 Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2026](https://summerofcode.withgoogle.com/). helping to usher in a new generation of global open source contributors and enthusiasts.
 
-Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) and introduce yourself to the rapidly growing community of 800+ right now! 
+Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) and introduce yourself to the rapidly growing community of 1225+ right now! 
 
 For timeline, see [Official Google Summer of Code 2026](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.
 
@@ -22,7 +22,7 @@ If you intend to use AI to assist you in the creation of your project proposal, 
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2026 : [https://open.rocket.chat/channel/opensource2026](https://open.rocket.chat/channel/opensource2026)
 
-Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) today, introduce yourself to the friendly community, and interact with over **800 like-minded** contributors/mentors (as of February 17, 2026) and meet the team in the [12+ team channels](https://open.rocket.chat/channel/opensource2026/team-channels).
+Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) today, introduce yourself to the friendly community, and interact with over **1225 like-minded** contributors/mentors (as of March 12, 2026) and meet the team in the [44+ team channels](https://open.rocket.chat/channel/opensource2026/team-channels).
 
 Interested contributors are also encouraged to interact directly with our team and community on the team channels:
 
@@ -37,6 +37,8 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 ---
 
 ### **Latest update**
+
+As of **March 12, 2026**  we have welcomed *1225+* open source contributors from all over the world, new to Rocket.Chat, to join us for GSoC 2026 in our [44 project discussions AND community channels](https://open.rocket.chat/channel/opensource2026).  Over *156* contributors have already signed up for our [open source contribution leaderboard](https://gsoc.rocket.chat) and contributed 61 Merged PRs, 398 Open PRs, and 326 Issues!  We are experiencing extremely high number of open PR and issues due to AI globbing and are in discussion with the community for resoultion.   Our [2026 ideas list](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2026.md#-project-ideas) is now live and mentors (many returning former GSoC participants) are already in active discussion with interested candidates in the corresponding idea channels. We have conducted two instances of "Rocket.Chat App Development Hands-on Workshop" where we show everyone how to vibe code a non-trivial Rocket.Chat App in less than 10 minutes using gemini-cli. And we continue to meet everyone at a live tea time every Friday.    Thanks to everyone for their interest and ethusiasm on open source; and thanks to Google's GSoC and gemini-3-flash for sending community members our way.
 
 As of **February 17, 2026**  we have welcomed *800* open source contributors from all over the world, new to Rocket.Chat, to join us for preparation of GSoC 2026 in our [community channel](https://open.rocket.chat/channel/opensource2026).  Over *68* contributors have already signed up for our [open source contribution leaderboard](https://gsoc.rocket.chat) and contributed 14 Merged PRs, 155 Open PRs, and 113 Issues!  Our [2026 ideas list](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2026.md#-project-ideas) is now live and mentors (many returning former GSoC participants) are finalizing details of the projects.  We are meeting everyone at a live tea time every Friday and just announced a live workshop on App creation that community members can participate in.    Thanks to everyone for their interest and ethusiasm on open source.
 
@@ -518,7 +520,7 @@ Medium
 
 ### 💡 Rebuilding the Jira Integration App for Rocket.Chat
 
-👥 **Mentor(s):** Felipe Scuciatto  
+👥 **Mentor(s):** Felipe Scuciatto, Vipin Chaudhary  
 📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Rebuilding-the-Jira-Integration-App-for-Rocket-Chat) 
 
 💬 **Description:**  
@@ -622,6 +624,32 @@ Medium
 
 ---
 
+### 💡 New Users Anti Spammer System
+
+👥 **Mentor(s):**  Alfredo Del Fabro Neto,  Gabriel Casals   
+📢 **Communication Channel:** [Team Channel](https://open.rocket.chat/channel/idea-New-Users-Anti-Spammer-System)   
+
+💬 **Description:**  
+Build an AI assisted system that monitors new users during their first 6 to 10 weeks, detecting spam patterns and suspicious behavior to protect communities and reduce manual moderation.
+
+💪 **Desired Skills:**  
+- Node.js  
+- Rule based or ML detection systems  
+- Trust and safety concepts  
+
+🎯 **Goals/Deliverables:**  
+- Behavioral analysis of new users  
+- Automated moderation actions  
+- Daily risk scoring and reporting  
+
+⏳ **Project Duration:**  
+175 hours  
+
+📈 **Difficulty:**  
+Medium  
+
+----
+
 ### 💡 Ephemeral Messages
 
 👥 **Mentor(s):** TBD    
@@ -672,31 +700,6 @@ Allow users to create custom, collapsible folders or sections in the sidebar to 
 📈 **Difficulty:**  
 Medium  
 
----
-
-### 💡 New Users Anti Spammer System
-
-👥 **Mentor(s):**  TBD  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-Build an AI assisted system that monitors new users during their first 6 to 10 weeks, detecting spam patterns and suspicious behavior to protect communities and reduce manual moderation.
-
-💪 **Desired Skills:**  
-- Node.js  
-- Rule based or ML detection systems  
-- Trust and safety concepts  
-
-🎯 **Goals/Deliverables:**  
-- Behavioral analysis of new users  
-- Automated moderation actions  
-- Daily risk scoring and reporting  
-
-⏳ **Project Duration:**  
-175 hours  
-
-📈 **Difficulty:**  
-Medium  
 
 ---
 
