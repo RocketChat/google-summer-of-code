@@ -4,7 +4,7 @@
 
 ## How to apply
 
-Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2026](https://summerofcode.withgoogle.com/). helping to usher in a new generation of global open source contributors and enthusiasts.
+Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2026](https://summerofcode.withgoogle.com/). helping to user in a new generation of global open source contributors and enthusiasts.
 
 Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) and introduce yourself to the rapidly growing community of 1225+ right now! 
 
