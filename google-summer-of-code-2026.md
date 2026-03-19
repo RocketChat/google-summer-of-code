@@ -51,8 +51,6 @@ As of **December 7, 2025**  we started to welcome open source contributors from 
 
 ## 📂 Project Ideas   
 
-(This list is going through some rapid changes as we work with mentors to fully flesh out the project ideas.)
-
 
 ### 💡 High-Performance Message Parser Rewrite
 
@@ -265,7 +263,7 @@ This project aims to implement Rocket.Chat integration for OpenClaw. This tool w
 
 ### 💡 Minimal MCP Server Generator for Rocket.Chat
 
-👥 **Mentor(s):**  Hardik Bhatia  
+👥 **Mentor(s):**  Hardik Bhatia, Dhairyashil Shinde   
 📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Minimal-MCP-Server-Generator-for-Rocket-Chat)   
 
 💬 **Description:**
@@ -275,7 +273,9 @@ MCP is high level alternative protocol used for LLM function calling (tools call
 
 Today, one major problem when adopting MCP is that it is originally designed to reward the inference platform provider.  Almost all MCP servers are written to support a large set of services APIs that covers the functionality of the specific service provider (usually tightly coupled with an associated platform provider).  And anyone adopting multiple MCP servers will experience “context bloat”  where most of their token budget and context-content is consumed by static MCP requirements; associated with API calls that they will never need or use within their project.  This situation is exacerbated  in agentic code generator workflows where every agent is burning token in loops unnecessarily while supporting API/tools that the project will never need.
 
-Rocket.Chat will solve this problem with this Minimal MCP Server Generator project.  With this tool, Rocket.Chat developers can generate production grade minimal MCP server for their project, covering only the subset of API required by the project.   This will significantly reduce the cost of all Rocket.Chat code generation projects involving MCP.  Since Rocket.Chat is open source, this tool can make many projects possible by fitting into the “free tier” of the platform providers.  
+Rocket.Chat will solve this problem with this Minimal MCP Server Generator project.  With this tool, Rocket.Chat developers can generate production grade minimal MCP server for their project, covering only the subset of features required by the project.   This will significantly reduce the cost of all Rocket.Chat code generation projects involving MCP.  Since Rocket.Chat is open source, this tool can make many projects possible by fitting into the “free tier” of the platform providers.
+
+It is very important that the tool actual generates MCP servers and not just RC API covers/wrappers, as MCP servers typically addresses much higher (platform) level operations/concerns when compared to raw APIs.  To this end, testing with a variety of typical workflows (say a minimum of 10 different/diverse ones) that an end user may be faced with is absolutely mandatory.
 
 Candidate is encouraged to solve this problem more generically while fulfilling all Rocket.Chat’s requirements.  Ideally, the tool can benefit all similar upstream projects/platforms, open source or otherwise. 
 
@@ -644,87 +644,6 @@ Build an AI assisted system that monitors new users during their first 6 to 10 w
 
 ⏳ **Project Duration:**  
 175 hours  
-
-📈 **Difficulty:**  
-Medium  
-
-----
-
-### 💡 Ephemeral Messages
-
-👥 **Mentor(s):** TBD    
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-A feature enabling users to send self destructing messages that automatically and permanently delete themselves from chat history and the server after a specified duration or once viewed by the recipient.
-
-💪 **Desired Skills:**  
-- Node.js  
-- Message lifecycle management  
-- Security and privacy concepts  
-
-🎯 **Goals/Deliverables:**  
-- Time based and view based message expiration  
-- Improved privacy for sensitive data sharing  
-- Reduced long term chat clutter  
-
-⏳ **Project Duration:**  
-350 hours  
-
-📈 **Difficulty:**  
-Medium  
-
----
-
-### 💡 Sidebar Custom Grouping
-
-👥 **Mentor(s):** TBD  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-Allow users to create custom, collapsible folders or sections in the sidebar to manually organize channels, direct messages, and other conversations.
-
-💪 **Desired Skills:**  
-- React  
-- TypeScript  
-- UX focused feature design  
-
-🎯 **Goals/Deliverables:**  
-- Better workspace navigation  
-- Reduced information overload  
-- User controlled prioritization  
-
-⏳ **Project Duration:**  
-175 hours  
-
-📈 **Difficulty:**  
-Medium  
-
-
----
-
-### 💡 Tamagui-Based Refactor of Fuselage Components: Bundle Size and Performance Analysis
-
-👥 **Mentor(s):** TBD
-
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-
-This project focuses on refactoring the core Fuselage components to be built on top of the Tamagui library.
-Once the Tamagui-based components are implemented, a comparative evaluation will be conducted against the current implementation, taking into account:
-
-- Generated bundle size
-- Runtime performance
-
-From a visual standpoint, the components should not present any discrepancies, preserving the same appearance and behavior as the existing components.
-Additionally, the Tamagui implementation must continue to use the existing design tokens, ensuring visual consistency and alignment with the current design system.
-
-💪 **Desired Skills:**  
-- Typescript
-
-⏳ **Project Duration:**  
-350 hours  
 
 📈 **Difficulty:**  
 Medium  
