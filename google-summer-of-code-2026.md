@@ -51,8 +51,6 @@ As of **December 7, 2025**  we started to welcome open source contributors from 
 
 ## 📂 Project Ideas   
 
-(This list is going through some rapid changes as we work with mentors to fully flesh out the project ideas.)
-
 
 ### 💡 High-Performance Message Parser Rewrite
 
@@ -265,7 +263,7 @@ This project aims to implement Rocket.Chat integration for OpenClaw. This tool w
 
 ### 💡 Minimal MCP Server Generator for Rocket.Chat
 
-👥 **Mentor(s):**  Hardik Bhatia  
+👥 **Mentor(s):**  Hardik Bhatia, Dhairyashil Shinde
 📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Minimal-MCP-Server-Generator-for-Rocket-Chat)   
 
 💬 **Description:**
@@ -650,83 +648,7 @@ Build an AI assisted system that monitors new users during their first 6 to 10 w
 📈 **Difficulty:**  
 Medium  
 
-----
 
-### 💡 Ephemeral Messages
-
-👥 **Mentor(s):** TBD    
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-A feature enabling users to send self destructing messages that automatically and permanently delete themselves from chat history and the server after a specified duration or once viewed by the recipient.
-
-💪 **Desired Skills:**  
-- Node.js  
-- Message lifecycle management  
-- Security and privacy concepts  
-
-🎯 **Goals/Deliverables:**  
-- Time based and view based message expiration  
-- Improved privacy for sensitive data sharing  
-- Reduced long term chat clutter  
-
-⏳ **Project Duration:**  
-350 hours  
-
-📈 **Difficulty:**  
-Medium  
-
----
-
-### 💡 Sidebar Custom Grouping
-
-👥 **Mentor(s):** TBD  
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-Allow users to create custom, collapsible folders or sections in the sidebar to manually organize channels, direct messages, and other conversations.
-
-💪 **Desired Skills:**  
-- React  
-- TypeScript  
-- UX focused feature design  
-
-🎯 **Goals/Deliverables:**  
-- Better workspace navigation  
-- Reduced information overload  
-- User controlled prioritization  
-
-⏳ **Project Duration:**  
-175 hours  
-
-📈 **Difficulty:**  
-Medium  
-
-
----
-
-### 💡 Tamagui-Based Refactor of Fuselage Components: Bundle Size and Performance Analysis
-
-👥 **Mentor(s):** TBD
-
-📢 **Communication Channel:** Rocket.Chat Contributors Workspace  
-
-💬 **Description:**  
-
-This project focuses on refactoring the core Fuselage components to be built on top of the Tamagui library.
-Once the Tamagui-based components are implemented, a comparative evaluation will be conducted against the current implementation, taking into account:
-
-- Generated bundle size
-- Runtime performance
-
-From a visual standpoint, the components should not present any discrepancies, preserving the same appearance and behavior as the existing components.
-Additionally, the Tamagui implementation must continue to use the existing design tokens, ensuring visual consistency and alignment with the current design system.
-
-💪 **Desired Skills:**  
-- Typescript
-
-⏳ **Project Duration:**  
-350 hours  
 
 📈 **Difficulty:**  
 Medium  
