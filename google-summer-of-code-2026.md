@@ -647,8 +647,3 @@ Build an AI assisted system that monitors new users during their first 6 to 10 w
 
 📈 **Difficulty:**  
 Medium  
-
-
-
-📈 **Difficulty:**  
-Medium  
