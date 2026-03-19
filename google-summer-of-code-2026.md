@@ -263,7 +263,7 @@ This project aims to implement Rocket.Chat integration for OpenClaw. This tool w
 
 ### 💡 Minimal MCP Server Generator for Rocket.Chat
 
-👥 **Mentor(s):**  Hardik Bhatia, Dhairyashil Shinde
+👥 **Mentor(s):**  Hardik Bhatia, Dhairyashil Shinde   
 📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Minimal-MCP-Server-Generator-for-Rocket-Chat)   
 
 💬 **Description:**
