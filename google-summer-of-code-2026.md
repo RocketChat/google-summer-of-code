@@ -54,7 +54,7 @@ As of **December 7, 2025**  we started to welcome open source contributors from 
 
 ### 💡 High-Performance Message Parser Rewrite
 
-👥 **Mentor(s):** Matheus Cardoso  
+👥 **Mentor(s):** Ahmed Nasser, Matheus Cardoso  
 📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-High-Performance-Message-Parser-Rewrite)
 
 💬 **Description:**
@@ -178,7 +178,7 @@ Medium
 
 ### 💡 Embedded Chat 2026
 
-👥 **Mentor(s):** Zishan Ahmad
+👥 **Mentor(s):** Zishan Ahmad, Dhairyashil Shinde  
 
 📢 **Communication Channel:** [team channel](https://open.rocket.chat/channel/idea-Embedded-Chat-2026)
 
