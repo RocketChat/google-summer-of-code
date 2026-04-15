@@ -4,9 +4,11 @@
 
 ## How to apply
 
+Application for Google Summer of Code 2026 is now closed. See official [Google Summer of Code site](https://summerofcode.withgoogle.com/).
+
 Rocket.Chat is proud to be a participating mentoring open source organization for [Google Summer of Code 2026](https://summerofcode.withgoogle.com/). helping to usher in a new generation of global open source contributors and enthusiasts.
 
-Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) and introduce yourself to the rapidly growing community of 1225+ right now! 
+Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) and introduce yourself to the rapidly growing community of 1580+ right now! 
 
 For timeline, see [Official Google Summer of Code 2026](https://developers.google.com/open-source/gsoc/timeline) Timeline for more details.
 
@@ -22,7 +24,7 @@ If you intend to use AI to assist you in the creation of your project proposal, 
 
 For general information, please visit our 24 x 7 community channel for Google Summer of Code 2026 : [https://open.rocket.chat/channel/opensource2026](https://open.rocket.chat/channel/opensource2026)
 
-Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) today, introduce yourself to the friendly community, and interact with over **1225 like-minded** contributors/mentors (as of March 12, 2026) and meet the team in the [44+ team channels](https://open.rocket.chat/channel/opensource2026/team-channels).
+Join our [Google Summer of Code 2026 Team ](https://open.rocket.chat/channel/opensource2026) today, introduce yourself to the friendly community, and interact with over **1580 like-minded** contributors/mentors (as of April 12, 2026) and meet the team in the [46+ team channels](https://open.rocket.chat/channel/opensource2026/team-channels).
 
 Interested contributors are also encouraged to interact directly with our team and community on the team channels:
 
@@ -37,6 +39,9 @@ Those who prefers forums can post messages on our GSoC forum channel (although a
 ---
 
 ### **Latest update**
+
+We are excited to announce that we have received **525 proposals** for our GSoC 2026 projects.  This is a pleasant surprise given this year's community size (double that of last year) and AI adoption --> the incoming proposal number is about the same as last year. The distribution of proposals to project is also quite normal/healthy -- those project with high engagement (where the mentor(s) mingled with the community of contributors for months/weeks) showing about 20 proposals each; and those with low or nil engagement getting correspondingly less proposals.  Mentors are now busy reviewing the incoming proposals for selection; this year, every mentor will be video interviewing the contributor of the selected proposal.  Meanwhile, we have just finish hosting our [Rocket.Chat Google Summer of Code Alumni Summit 2026](https://gsoc.rocket.chat/community/conferences/c/GSoC-26-Alumni-Summit/) where GSoC contributors from prior years come back to share their open source journeys and experiences;  the proceedings has is now available as a [YouTube playlist here](https://www.youtube.com/playlist?list=PLee3gqXJQrFW-BJzwviKKyPHcZyfpsZMb).  As of April 12, 2026  we have **186 contributors creating 84 Merged PRs, 478 Open PRs, and 398 Issues** for our projects!  We continued to meet our community members weekly at a casual 
+"tea time" event.
 
 As of **March 12, 2026**  we have welcomed *1225+* open source contributors from all over the world, new to Rocket.Chat, to join us for GSoC 2026 in our [44 project discussions AND community channels](https://open.rocket.chat/channel/opensource2026).  Over *156* contributors have already signed up for our [open source contribution leaderboard](https://gsoc.rocket.chat) and contributed 61 Merged PRs, 398 Open PRs, and 326 Issues!  We are experiencing extremely high number of open PR and issues due to AI globbing and are in discussion with the community for resoultion.   Our [2026 ideas list](https://github.com/RocketChat/google-summer-of-code/blob/main/google-summer-of-code-2026.md#-project-ideas) is now live and mentors (many returning former GSoC participants) are already in active discussion with interested candidates in the corresponding idea channels. We have conducted two instances of "Rocket.Chat App Development Hands-on Workshop" where we show everyone how to vibe code a non-trivial Rocket.Chat App in less than 10 minutes using gemini-cli. And we continue to meet everyone at a live tea time every Friday.    Thanks to everyone for their interest and ethusiasm on open source; and thanks to Google's GSoC and gemini-3-flash for sending community members our way.
 
